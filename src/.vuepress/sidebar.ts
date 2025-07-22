@@ -3,24 +3,139 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     "",
-    "portfolio",
     {
-      text: "Demo",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
+      text: "Proyectos",
+      icon: "fluent-color:briefcase-48",
+      prefix: "proyectos/",
+      children: [
+        "proyecto-1-secundaria.md", // /basic/markdown.md
+        "proyecto-2-secundaria.md",
+        "proyecto-3-secundaria.md",
+        "proyecto-4-secundaria.md",
+        "proyecto-5-secundaria.md", // /basic/vuepress.md
+      ]
     },
     {
-      text: "Docs",
-      icon: "book",
-      prefix: "guide/",
-      children: "structure",
+      text: "Aulas",
+      icon: "fluent-color:layer-diagonal-person-24",
+      prefix: "aulas/",
+      //children: "structure",
+      children: [
+        // 6-primaria
+        {
+          text: "6º Primaria",
+          prefix: "6-primaria/",
+          icon: "fluent-color:people-community-48",
+          collapsible: true,
+            children: [
+              {
+                text: "Bimestre III",
+                prefix: "3-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-5.md",
+                ]
+              },
+            ],
+          },
+        // 1-secundaria
+        {
+          text: "1º Secundaria",
+          prefix: "1-secundaria/",
+          icon: "fluent-color:people-48",
+          collapsible: true,
+            children: [
+              {
+                text: "Bimestre III",
+                prefix: "3-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-5.md",
+                ]
+              },
+            ],
+          },
+          // 2-secundaria
+          {
+            text: "2º Secundaria",
+            prefix: "2-secundaria/",
+            icon: "fluent-color:people-48",
+            collapsible: true,
+            children: [
+              {
+                text: "Bimestre III",
+                prefix: "3-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-5.md",
+                ]
+              },
+            ],
+          },
+          // 3-secundaria
+          {
+            text: "3º Secundaria",
+            prefix: "3-secundaria/",
+            icon: "fluent-color:people-48",
+            collapsible: true,
+            children: [
+              {
+                text: "Bimestre III",
+                prefix: "3-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-5.md",
+                ]
+              },
+            ],
+          },
+          // 4-secundaria
+          {
+            text: "4º Secundaria",
+            prefix: "4-secundaria/",
+            icon: "fluent-color:people-48",
+            collapsible: true,
+            children: [
+              {
+                text: "Bimestre III",
+                prefix: "3-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-5.md",
+                ]
+              },
+            ],
+          },
+          // 5-secundaria
+          {
+            text: "5º Secundaria",
+            prefix: "5-secundaria/",
+            icon: "fluent-color:people-48",
+            collapsible: true,
+            children: [
+              {
+                text: "Bimestre III",
+                prefix: "3-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-5.md",
+                ]
+              },
+            ],
+          }
+      ]
     },
     {
-      text: "Slides",
-      icon: "person-chalkboard",
-      link: "https://ecosystem.vuejs.press/plugins/markdown/revealjs/demo.html",
+      text: "WhatsApp",
+      icon: "logos:whatsapp-icon",
+      link: "https://wa.me/51926574295?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20una%20consulta"
     },
+
   ],
 });

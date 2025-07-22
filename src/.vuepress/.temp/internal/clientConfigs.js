@@ -16,9 +16,8 @@ import * as clientConfig14 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/src/.vuep
 import * as clientConfig15 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/node_modules/@vuepress/plugin-active-header-links/lib/client/config.js'
 import * as clientConfig16 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/node_modules/@vuepress/plugin-catalog/lib/client/config.js'
 import * as clientConfig17 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/node_modules/@vuepress/plugin-nprogress/lib/client/config.js'
-import * as clientConfig18 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/node_modules/@vuepress/plugin-comment/lib/client/config.js'
-import * as clientConfig19 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/node_modules/@vuepress/plugin-redirect/lib/client/config.js'
-import * as clientConfig20 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/src/.vuepress/.temp/theme-hope/config.js'
+import * as clientConfig18 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/node_modules/@vuepress/plugin-redirect/lib/client/config.js'
+import * as clientConfig19 from 'D:/PEPITO-DESCARGAS/DOCS-HOPE/my-docs/src/.vuepress/.temp/theme-hope/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -41,5 +40,4 @@ export const clientConfigs = [
   clientConfig17,
   clientConfig18,
   clientConfig19,
-  clientConfig20,
 ].map((m) => m.default).filter(Boolean)

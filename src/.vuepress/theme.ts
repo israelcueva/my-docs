@@ -4,28 +4,31 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
+  darkmode: "toggle",
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
-
+  focus: false,
+  pure: false,
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Pepito",
+    url: "https://github.com/pepito-mrc",
   },
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
-
+  repo: "israelcueva/my-docs",
+  docsRepo: "israelcueva/my-docs",
+  docsBranch: "main",
   docsDir: "src",
-
   // navbar
   navbar,
 
   // sidebar
   sidebar,
 
-  footer: "Default footer",
+  footer: "",
 
   displayFooter: true,
+  
 
   encrypt: {
     config: {
@@ -37,7 +40,7 @@ export default hopeTheme({
   },
 
   metaLocales: {
-    editLink: "Edit this page on GitHub",
+    editLink: "Editar página en Github",
   },
 
   // These features are enabled for demo, only preserve features you need here
@@ -53,6 +56,7 @@ export default hopeTheme({
     imgSize: true,
     include: true,
     mark: true,
+    alert: true,
     plantuml: true,
     spoiler: true,
     stylize: [
@@ -68,6 +72,22 @@ export default hopeTheme({
         },
       },
     ],
+      highlighter: {
+      type: "shiki", // or "prismjs"
+      lineNumbers: true,
+      highlightLines: true,
+      notationDiff: true,
+      notationFocus: true,
+      notationHighlight: true,
+      notationErrorLevel: true,// shiki themes: github-light, github-dark, dracula, etc.
+      // prism themes: prism-okaidia, prism-tomorrow, etc.
+      // you can also use custom themes by providing a path to a JSON file
+      // or an object with the theme definition
+      // for example: { light: { ... }, dark: { ... } }
+      // see https://vuepress.github.io/plugins/highlighter.html#shiki for more details
+      // shiki or prism options
+      // ...
+    },
     sub: true,
     sup: true,
     tabs: true,
@@ -113,13 +133,14 @@ export default hopeTheme({
   plugins: {
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
-    comment: {
+    /*comment: {
       provider: "Giscus",
       repo: "vuepress-theme-hope/giscus-discussions",
       repoId: "R_kgDOG_Pt2A",
       category: "Announcements",
       categoryId: "DIC_kwDOG_Pt2M4COD69",
-    },
+    },*/
+
 
     components: {
       components: ["Badge", "VPCard"],
@@ -127,7 +148,8 @@ export default hopeTheme({
 
     icon: {
       prefix: "fa6-solid:",
-    },
+       assets: "iconify",
+    }
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {

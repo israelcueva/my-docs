@@ -1,0 +1,11 @@
+<template><div><h2 id="_1bs01-creo-una-ilustracion-basica-usando-formas" tabindex="-1"><a class="header-anchor" href="#_1bs01-creo-una-ilustracion-basica-usando-formas"><span>1BS01: Creo una ilustración básica usando formas</span></a></h2>
+<div class="hint-container note">
+<p class="hint-container-title">Nota</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 11 al 15 de Agosto<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:photoshop" /> Photoshop <br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=30CsBTY5lvk" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>El uso de formas en Photoshop es una herramienta esencial para diseñadores gráficos, ilustradores y creativos visuales. A través de formas predeterminadas —como rectángulos, círculos, líneas o polígonos— o personalizadas con la herramienta Pluma, es posible construir composiciones precisas, limpias y visualmente atractivas. Estas formas pueden combinarse, editarse y transformarse fácilmente, lo que permite crear desde botones para interfaces web hasta ilustraciones complejas. Además, se pueden aplicar estilos, degradados, trazos y máscaras, lo que convierte a las formas en elementos versátiles para cualquier proyecto gráfico.</p>
+<h3 id="tarea" tabindex="-1"><a class="header-anchor" href="#tarea"><span>Tarea</span></a></h3>
+<p>Crea un paisaje usando formas básicas. Toma captura a la pantalla de <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:photoshop" /> Photoshop y adjúntalo a tu folder.</p>
+</div></template>
+
+

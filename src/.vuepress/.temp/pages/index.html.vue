@@ -1,6 +1,85 @@
-<template><div><p>This is an example of a project homepage. You can place your main content here.</p>
-<p>To use this layout, you need to set <code v-pre>home: true</code> in the page front matter.</p>
-<p>For related descriptions of configuration items, please see <a href="https://theme-hope.vuejs.press/guide/layout/home.html" target="_blank" rel="noopener noreferrer">Project HomePage Layout Config</a>.</p>
+<template><div><p>Este curso está diseñado para enseñarles las habilidades y el conocimiento necesarios para utilizar las computadoras de manera efectiva y segura. Aprenderán cómo manejar las aplicaciones de software más comunes, cómo navegar por la web, y maneras protegerse de los peligros que se encuentran en línea.</p>
+<p>No se olviden que deben esforzarse para poder aprovechar todos los conocimientos ofrecidos durante el desarrollo de clases. Todos y cada uno de ustedes guardan habilidades sorprendentes.</p>
+<h2 id="_1-calificaciones" tabindex="-1"><a class="header-anchor" href="#_1-calificaciones"><span>1. Calificaciones</span></a></h2>
+<p>El curso consta de las siguientes categorias para las notas.</p>
+<ul>
+<li><strong>Prácticas:</strong> Será la nota de tu desenvolvimiento en clase, es decir, lo que hagas en ella: Completar práctica, ayudar a tus compañeros, vestirte bien y no tener problemas conductuales.</li>
+<li><strong>Conducta:</strong> Si no incurres en una falta grave tu nota de conducta no bajaría en lo absoluto. 😊</li>
+<li><strong>Tareas:</strong> Se evaluará el aprendizaje del estudiante con proyectos individuales que tendrá que realizar en casa.</li>
+<li><strong>Folder:</strong> El folder se usará para archivar <em>las tareas</em> impresas. Cada semana habrá una tarea y su presentación será en la última semana de cada unidad (Semanas 5 y 9/10).</li>
+<li><strong>Práctica Calificada:</strong> Una práctica que exigirá que el alumno aplique lo aprendido en clase.</li>
+</ul>
+<p>Las notas seran literales, es decir: <code style="color:#4f51ee">AD</code>(Logro destacado), <code style="color:GreenYellow">A</code>(Logro previsto), <code style="color:orange">B</code>(En proceso) y <code style="color:black">C</code>(En inicio)</p>
+<h2 id="_2-calendarizacion" tabindex="-1"><a class="header-anchor" href="#_2-calendarizacion"><span>2. Calendarización</span></a></h2>
+<p>La estructura del curso se rige a la calendarización general.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center"><strong>Bimestre</strong></th>
+<th style="text-align:center"><strong>Inicio</strong></th>
+<th style="text-align:center"><strong>Fin</strong></th>
+<th style="text-align:center"><strong>Vacaciones</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">Primer Bimestre</td>
+<td style="text-align:center">04 de Marzo</td>
+<td style="text-align:center">10 de Mayo</td>
+<td style="text-align:center">12 al 13 de Mayo</td>
+</tr>
+<tr>
+<td style="text-align:center">Segundo Bimestre</td>
+<td style="text-align:center">20 de Mayo</td>
+<td style="text-align:center">26 de Julio</td>
+<td style="text-align:center">28 de Julio al 08 de Agosto</td>
+</tr>
+<tr>
+<td style="text-align:center">Tercer Bimestre</td>
+<td style="text-align:center">12 de Agosto</td>
+<td style="text-align:center">11 de Octubre</td>
+<td style="text-align:center">13 al 17 de Octubre</td>
+</tr>
+<tr>
+<td style="text-align:center">Cuarto Bimestre</td>
+<td style="text-align:center">21 de Octubre</td>
+<td style="text-align:center">20 de Diciembre</td>
+<td style="text-align:center"></td>
+</tr>
+</tbody>
+</table>
+<p>Si quieres ver más detallada la calendarización, puedes hacerlo desde este <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGHt9w65XS_bugyWABRH54FoZMNOJ0Acvhoe3nmQOcqzb4AfY7tkj5B5AaAhKZEr3Ewg0GDPv6UvFr/pubhtml?gid=0&amp;single=true" target="_blank" rel="noopener noreferrer">enlace</a></p>
+<h2 id="_3-folder-de-computacion" tabindex="-1"><a class="header-anchor" href="#_3-folder-de-computacion"><span>3. Folder de Computación</span></a></h2>
+<p>El folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Para ello se debe tomar en cuenta lo siguiente:</p>
+<ul>
+<li>El material puede ser cualquiera (Desde Manila hasta plastificado).</li>
+<li>Se le dará bastante importancia a la limpieza.</li>
+<li>El folder deberá tener en su parte delantera (Sticker) los nombres y apellidos completos del estudiante, además del grado y sección.</li>
+<li>La presentación será en la fecha indicada, si se presenta de manera posterior la nota bajará drasticamente.</li>
+</ul>
+<p>La estructura del folder completo debe ser la siguiente:</p>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code" v-pre=""><code class="language-"><span class="line"><span>Folder</span></span>
+<span class="line"><span>├── Hoja de respeto</span></span>
+<span class="line"><span>├── Carátula de folder</span></span>
+<span class="line"><span>├── Carátula de Bimestre I</span></span>
+<span class="line"><span>│   └── Tareas semanales(S1-S9)</span></span>
+<span class="line"><span>├── Carátula de Bimestre II</span></span>
+<span class="line"><span>│   └── Tareas semanales(S1-S8)</span></span>
+<span class="line"><span>├── Carátula de Bimestre III</span></span>
+<span class="line"><span>│   └── Tareas semanales(S1-S8)</span></span>
+<span class="line"><span>└── Carátula de Bimestre IV</span></span>
+<span class="line"><span>    └── Tareas semanales(S1-S9)</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol>
+<li><strong>Hoja de Respeto:</strong> Primero hoja del folder. Deberá estar sin manchas, ni deterioro por rasgado o doblado.</li>
+<li><strong>Carátula del folder:</strong> Una hoja creada manualmente con los datos del estudiante, grado ,sección, año, curso, colegio y profesor.</li>
+<li><strong>Carátula del Bimestre:</strong> Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página.</li>
+<li><strong>Tareas:</strong> Hojas con la captura o resultado de la tarea dejada. Cada tarea debe ir en una sola hoja, juntamente con el número de semana y el título de la clase que corresponde con dicha tarea.</li>
+</ol>
+<h2 id="_4-no-tengo-computadora" tabindex="-1"><a class="header-anchor" href="#_4-no-tengo-computadora"><span>4. No tengo computadora</span></a></h2>
+<p>Este año se introducirán las fichas de trabajo, las cuales el estudiante deberá elaborar en su totalidad si desea tener una nota aprobatoria, ya que demostrará su aprendizaje logrado.</p>
+<p>La ficha se compartiran de formar digital y queda a elección del estudiantes imprimirlas o en su defecdto, transcribirlas.</p>
+<h2 id="_5-tu-avance-en-en-el-curso" tabindex="-1"><a class="header-anchor" href="#_5-tu-avance-en-en-el-curso"><span>5. Tu avance en en el curso</span></a></h2>
+<p>Para poder revisar tu rendimiento en el curso, puedes ir a la <a href="">App de Inicio</a> del curso.</p>
 </div></template>
 
 
