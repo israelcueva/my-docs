@@ -4,10 +4,10 @@ category:
   - Aula
 tag:
   - Inicio
-  - 1-Secundaria
+  - 5-Secundaria
 date: 2020-01-01
 author: Pepito
-order: 1
+order: 5
 icon: fluent-color:video-48
 ---
 
@@ -30,7 +30,7 @@ Además de desarrollar habilidades técnicas, este proyecto busca fortalecer com
 
 **Objetivo del proyecto:** Investigar y documentar un tema relevante para nuestra comunidad o nuestra identidad, y compartirlo mediante un video documental.
 
-## Fase 1: Selección de equipos :id=documental-1-seleccion-grupos
+## Fase 1: Selección de equipos
 
 En esta etapa se definen los grupos que podrán presentar el video documental final para el día del logro en el curso de Computación.
 
@@ -42,7 +42,7 @@ Los grupos escogidos y temas son:
 - OA01-C: Funerarias
 - OA02-R: X.
 
-## Fase 2: Guión, bocetos e introducción :id=guion-bocetos-introduccion
+## Fase 2: Guión, bocetos e introducción
 
 En esta etapa cada grupo deberá presentar los documentos siguientes
 

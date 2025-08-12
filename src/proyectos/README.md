@@ -1,15 +1,13 @@
 ---
-home: true
-portfolio: true
 title: Proyectos
 icon: fluent-color:briefcase-48
-name: Conan Edogawa
-avatar: https://theme-hope-assets.vuejs.press/hero/conan.png
-
-titles:
-  - Genius young detective
-  - Lan’s childhood sweetheart
-  - The biggest rival of the black organization
-
-footer: false
 ---
+
+### Contenido
+
+
+- ::fluent-color:book-48:: [El Konista](proyecto-1-secundaria)
+- ::fluent-color:design-ideas-16:: [Animatoks](proyecto-2-secundaria)
+- ::fluent-color:globe-24:: [Website 2025](proyecto-3-secundaria)
+- ::fluent-color:game-chat-20:: [Runagames](proyecto-4-secundaria)
+- ::fluent-color:video-48:: [Documentales](proyecto-5-secundaria)

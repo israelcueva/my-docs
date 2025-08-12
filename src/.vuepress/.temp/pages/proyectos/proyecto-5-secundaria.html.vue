@@ -14,7 +14,7 @@
 </ul>
 <p>Además de desarrollar habilidades técnicas, este proyecto busca fortalecer competencias como la comunicación efectiva, la colaboración, el pensamiento crítico y la expresión creativa.</p>
 <p><strong>Objetivo del proyecto:</strong> Investigar y documentar un tema relevante para nuestra comunidad o nuestra identidad, y compartirlo mediante un video documental.</p>
-<h2 id="fase-1-seleccion-de-equipos-id-documental-1-seleccion-grupos" tabindex="-1"><a class="header-anchor" href="#fase-1-seleccion-de-equipos-id-documental-1-seleccion-grupos"><span>Fase 1: Selección de equipos :id=documental-1-seleccion-grupos</span></a></h2>
+<h2 id="fase-1-seleccion-de-equipos" tabindex="-1"><a class="header-anchor" href="#fase-1-seleccion-de-equipos"><span>Fase 1: Selección de equipos</span></a></h2>
 <p>En esta etapa se definen los grupos que podrán presentar el video documental final para el día del logro en el curso de Computación.</p>
 <p>Los grupos escogidos y temas son:</p>
 <ul>
@@ -24,7 +24,7 @@
 <li>OA01-C: Funerarias</li>
 <li>OA02-R: X.</li>
 </ul>
-<h2 id="fase-2-guion-bocetos-e-introduccion-id-guion-bocetos-introduccion" tabindex="-1"><a class="header-anchor" href="#fase-2-guion-bocetos-e-introduccion-id-guion-bocetos-introduccion"><span>Fase 2: Guión, bocetos e introducción :id=guion-bocetos-introduccion</span></a></h2>
+<h2 id="fase-2-guion-bocetos-e-introduccion" tabindex="-1"><a class="header-anchor" href="#fase-2-guion-bocetos-e-introduccion"><span>Fase 2: Guión, bocetos e introducción</span></a></h2>
 <p>En esta etapa cada grupo deberá presentar los documentos siguientes</p>
 <ol>
 <li>

@@ -7,7 +7,7 @@ tag:
   - 1-Secundaria
   - Illustrator
 icon: fluent-color:notebook-32
-order: 1
+order: 5
 ---
 
 ¡Bienvenido! Esta unidad trabajaremos en base a Adobe Illustrator,que es una potente herramienta de diseño gráfico utilizada ampliamente para la creación de ilustraciones vectoriales, logotipos, íconos, tipografías personalizadas y gráficos complejos. A diferencia de los programas basados en píxeles, Illustrator permite trabajar con vectores, lo que garantiza una calidad óptima sin importar el tamaño de la imagen. Este periodo introductorio se enfocará en familiarizar al estudiante con la interfaz del programa, las herramientas básicas de dibujo y edición, así como en el uso de formas, colores y trazados, sentando las bases para proyectos más elaborados en diseño gráfico digital.

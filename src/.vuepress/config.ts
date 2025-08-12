@@ -7,7 +7,7 @@ export default defineUserConfig({
   head: [['link', { rel: 'icon', href: '/my-docs/favicon.ico' }]],
   lang: "es-ES",
   title: "Computación",
-  description: "A docs demo for vuepress-theme-hope",
+  description: "Documentación del curso de Computación",
 
   theme,
 

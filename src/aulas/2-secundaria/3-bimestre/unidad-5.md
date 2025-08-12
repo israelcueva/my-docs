@@ -8,7 +8,7 @@ tag:
   - Illustrator
 author: Pepito
 icon: fluent-color:notebook-32
-order: 1
+order: 5
 ---
 
 ## 1BS01: Creo una ilustración básica en Ilustrator
@@ -20,6 +20,6 @@ Adobe Illustrator es una poderosa herramienta de diseño gráfico vectorial que 
 
 ### Tarea
 
-Describe las partes de Illustrator en una hoja,a djuntalo en el folder y preséntalo en clase.
+Describe las partes de Illustrator en una hoja, adjuntalo en el folder y preséntalo en clase.
 
 
