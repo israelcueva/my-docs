@@ -17,4 +17,5 @@ order: 5
 
 Draw.io, también conocido como diagrams.net, es una herramienta gratuita y en línea que permite crear diagramas de manera sencilla, rápida y visual. Es ideal para representar ideas, procesos, estructuras o flujos de trabajo mediante esquemas como mapas mentales, diagramas de flujo, organigramas, planos y más. Su interfaz intuitiva permite arrastrar y soltar elementos, personalizar formas, colores y conexiones, y guardar el trabajo tanto en la nube (Google Drive, OneDrive, etc.) como en el propio dispositivo.
 
+---
 
