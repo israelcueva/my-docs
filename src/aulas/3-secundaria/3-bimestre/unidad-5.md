@@ -15,35 +15,32 @@ order: 1
 > [!note]
 > ::fluent-color:calendar-48:: **Fecha:** 11 al 15 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=yn8nQjocX2g)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
 
-El uso de formas en Photoshop es una herramienta esencial para diseñadores gráficos, ilustradores y creativos visuales. A través de formas predeterminadas —como rectángulos, círculos, líneas o polígonos— o personalizadas con la herramienta Pluma, es posible construir composiciones precisas, limpias y visualmente atractivas. Estas formas pueden combinarse, editarse y transformarse fácilmente, lo que permite crear desde botones para interfaces web hasta ilustraciones complejas. Además, se pueden aplicar estilos, degradados, trazos y máscaras, lo que convierte a las formas en elementos versátiles para cualquier proyecto gráfico.
-
-## Variables en JavaScript
-
 Las variables son contenedores que almacenan datos. En JavaScript, puedes crear variables para guardar diferentes tipos de información como números, texto, objetos, y más.
 
-### Declaración de Variables
+**Declaración de Variables**
 
 JavaScript ofrece tres formas principales de declarar variables:
 
-#### 1. `var` (Forma tradicional)
+`var`
+
 ```javascript
 var nombre = "Juan";
 var edad = 25;
 ```
 
-#### 2. `let` (Recomendado - ES6+)
+`let`
 ```javascript
 let nombre = "María";
 let edad = 30;
 ```
 
-#### 3. `const` (Para valores constantes)
+`const`
 ```javascript
 const PI = 3.14159;
 const nombre = "Pedro";
 ```
 
-### Diferencias entre var, let y const
+**Diferencias entre var, let y const**
 
 | Característica | var | let | const |
 |----------------|-----|-----|-------|
@@ -52,11 +49,11 @@ const nombre = "Pedro";
 | Reasignación | Permitida | Permitida | No permitida |
 | Hoisting | Sí | Sí (pero TDZ) | Sí (pero TDZ) |
 
-### Tipos de Datos
+**Tipos de Datos**
 
 JavaScript es un lenguaje de tipado dinámico, lo que significa que no necesitas especificar el tipo de dato.
 
-#### Tipos Primitivos
+**Tipos Primitivos**
 
 **String (Cadena de texto)**
 ```javascript
@@ -66,7 +63,7 @@ let template = `Mi nombre es ${nombre}`;
 ```
 
 **Number (Número)**
-```javascript title="hOLA.JS" ::icon =16 /red::
+```javascript
 let entero = 42;
 let decimal = 3.14;
 let negativo = -10;
@@ -99,9 +96,29 @@ let simbolo = Symbol('descripcion');
 let numeroGrande = 123456789012345678901234567890n;
 ```
 
+### Ejemplo
+
+```html title="index.html"
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+    <script>
+        let name = "Pepito"; // [!code focus]
+        let lastName = "Periquito"; // [!code focus]
+        console.log(`Hola mi nombre es ${name} ${lastName}`); // [!code focus]
+    </script>
+</body>
+</html>
+```
+
 
 ### Tarea
 
-Crea un paisaje usando formas básicas. Toma captura a la pantalla de ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:photoshop:: Photoshop y adjúntalo a tu folder.
-
+Declara  las variables nombre, apellidos, edad y sexo. Además, crea un template que muestra, mediante la consola, el mensaje: <code>Hola, soy Pepito Periquito, tengo 52 años y mi sexo es Masculino</code>
 

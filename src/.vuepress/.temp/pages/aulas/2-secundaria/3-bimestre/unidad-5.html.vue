@@ -5,7 +5,7 @@
 </div>
 <p>Adobe Illustrator es una poderosa herramienta de diseño gráfico vectorial que permite crear ilustraciones precisas y escalables, ideales para logotipos, gráficos, íconos y todo tipo de contenido visual. Su interfaz intuitiva y sus múltiples funciones, como las herramientas de forma, pluma y texto, lo convierten en un programa esencial tanto para diseñadores profesionales como para principiantes. Con Illustrator, es posible transformar ideas creativas en imágenes impactantes que pueden adaptarse a cualquier tamaño sin perder calidad.</p>
 <h3 id="tarea" tabindex="-1"><a class="header-anchor" href="#tarea"><span>Tarea</span></a></h3>
-<p>Describe las partes de Illustrator en una hoja, adjuntalo en el folder y preséntalo en clase.</p>
+<p>Completa la ilustración iniciada en Illustrator, imprime y adjúntalo en tu folder.</p>
 </div></template>
 
 

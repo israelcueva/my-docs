@@ -20,6 +20,6 @@ Adobe Illustrator es una poderosa herramienta de diseño gráfico vectorial que 
 
 ### Tarea
 
-Describe las partes de Illustrator en una hoja, adjuntalo en el folder y preséntalo en clase.
+Completa la ilustración iniciada en Illustrator, imprime y adjúntalo en tu folder.
 
 
