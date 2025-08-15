@@ -27,6 +27,14 @@ export default navbar([
         "5-secundaria/"
      ],
   },
+    {
+    text: "Concursos",
+    icon: "fluent-color:trophy-48",
+    prefix: "/concursos/",
+    children: [
+        "historieta-osinergmin",
+     ],
+  },
   {
     text: "WhatsApp",
     icon: "logos:whatsapp-icon",

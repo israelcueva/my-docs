@@ -131,6 +131,14 @@ export default sidebar({
           }
       ]
     },
+     {
+      text: "Concursos",
+      icon: "fluent-color:trophy-48",
+      prefix: "concursos/",
+      children: [
+        "historieta-osinergmin.md"
+      ]
+    },
     {
       text: "WhatsApp",
       icon: "logos:whatsapp-icon",
