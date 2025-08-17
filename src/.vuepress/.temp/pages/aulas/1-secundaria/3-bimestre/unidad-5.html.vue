@@ -1,12 +1,24 @@
 <template><div><p>¡Bienvenido! Esta unidad trabajaremos en base a Adobe Illustrator,que es una potente herramienta de diseño gráfico utilizada ampliamente para la creación de ilustraciones vectoriales, logotipos, íconos, tipografías personalizadas y gráficos complejos. A diferencia de los programas basados en píxeles, Illustrator permite trabajar con vectores, lo que garantiza una calidad óptima sin importar el tamaño de la imagen. Este periodo introductorio se enfocará en familiarizar al estudiante con la interfaz del programa, las herramientas básicas de dibujo y edición, así como en el uso de formas, colores y trazados, sentando las bases para proyectos más elaborados en diseño gráfico digital.</p>
-<h2 id="_1bs01-creo-una-ilustracion-basica-usando-formas" tabindex="-1"><a class="header-anchor" href="#_1bs01-creo-una-ilustracion-basica-usando-formas"><span>1BS01: Creo una ilustración básica usando formas</span></a></h2>
-<div class="hint-container note">
-<p class="hint-container-title">Nota</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 11 al 15 de Agosto<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=30CsBTY5lvk" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+<h2 id="_3bs01-creo-una-ilustracion-basica-usando-formas" tabindex="-1"><a class="header-anchor" href="#_3bs01-creo-una-ilustracion-basica-usando-formas"><span>3BS01: Creo una ilustración básica usando formas</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 11 al 15 de Agosto<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=30CsBTY5lvk" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
 <p>El uso de formas en Adobe Illustrator es fundamental para la creación de ilustraciones, logotipos y diseños gráficos de todo tipo. A través de herramientas como el rectángulo, el círculo, el polígono y la estrella, los diseñadores pueden construir composiciones precisas y visualmente atractivas, que luego pueden ser modificadas y combinadas gracias a la versatilidad del programa. Estas formas básicas no solo sirven como punto de partida para diseños complejos, sino que también permiten experimentar con colores, contornos y efectos, convirtiéndose en piezas clave del proceso creativo en Illustrator.</p>
-<h3 id="tarea" tabindex="-1"><a class="header-anchor" href="#tarea"><span>Tarea</span></a></h3>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Crea un paisaje usando formas básicas. Imprime tu trabajo y adjúntalo el tu folder.</p>
+</div>
+<h2 id="_3bs02-uso-la-herramienta-pluma-para-crear-formas-personalizadas" tabindex="-1"><a class="header-anchor" href="#_3bs02-uso-la-herramienta-pluma-para-crear-formas-personalizadas"><span>3BS02: Uso la herramienta Pluma para crear formas personalizadas</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 18 al 22 de Agosto<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=hIZo8SYhMto" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>La herramienta Pluma es una herramienta muy poderosa y versátil que se usa en programas como Illustrator o Photoshop para dibujar formas con gran precisión. Imagina que estás creando una figura conectando puntos invisibles en la pantalla: cada clic marca un «punto de ancla» y la línea que une esos puntos forma tu dibujo. Si haces clic y arrastras, puedes controlar curvas suaves y elegantes, gracias a unas líneas de dirección llamadas &quot;curvas Bézier&quot;. Esto significa que puedes dibujar desde líneas rectas hasta curvas complejas para lograr formas perfectamente diseñadas.</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Mira esta <a href="https://media.gettyimages.com/id/1370750230/es/vector/elementos-de-forma-l%C3%ADquida-forma-de-mancha-abstracta.jpg?s=612x612&amp;w=gi&amp;k=20&amp;c=q1FpUB7scV48qr9athbr1fUbJ3TzOJz8yU-0i_sMUzU=" target="_blank" rel="noopener noreferrer">imagen</a> e intenta hacer, al menos, la mitad de ellas. Imprime y adjunta tu proyecto en el folder de Computación.</p>
+</div>
 </div></template>
 
 

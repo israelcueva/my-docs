@@ -1,11 +1,24 @@
-<template><div><h2 id="_1bs01-creo-una-ilustracion-basica-usando-formas" tabindex="-1"><a class="header-anchor" href="#_1bs01-creo-una-ilustracion-basica-usando-formas"><span>1BS01: Creo una ilustración básica usando formas</span></a></h2>
-<div class="hint-container note">
-<p class="hint-container-title">Nota</p>
+<template><div><p><VPIcon icon="devicon:illustrator" /> Adobe Illustrator es una herramienta poderosa para el diseño de personajes, ya que permite trabajar con gráficos vectoriales que se pueden escalar sin perder calidad. Gracias a sus herramientas de formas, pluma y pinceles, los creadores pueden dar vida a personajes originales con trazos definidos, colores vibrantes y detalles precisos. Su principal ventaja frente a otros programas es la posibilidad de crear ilustraciones limpias y editables, ideales tanto para animación como para impresión o proyectos digitales. Al usar Illustrator en la creación de personajes, los diseñadores pueden explorar desde bocetos simples hasta figuras completas, logrando un estilo profesional y adaptable a diferentes medios.</p>
+<h2 id="_3bs01-creo-una-ilustracion-basica-usando-formas" tabindex="-1"><a class="header-anchor" href="#_3bs01-creo-una-ilustracion-basica-usando-formas"><span>3BS01: Creo una ilustración básica usando formas</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 11 al 15 de Agosto<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:illustrator" /> Illustrator <br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=30CsBTY5lvk" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a> / <a href="https://bezier.method.ac/" target="_blank" rel="noopener noreferrer">The beziér game</a></p>
 </div>
 <p>El uso de formas en Ilustrator es una herramienta esencial para diseñadores gráficos, ilustradores y creativos visuales. A través de formas predeterminadas —como rectángulos, círculos, líneas o polígonos— o personalizadas con la herramienta Pluma, es posible construir composiciones precisas, limpias y visualmente atractivas. Estas formas pueden combinarse, editarse y transformarse fácilmente, lo que permite crear desde botones para interfaces web hasta ilustraciones complejas. Además, se pueden aplicar estilos, degradados, trazos y máscaras, lo que convierte a las formas en elementos versátiles para cualquier proyecto gráfico.</p>
-<h3 id="tarea" tabindex="-1"><a class="header-anchor" href="#tarea"><span>Tarea</span></a></h3>
-<p>Recrea las formas del videojuego usando la herramienta Pluma. Haz que todos alcancen en una hoja.</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Recrea las formas del juego usando la herramienta Pluma. Haz que todos alcancen en una hoja.</p>
+</div>
+<h2 id="_3bs02-hago-uso-de-la-herramienta-pluma-para-crear-mi-personaje" tabindex="-1"><a class="header-anchor" href="#_3bs02-hago-uso-de-la-herramienta-pluma-para-crear-mi-personaje"><span>3BS02: Hago uso de la herramienta Pluma para crear mi personaje</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 11 al 15 de Agosto<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:illustrator" /> Illustrator <br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=hIZo8SYhMto" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a> / <a href="https://bezier.method.ac/" target="_blank" rel="noopener noreferrer">The beziér game</a></p>
+</div>
+<p>La herramienta Pluma en Adobe Illustrator es una de las más importantes para la creación de personajes, ya que permite dibujar trazos precisos y personalizar las formas con total libertad. A diferencia de las herramientas de dibujo automático, la Pluma funciona a través de anclas y curvas que el diseñador coloca para definir contornos, líneas y siluetas. Con ella se pueden construir desde las formas básicas de un personaje hasta detalles más complejos como expresiones faciales, ropa o accesorios. Dominar la Pluma es clave para lograr ilustraciones limpias y profesionales, porque ofrece un control exacto sobre cada curva y permite editar fácilmente los puntos para perfeccionar el diseño.</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Mira el videotutorial y realiza las formas allí presentadas.</p>
+</div>
 </div></template>
 
 
