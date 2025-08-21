@@ -19,6 +19,16 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Mira esta <a href="https://media.gettyimages.com/id/1370750230/es/vector/elementos-de-forma-l%C3%ADquida-forma-de-mancha-abstracta.jpg?s=612x612&amp;w=gi&amp;k=20&amp;c=q1FpUB7scV48qr9athbr1fUbJ3TzOJz8yU-0i_sMUzU=" target="_blank" rel="noopener noreferrer">imagen</a> e intenta hacer, al menos, la mitad de ellas. Imprime y adjunta tu proyecto en el folder de Computación.</p>
 </div>
+<h2 id="_3bs03-creo-sombras-y-luces-internas-usando-mascaras" tabindex="-1"><a class="header-anchor" href="#_3bs03-creo-sombras-y-luces-internas-usando-mascaras"><span>3BS03: Creo sombras y luces internas usando máscaras</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 25 al 29 de Agosto<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=YRvJIiAitp8" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>En Adobe Illustrator, la opción Dibujar dentro es una herramienta muy práctica que permite crear ilustraciones y añadir detalles directamente dentro de una forma u objeto sin que el contenido se desborde. Al activarla, cualquier trazo, forma o imagen que dibujes quedará recortado automáticamente dentro de los límites del objeto seleccionado, funcionando como una especie de máscara. Esto facilita el diseño de composiciones más limpias y precisas, ya que se pueden añadir texturas, patrones, imágenes o decoraciones sin necesidad de ajustar manualmente los bordes. Es especialmente útil para trabajar en logotipos, ilustraciones complejas o diseños donde se requiere integrar varios elementos de forma ordenada.</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Mira esta <a href="https://cdn4.vectorstock.com/i/1000x1000/81/33/mango-fruit-kawaii-character-vector-24898133.jpg" target="_blank" rel="noopener noreferrer">imagen</a> y replícala usando Illustrator. Imprime y adjunta el trabajo en tu folder.</p>
+</div>
 </div></template>
 
 

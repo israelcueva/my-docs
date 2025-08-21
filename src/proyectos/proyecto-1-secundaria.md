@@ -5,14 +5,10 @@ category:
 tag:
   - Inicio
   - 1-Secundaria
-date: 2020-01-01
 author: Pepito
 order: 1
 icon: fluent-color:book-48
 ---
-
-> [!important]
-> This is important text
 
 Konista es un proyecto educativo que busca fomentar la creatividad, el pensamiento computacional y el espíritu emprendedor en los estudiantes de primer año de secundaria mediante la escritura de historias originales. Este proyecto forma parte de una iniciativa más amplia que combina la tecnología y el emprendimiento, permitiendo que las narraciones evolucionen a otros formatos como la animación, el desarrollo web y la inteligencia artificial en años posteriores. Konista no solo es una recopilación de cuentos, sino también un espacio para la innovación, el aprendizaje digital y la aplicación de nuevas herramientas tecnológicas en el ámbito narrativo.
 
@@ -54,24 +50,137 @@ La desprecia por su vida decadente y la considera una representación del decliv
 - **Debe tener una poderosa enseñanza**: Las historias deben dejar un mensaje profundo para el lector y dejar una enseñanza.
 - **Cada historia debe tener una o más ilustraciones**: Las directrices para la creación del dibujo las podrás observar en el apartado diseño de este documento.
 
-## 3. Convocatorias abiertas
+## 3. Pasos
 
-- Diseño del cuy - Con características únicas y de color negro.
-- Diseño del logo del proyecto - Usando letras geométricas inspirados en la cultura Nazca, Paracas o Chimú.
-- Paleta de colores - También, inspirado en las mismas culturas y el color de Kon.
+### 3.1 IA para encontrar inspiración
 
-## 4. Diseño
+Puedes usar la IA para que te muestre personajes, sucesos, eventos o cualquier cosa de la cultura que escojas para poder isnpirarte.
 
-### Portada
+#### Ejemplo:
 
-En desarrollo
+**Prompt**
 
-### Estilo de dibujos
+```
+Mencioname datos, personaje, leyendas o algo importante sobre la cultura Chachapoyas
+```
 
-En desarollo
+```
+ChatGPT dijo:
 
-### Estilos de pintura
+¡Perfecto! 🚀 Te comparto varios datos clave sobre la cultura Chachapoyas, también llamados “los guerreros de las nubes”:
 
-En desarrollo
+📍 Datos generales
 
+Ubicación: Región amazónica del actual Perú, principalmente en la zona del río Utcubamba, en la actual región Amazonas.
 
+Época: Se desarrollaron aproximadamente entre los 800 d.C. y 1470 d.C., hasta la conquista inca y luego la española.
+
+Nombre: Los incas los llamaron Chachapoyas (probablemente “pueblo de las nubes”).
+
+🏛️ Arquitectura y asentamientos
+
+Kuélap: Ciudadela amurallada construida en la cima de una montaña (más antigua y más grande que Machu Picchu en volumen).
+
+Mausoleos de Revash: Tumbas colectivas talladas en acantilados, con forma de casitas pintadas de rojo y blanco.
+
+Sarcófagos de Karajía: Estatuas funerarias de más de 2 metros, hechas de arcilla, piedra y caña, colocadas en acantilados imposibles de escalar.
+
+🧑‍🤝‍🧑 Sociedad y cultura
+
+Eran excelentes tejedores y constructores.
+
+Se organizaban en curacazgos (señoríos locales).
+
+Fueron conquistados por los incas en tiempos de Túpac Yupanqui y posteriormente resistieron la dominación.
+
+Según crónicas, eran gente de piel clara y cabello castaño o rubio, algo inusual en la región, lo que llamó la atención de los españoles.
+
+🪶 Religión y ritos funerarios
+
+Creían en la vida después de la muerte.
+
+Sus entierros eran colectivos y en lugares inaccesibles (precipicios, cuevas).
+
+Decoraban tumbas con símbolos geométricos, felinos, aves y serpientes.
+
+🌄 Personajes y leyendas
+
+Jaywar Waqcho: Último gran líder chachapoya que luchó contra los incas antes de ser capturado.
+
+Leyenda de Kuélap: Se dice que fue construida por gigantes o que servía de refugio sagrado para protegerse de invasiones.
+
+Mitos de las lagunas sagradas: Muchas lagunas (como la de los Cóndores) eran consideradas portales al mundo de los espíritus, donde se hacían ofrendas.
+
+⚔️ Importancia histórica
+
+Resistieron con fuerza la invasión inca y más tarde colaboraron en parte con los españoles para liberarse de los incas.
+
+Son considerados una de las culturas más enigmáticas del Perú por su arquitectura monumental en la ceja de selva.
+```
+
+En este caso, lo que más me intereso es la ciudad de Kuelap, a lo que pregunto a Chat GPT más sobre dicha ciudad.
+
+```
+
+Dijiste:
+Ahora indicame datos reales e impactantes sobre la ciudad de Kuelap. Pueden ser lugares famosos, personajes, etc.
+ChatGPT dijo:
+
+¡Genial! 🌄 Te doy datos reales e impactantes sobre Kuélap, la ciudad fortaleza más importante de los Chachapoyas:
+
+📍 Ubicación e importancia
+
+Está en la región Amazonas, Perú, a 3,000 msnm, en la cima de una montaña que domina el valle del Utcubamba.
+
+Se le llama la “Machu Picchu del Norte”, aunque es mucho más antigua y tres veces más grande en volumen.
+
+Fue construida aproximadamente en el siglo VI d.C., es decir, 600 años antes que Machu Picchu.
+
+🏰 Arquitectura monumental
+
+La muralla perimetral mide hasta 20 metros de alto y encierra 65,000 m², con más de 400 edificaciones circulares.
+
+Solo tiene tres entradas estrechas en forma de embudo, diseñadas para que solo pudieran entrar de a uno, ideal para la defensa.
+
+Algunas casas tienen frisos en forma de rombos y zigzags, símbolos típicos chachapoya.
+
+⚰️ Misterios funerarios
+
+En los alrededores y dentro de Kuélap se han hallado entierros humanos, lo que indica que no solo fue fortaleza, sino también centro ceremonial y funerario.
+
+Las construcciones “Tintero” y “El Castillo” parecen haber tenido funciones rituales, posiblemente vinculadas al agua y la fertilidad.
+
+🌄 Lugares famosos dentro de Kuélap
+
+La Fortaleza (muralla principal): Una de las más imponentes de Sudamérica prehispánica.
+
+El Torreón: Estructura de más de 7 metros, probablemente usada como puesto de vigilancia o templo.
+
+El Tintero: Construcción en forma de cono invertido, relacionada con rituales religiosos.
+
+Sector Alto y Bajo: Divisiones urbanas que muestran organización social (élite y pueblo).
+
+👥 Personajes y hechos históricos
+
+Fue construida por los Chachapoyas, conocidos como “guerreros de las nubes”.
+
+Resistió las invasiones incas durante el gobierno de Túpac Yupanqui, pero finalmente fue ocupada por los incas hacia 1470 d.C.
+
+Los españoles casi no la usaron, y quedó abandonada durante siglos hasta ser redescubierta en 1843 por el juez Juan Crisóstomo Nieto.
+
+🚡 Actualidad
+
+Hoy es uno de los principales destinos turísticos del norte del Perú.
+
+En 2017 se inauguró el primer teleférico del Perú, que facilita el acceso a Kuélap y convirtió al sitio en un atractivo de nivel internacional.
+```
+
+Según los datos que recibí de la IA me indica hay crónicas que dicen que eran blancos y rubios, sin embargo, si contrasto esta información en otras fuentes no me aparece nada de eso. AHora bien, encuentro este [artículo](https://losandes.com.pe/los-blancos-de-chachapoyas/) así que ahora ya sé que me historia hablará sobre un personaje blanco que supuestamente vivió en Kuelap y le pondré por nombre Kilap para que mi historia reavive el interés y debate sobre si hubo o no hombres blancos en las culturas preincas.
+
+### 3.2 Estructurar mi historia
+
+Ya que encontre el personaje y más o menos de lo que se tratará mi historia, en este momento me toca decidir la vida de mi personaje, por ende, me ayudaré de la IA para buscar profesiones para ver.
+
+Además de escoger la profesión, también deberé investigar sobre si existian matromonios o algo por el estilo.
+
+Es decir, si necesito datos adicionales paea mi historia lo haré usando IA.
