@@ -131,6 +131,7 @@ export default hopeTheme({
   },
 
   plugins: {
+    
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
     /*comment: {
@@ -141,7 +142,34 @@ export default hopeTheme({
       categoryId: "DIC_kwDOG_Pt2M4COD69",
     },*/
 
-
+   notice: [
+      {
+        path: "/",
+        title: "Casting de voces",
+        content: "Puedes ver los lineamientos para el casting de voces aquí",
+        actions: [
+          {
+            text: "Revisar",
+            link: "/proyectos/runa/casting-voces",
+            type: "primary",
+          },
+          { text: "Cerrar" },
+        ],
+      },
+      {
+        path: "/zh/",
+        title: "Notice Title",
+        content: "Notice Content",
+        actions: [
+          {
+            text: "Primary Action",
+            link: "https://theme-hope.vuejs.press/",
+            type: "primary",
+          },
+          { text: "Default Action" },
+        ],
+      },
+    ],
     components: {
       components: ["Badge", "VPCard"],
     },
