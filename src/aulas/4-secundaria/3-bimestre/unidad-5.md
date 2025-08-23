@@ -34,4 +34,13 @@ La herramienta Pluma en Adobe Illustrator es una de las más importantes para la
 Mira el videotutorial y realiza las formas allí presentadas.
 :::
 
+## 3BS03: Agrego estilos usando opciones de fusión
 
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 25 al 29 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=0AVt6epHjiw)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
+
+La ventana Apariencia en Adobe Illustrator es una de las herramientas más versátiles y potentes para la edición de objetos. A través de ella, los usuarios pueden gestionar todos los atributos visuales de un elemento, como rellenos, trazos, transparencias, efectos y estilos, de manera organizada y no destructiva. Esto significa que es posible aplicar múltiples rellenos y trazos a un mismo objeto, modificar el orden en que se muestran, ajustar la opacidad de forma independiente e incluso añadir efectos sin alterar la forma original. Gracias a la ventana Apariencia, se logra un mayor control y flexibilidad en el diseño, permitiendo experimentar con estilos complejos y personalizables que enriquecen el trabajo gráfico.
+
+::: warning **Tarea**
+Recrea el videotutorial con tus nombres
+:::

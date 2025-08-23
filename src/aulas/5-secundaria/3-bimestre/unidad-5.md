@@ -50,7 +50,7 @@ print(persona)
 
 ```
 
-### Ejemplo
+### Ejemplo de clase
 
 ```python title="main.py"
 nombres = "Pepito"
@@ -143,4 +143,29 @@ variable_nula = None
 # Conversión de tipos
 numero_texto = "123"
 convertido = int(numero_texto)  # de str → int
+```
+
+## 3BS03: Añado condicionales a mi código
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 25 al 29 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completa la ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=-kFBwApYVtA)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+En Python, los condicionales permiten que un programa tome decisiones dependiendo de si una condición es verdadera o falsa. Esto es fundamental para controlar el flujo del código y lograr que responda de distintas formas según la situación.
+
+La estructura básica se construye con la palabra clave if, que evalúa una condición. Si esta se cumple, se ejecuta el bloque de instrucciones correspondiente. Si no se cumple, se puede usar else para indicar qué hacer en caso contrario. Además, con elif (abreviatura de else if) es posible evaluar múltiples condiciones de manera secuencial.
+
+En pocas palabras, los condicionales ayudan a que un programa no sea lineal, sino que pueda tomar decisiones inteligentes.
+
+**Ejemplo**
+
+```python
+edad = 18
+
+if edad >= 18:
+    print("Eres mayor de edad.")
+elif edad >= 13:
+    print("Eres adolescente.")
+else:
+    print("Eres niño.")
+
 ```

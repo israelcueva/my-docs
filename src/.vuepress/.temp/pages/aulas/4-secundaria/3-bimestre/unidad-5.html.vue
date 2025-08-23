@@ -19,6 +19,16 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Mira el videotutorial y realiza las formas allí presentadas.</p>
 </div>
+<h2 id="_3bs03-agrego-estilos-usando-opciones-de-fusion" tabindex="-1"><a class="header-anchor" href="#_3bs03-agrego-estilos-usando-opciones-de-fusion"><span>3BS03: Agrego estilos usando opciones de fusión</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 25 al 29 de Agosto<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:illustrator" /> Illustrator <br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=0AVt6epHjiw" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a> / <a href="https://bezier.method.ac/" target="_blank" rel="noopener noreferrer">The beziér game</a></p>
+</div>
+<p>La ventana Apariencia en Adobe Illustrator es una de las herramientas más versátiles y potentes para la edición de objetos. A través de ella, los usuarios pueden gestionar todos los atributos visuales de un elemento, como rellenos, trazos, transparencias, efectos y estilos, de manera organizada y no destructiva. Esto significa que es posible aplicar múltiples rellenos y trazos a un mismo objeto, modificar el orden en que se muestran, ajustar la opacidad de forma independiente e incluso añadir efectos sin alterar la forma original. Gracias a la ventana Apariencia, se logra un mayor control y flexibilidad en el diseño, permitiendo experimentar con estilos complejos y personalizables que enriquecen el trabajo gráfico.</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Recrea el videotutorial con tus nombres</p>
+</div>
 </div></template>
 
 
