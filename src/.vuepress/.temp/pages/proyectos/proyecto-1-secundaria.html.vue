@@ -40,7 +40,7 @@
 </ul>
 <h2 id="_3-pasos" tabindex="-1"><a class="header-anchor" href="#_3-pasos"><span>3. Pasos</span></a></h2>
 <h3 id="_3-1-ia-para-encontrar-inspiracion" tabindex="-1"><a class="header-anchor" href="#_3-1-ia-para-encontrar-inspiracion"><span>3.1 IA para encontrar inspiración</span></a></h3>
-<p>Puedes usar la IA para que te muestre personajes, sucesos, eventos o cualquier cosa de la cultura que escojas para poder isnpirarte.</p>
+<p>Puedes usar la IA para que te muestre personajes, sucesos, eventos o cualquier cosa de la cultura que escojas para poder inspirarte.</p>
 <h4 id="ejemplo" tabindex="-1"><a class="header-anchor" href="#ejemplo"><span>Ejemplo:</span></a></h4>
 <p><strong>Prompt</strong></p>
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code" v-pre=""><code class="language-"><span class="line"><span>Mencioname datos, personaje, leyendas o algo importante sobre la cultura Chachapoyas</span></span></code></pre>

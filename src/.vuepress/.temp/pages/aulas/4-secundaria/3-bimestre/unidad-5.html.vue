@@ -29,6 +29,18 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Recrea el videotutorial con tus nombres</p>
 </div>
+<h2 id="_3bs04-exporto-mis-assets-como-png" tabindex="-1"><a class="header-anchor" href="#_3bs04-exporto-mis-assets-como-png"><span>3BS04: Exporto mis assets como PNG</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 01 al 05 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:illustrator" /> Illustrator <br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=0AVt6epHjiw" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a> / <a href="https://bezier.method.ac/" target="_blank" rel="noopener noreferrer">The beziér game</a></p>
+</div>
+<p>En Adobe Illustrator, la creación de assets consiste en preparar y organizar elementos gráficos (como íconos, logotipos, ilustraciones o componentes de una interfaz) de manera que puedan exportarse fácilmente para usarse en otros proyectos. Illustrator cuenta con el Panel de Assets, que permite recopilar objetos de un diseño, guardarlos como recursos reutilizables y exportarlos en distintos formatos (PNG, SVG, PDF, etc.). Esto es especialmente útil en proyectos de diseño web, animación o aplicaciones, ya que facilita trabajar con versiones optimizadas de cada elemento sin perder la calidad del archivo original.</p>
+<h2 id="_3bs05-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs05-practica-calificada-revision-de-folder"><span>3BS05: Practica Calificada - Revisión de Folder</span></a></h2>
+<div class="hint-container caution">
+<p class="hint-container-title">Advertencia</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Semana 6<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator</p>
+</div>
+<p>Mira esta <a href="https://images.vexels.com/media/users/3/228519/isolated/preview/838937e1136b02dc393cf46b507d8605-lindo-personaje-robot.png" target="_blank" rel="noopener noreferrer">imagen</a> y trata de replicarlo usando Adobe Illustrator. Imprime tu proyecto y preséntalo en folder.</p>
 </div></template>
 
 

@@ -44,3 +44,17 @@ En Adobe Illustrator, la opción Dibujar dentro es una herramienta muy práctica
 ::: warning **Tarea**
 Mira esta [imagen](https://cdn4.vectorstock.com/i/1000x1000/81/33/mango-fruit-kawaii-character-vector-24898133.jpg) y replícala usando Illustrator. Imprime y adjunta el trabajo en tu folder.
 :::
+
+## 3BS04: Aprendo sobre el uso del panel Apariencia
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=4KnZTXoe5rQ)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+
+El panel Apariencia en Adobe Illustrator es una de las herramientas más potentes para diseñar y personalizar objetos y textos. Su principal ventaja es que permite aplicar múltiples atributos de trazo, relleno, transparencias y efectos de manera no destructiva, es decir, sin alterar el texto original. Al trabajar con texto, este panel facilita la creación de estilos visuales llamativos, como sombras, brillos, degradados o contornos múltiples, que se pueden combinar y reorganizar en capas para lograr acabados profesionales. Gracias a su flexibilidad, el panel Apariencia ofrece un control detallado sobre cada efecto aplicado, lo que convierte al texto en un elemento mucho más dinámico y creativo dentro de un diseño.
+
+## 3BS05: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator
+
+Mira este [cartel](https://img.freepik.com/vector-gratis/plantilla-cartel-arte-chicha-dibujado-mano_23-2151190871.jpg) y trata de replicarlo usando Adobe Illustrator. Imprime tu proyecto y preséntalo en folder.

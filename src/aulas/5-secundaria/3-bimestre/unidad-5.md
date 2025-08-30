@@ -144,6 +144,54 @@ variable_nula = None
 numero_texto = "123"
 convertido = int(numero_texto)  # de str → int
 ```
+### Ejemplos
+
+```python
+from datetime import datetime
+
+edad_texto = input("¿Cuál es tu edad? ")
+edad = int(edad_texto)
+
+year = datetime.now().year
+years_left = 100 - edad
+result = year + years_left
+
+print(f"Tienes {edad} años y cumplirás 100 en el año {result}.")
+```
+
+```python
+estudiante = {
+    "nombre": "Runa",
+    "notas": [15, 12, 18, 10],
+    "activo": True
+}
+
+promedio = sum(estudiante["notas"]) / len(estudiante["notas"])
+
+print(f"El promedio de {estudiante['nombre']} es {promedio:.2f}")
+
+if promedio >= 11:
+    print("✅ Aprobado")
+else:
+    print("❌ Desaprobado")
+```
+
+```python
+palabra1 = input("Escribe la primera palabra: ").lower()
+palabra2 = input("Escribe la segunda palabra: ").lower()
+
+set1 = set(palabra1)
+set2 = set(palabra2)
+
+comunes = set1 & set2
+unicas1 = set1 - set2
+unicas2 = set2 - set1
+
+print(f"Letras comunes: {comunes}")
+print(f"Letras únicas en '{palabra1}': {unicas1}")
+print(f"Letras únicas en '{palabra2}': {unicas2}")
+
+```
 
 ## 3BS03: Añado condicionales a mi código
 
@@ -167,5 +215,99 @@ elif edad >= 13:
     print("Eres adolescente.")
 else:
     print("Eres niño.")
-
 ```
+
+### Ejemplos
+
+```python
+from datetime import datetime
+
+edad_texto = input("¿Cuál es tu edad? ")
+
+if edad_texto.isdigit():   # Verifica que el usuario solo ingresó números
+    edad = int(edad_texto)
+    if edad > 0:
+        año_actual = datetime.now().year
+        año_cumplir_100 = año_actual + (100 - edad)
+        print(f"Tienes {edad} años y cumplirás 100 en el año {año_cumplir_100}.")
+    else:
+        print("❌ La edad debe ser mayor que 0.")
+else:
+    print("❌ Por favor ingresa un número válido.")
+```
+
+```python
+nombre = input("Nombre del estudiante: ")
+nota1 = float(input("Primera nota: "))
+nota2 = float(input("Segunda nota: "))
+nota3 = float(input("Tercera nota: "))
+
+promedio = (nota1 + nota2 + nota3) / 3
+
+if promedio >= 17:
+    print(f"{nombre} tiene un promedio de {promedio:.2f} → 🏆 Excelente")
+elif promedio >= 11:
+    print(f"{nombre} tiene un promedio de {promedio:.2f} → ✅ Aprobado")
+else:
+    print(f"{nombre} tiene un promedio de {promedio:.2f} → ❌ Desaprobado")
+```
+
+```python
+palabra1 = input("Escribe la primera palabra: ").lower()
+palabra2 = input("Escribe la segunda palabra: ").lower()
+
+if len(palabra1) > len(palabra2):
+    print("La primera palabra es más larga.")
+elif len(palabra2) > len(palabra1):
+    print("La segunda palabra es más larga.")
+else:
+    print("Ambas palabras tienen la misma longitud.")
+
+if palabra1 == palabra2:
+    print("✅ Ambas palabras son iguales.")
+else:
+    print("❌ Las palabras son diferentes.")
+```
+
+## 3BS04: Hago uso de bucles para iterar instrucciones
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=abKLLfMn-pI)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+En Python, los bucles son estructuras que permiten ejecutar un bloque de código varias veces de manera repetitiva, lo que ahorra tiempo y evita escribir instrucciones repetidas. Existen principalmente dos tipos: el bucle for, que se utiliza cuando sabemos de antemano cuántas veces queremos repetir una acción (por ejemplo, recorrer una lista o un rango de números), y el bucle while, que se ejecuta mientras se cumpla una condición lógica. Gracias a los bucles podemos automatizar tareas como contar, procesar datos o repetir cálculos, lo que los convierte en una herramienta esencial en la programación.
+
+**Buble for**
+
+```python
+# Ejemplo: imprimir los números del 1 al 5
+for i in range(1, 6):
+    print("Número:", i)
+```
+
+**Bucle while**
+
+```python
+# Ejemplo: contar hasta 5 con while
+contador = 1
+while contador <= 5:
+    print("Contador:", contador)
+    contador += 1   # aumenta el valor en 1 cada vez
+```
+
+**Buble con condicionales**
+
+```python
+# Ejemplo: mostrar solo los números pares entre 1 y 10
+for i in range(1, 11):
+    if i % 2 == 0:
+        print(i, "es par")
+```
+
+### Ejemplos
+
+## 3BS05: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ)
+
+Prepara el glosario con las palabras y todas las funciones usadas en clase. En la semana 6 se te haran preguntas respecto a ese glosario.

@@ -32,3 +32,17 @@ Draw.io es una herramienta en línea gratuita y muy versátil que permite crear 
 > ::fluent-color:calendar-48:: **Fecha:** 25 al 29 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-drawio:: [Draw.io](https://app.diagrams.net/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Tutorial](#)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
 
 En draw.io, las tablas son una herramienta muy útil para organizar información de manera clara y visual dentro de un diagrama. Permiten dividir datos en filas y columnas, facilitando la comparación de elementos, la clasificación de ideas o la creación de estructuras más ordenadas, como cronogramas, matrices o cuadros de roles. Su uso es sencillo: se insertan desde el menú de formas y luego se pueden personalizar cambiando colores, tamaños de celdas, bordes y estilos. Gracias a esto, las tablas en draw.io no solo cumplen una función informativa, sino que también ayudan a mejorar la presentación visual de cualquier proyecto o esquema.
+
+## 3BS04: Elaboro un diagrama de red
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-drawio:: [Draw.io](https://app.diagrams.net/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Tutorial](#)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
+
+Draw.io (hoy conocido también como diagrams.net) es una herramienta en línea gratuita que permite crear diagramas de manera sencilla y visual. Para la elaboración de diagramas de red, resulta especialmente útil porque ofrece una amplia biblioteca de íconos y símbolos estandarizados que representan dispositivos como computadoras, routers, servidores o conexiones. Su interfaz es intuitiva, basada en arrastrar y soltar, lo que facilita a los estudiantes y profesionales organizar gráficamente la estructura de una red, comprender cómo se interconectan los distintos componentes y documentar de forma clara la arquitectura de sistemas informáticos.
+
+## 3BS05: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** 15 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-drawio:: [Draw.io](https://app.diagrams.net/)
+
+En draw.io realiza el siguiente [diagrama](https://files.pucp.education/puntoedu/wp-content/uploads/2021/01/23005509/riva-aguero-pucp002-1024x678.jpg) sobre los viajes de la Riva Aguero. Expórtalo en formato PNG, imprime tu proyecto y preséntalo en la semana 6.

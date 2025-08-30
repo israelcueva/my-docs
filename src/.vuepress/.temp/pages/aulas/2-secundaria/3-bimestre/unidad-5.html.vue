@@ -29,6 +29,86 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Revisa esta <a href="https://www.blippo.com/cdn/shop/files/bl-my-melody_2048x.png?v=1682490695" target="_blank" rel="noopener noreferrer">imagen</a> y replícala usando Illustrator o similares.</p>
 </div>
+<h2 id="_3bs04-exporto-mis-capas-para-ser-usados-en-flash" tabindex="-1"><a class="header-anchor" href="#_3bs04-exporto-mis-capas-para-ser-usados-en-flash"><span>3BS04: Exporto mis capas para ser usados en Flash</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 01 al 05 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=h3AcAMDRA8s" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>Al exportar un archivo desde Illustrator hacia Animate, cada capa puede convertirse en un objeto independiente dentro de la línea de tiempo, lo que facilita la animación de personajes, fondos, objetos o cualquier detalle de la escena. Esto ahorra tiempo, mantiene la calidad vectorial y ofrece mayor control creativo durante el proceso de animación.</p>
+<h2 id="_3bs05-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs05-practica-calificada-revision-de-folder"><span>3BS05: Practica Calificada - Revisión de Folder</span></a></h2>
+<div class="hint-container caution">
+<p class="hint-container-title">Advertencia</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Semana 6<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator</p>
+</div>
+<p>Realiza un personaje cualquiera en Adobe Illustrator, añadiendole los siguientes items/capas:</p>
+<br>
+<ol>
+<li><strong>Cuerpo base</strong></li>
+</ol>
+<hr>
+<ul>
+<li>
+<p>Head (Cabeza)</p>
+<ul>
+<li>Left Eye (ojo izquierdo)
+<ul>
+<li>Pupil</li>
+<li>Blink</li>
+</ul>
+</li>
+<li>Right Eye (ojo derecho)
+<ul>
+<li>Pupil</li>
+<li>Blink</li>
+</ul>
+</li>
+<li>Mouth (Boca)
+<ul>
+<li>Varias posiciones (Neutral, Smile, Surprised, O, M, etc. → los &quot;visemas&quot;)</li>
+</ul>
+</li>
+<li>Nose (Nariz)</li>
+<li>Ears (Orejas, opcional)</li>
+<li>Hair (Cabello)</li>
+</ul>
+</li>
+<li>
+<p>Torso (cuerpo/pecho)</p>
+<ul>
+<li>Arms (Brazos)
+<ul>
+<li>Left Arm (Brazo izquierdo) → subdividido en Upper Arm, Lower Arm, Hand</li>
+<li>Right Arm (Brazo derecho) → igual que arriba</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Legs (Piernas, si el personaje no es solo busto)</p>
+</li>
+</ul>
+<br>
+<ol start="2">
+<li><strong>Capas de control facial</strong></li>
+</ol>
+<hr>
+<ul>
+<li>Eyebrows (Cejas) → izquierda y derecha</li>
+<li>Mouth Shapes → mínimo 14 visemas para sincronización labial (&quot;A&quot;, &quot;E&quot;, &quot;U&quot;, &quot;O&quot;, &quot;M&quot;, etc.)</li>
+<li>Head Turn (opcional) → varias vistas de la cabeza (frontal, ¾, perfil)</li>
+</ul>
+<br>
+<ol start="3">
+<li><strong>Extras opcionales</strong></li>
+</ol>
+<hr>
+<ul>
+<li>Background (Fondo)</li>
+<li>Props (Objetos, accesorios) → por ejemplo, un sombrero, un bastón, mochila</li>
+<li>Clothes (Ropa intercambiable) si quieres cambiar vestuario</li>
+</ul>
+<br>
+<p>Al finalizar tomale una captura a la estructura de tus capas y el personaje, imprimir y presentar en folder.</p>
 </div></template>
 
 

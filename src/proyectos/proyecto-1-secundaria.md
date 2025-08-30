@@ -54,7 +54,7 @@ La desprecia por su vida decadente y la considera una representación del decliv
 
 ### 3.1 IA para encontrar inspiración
 
-Puedes usar la IA para que te muestre personajes, sucesos, eventos o cualquier cosa de la cultura que escojas para poder isnpirarte.
+Puedes usar la IA para que te muestre personajes, sucesos, eventos o cualquier cosa de la cultura que escojas para poder inspirarte.
 
 #### Ejemplo:
 

@@ -177,7 +177,7 @@ console.log("El producto es: " + multiplicar(4, 6));
 
 ### Ejemplo
 
-```html
+```html title="index.html"
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -277,7 +277,31 @@ console.log("El producto es: " + multiplicar(4, 6));
   </div>
 
   <script>
-   
+
+   function getVal(id) {
+      return parseFloat(document.getElementById(id).value) || 0;
+    }
+
+    function sumar(a, b) {
+      document.getElementById("resultado").innerText = "Resultado: " + (a + b);
+    }
+
+    function restar(a, b) {
+      document.getElementById("resultado").innerText = "Resultado: " + (a - b);
+    }
+
+    function multiplicar(a, b) {
+      document.getElementById("resultado").innerText = "Resultado: " + (a * b);
+    }
+
+    function dividir(a, b) {
+      if (b === 0) {
+        document.getElementById("resultado").innerText = "Error: División entre 0";
+      } else {
+        document.getElementById("resultado").innerText = "Resultado: " + (a / b);
+      }
+    }
+
   </script>
 </body>
 </html>
@@ -396,7 +420,7 @@ switch (dia) {
 
 ### Ejemplo
 
-```html
+```html title="index.html"
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -500,9 +524,228 @@ switch (dia) {
   </div>
 
   <script>
-   
+    function getVal(id) {
+      return parseFloat(document.getElementById(id).value) || 0;
+    }
+
+    function mostrarResultado(texto) {
+      document.getElementById("resultado").innerText = texto;
+    }
+
+    function calcular() {
+      let a = getVal('num1');
+      let b = getVal('num2');
+      let operacion = document.getElementById("operacion").value;
+
+      switch (operacion) {
+        case "sumar":
+          if (a === b) {
+            mostrarResultado("Son iguales. Resultado: " + (a + b));
+          } else {
+            mostrarResultado("Resultado: " + (a + b));
+          }
+          break;
+
+        case "restar":
+          if (a < b) {
+            mostrarResultado("Advertencia: será negativo → " + (a - b));
+          } else {
+            mostrarResultado("Resultado: " + (a - b));
+          }
+          break;
+
+        case "multiplicar":
+          if (a === 0 || b === 0) {
+            mostrarResultado("Multiplicar por 0 siempre da 0");
+          } else {
+            mostrarResultado("Resultado: " + (a * b));
+          }
+          break;
+
+        case "dividir":
+          if (b === 0) {
+            mostrarResultado("Error: no se puede dividir entre 0");
+          } else {
+            mostrarResultado("Resultado: " + (a / b));
+          }
+          break;
+
+        default:
+          mostrarResultado("Operación no reconocida");
+          break;
+      }
+    }
+  </script>
+</body>
+</html>
+```
+
+## 3BS04: Entiendo los eventos del DOM
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=03eid8Lc8V8)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+En JavaScript, los **eventos** son acciones que ocurren en la página web y que el navegador puede detectar, como hacer clic, escribir, mover el ratón o cargar un elemento. El **DOM (Document Object Model)** es la representación estructurada del documento HTML en forma de nodos, lo que permite a JavaScript acceder y manipular contenido, atributos y estilos. Al manejar eventos sobre el DOM, logramos páginas dinámicas e interactivas.
+
+**Principales eventos en JavaScript**
+
+1. **click**  
+   Se activa cuando el usuario hace clic sobre un elemento.  
+   Ejemplo: cambiar el color de un botón al pulsarlo.
+
+2. **dblclick**  
+   Se ejecuta cuando se hace doble clic en un elemento.
+
+3. **mouseover / mouseout**  
+   - *mouseover*: ocurre cuando el puntero entra en un elemento.  
+   - *mouseout*: ocurre cuando el puntero sale del elemento.  
+
+4. **keydown / keyup**  
+   - *keydown*: cuando el usuario presiona una tecla.  
+   - *keyup*: cuando el usuario suelta una tecla.  
+
+5. **submit**  
+   Se activa al enviar un formulario. Puede usarse para validar los datos antes de enviarlos al servidor.
+
+6. **change**  
+   Detecta cuando un valor cambia en un input, select o textarea.
+
+7. **load**  
+   Ocurre cuando una página o recurso (como una imagen) ha terminado de cargarse.
+
+8. **focus / blur**  
+   - *focus*: cuando un campo de formulario recibe el cursor.  
+   - *blur*: cuando el campo pierde el cursor.
+
+
+**Estructura básica del DOM**
+
+El DOM organiza un documento HTML como un árbol de nodos:
+
+```mermaid
+graph TD
+    Document --> html
+    html --> head
+    html --> body
+    head --> title
+    body --> h1
+    body --> p
+    body --> div
+    div --> button
+```
+
+### Ejemplo
+
+```html title="index.html"
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Calculadora Fluent con Eventos</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #dfe9f3 0%, #ffffff 100%);
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .calculator {
+      background: rgba(255, 255, 255, 0.7);
+      backdrop-filter: blur(10px);
+      border-radius: 20px;
+      padding: 30px;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+      text-align: center;
+      width: 350px;
+    }
+
+    h1 {
+      font-weight: 600;
+      color: #2c3e50;
+      margin-bottom: 20px;
+    }
+
+    input {
+      width: 120px;
+      padding: 10px;
+      margin: 10px;
+      border: none;
+      border-radius: 10px;
+      text-align: center;
+      font-size: 16px;
+      background: rgba(240, 240, 240, 0.9);
+      box-shadow: inset 1px 1px 3px rgba(0,0,0,0.1);
+    }
+
+    .buttons {
+      margin-top: 15px;
+    }
+
+    button {
+      padding: 12px 18px;
+      margin: 8px;
+      border: none;
+      border-radius: 12px;
+      font-size: 15px;
+      font-weight: 500;
+      background: #0078D7;
+      color: white;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+    }
+
+    button:hover {
+      background: #005a9e;
+      transform: translateY(-2px);
+      box-shadow: 0 5px 12px rgba(0,0,0,0.25);
+    }
+
+    #resultado {
+      margin-top: 25px;
+      font-size: 20px;
+      font-weight: bold;
+      color: #1b1b1b;
+      background: rgba(255, 255, 255, 0.5);
+      padding: 12px;
+      border-radius: 12px;
+      box-shadow: inset 1px 1px 4px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="calculator">
+    <h1>Calculadora con Eventos</h1>
+    
+    <input type="number" id="num1" placeholder="Número 1">
+    <input type="number" id="num2" placeholder="Número 2">
+    <br>
+
+    <div class="buttons">
+      <button id="btnSumar">Sumar</button>
+      <button id="btnRestar">Restar</button>
+      <button id="btnMultiplicar">Multiplicar</button>
+      <button id="btnDividir">Dividir</button>
+    </div>
+    
+    <div id="resultado">Resultado: </div>
+  </div>
+
+  <script>
+
   </script>
 </body>
 </html>
 
 ```
+
+## 3BS05: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)
+
+Prepara el glosario con las palabras y todas las funciones usadas en clase. En la semana 6 se te haran preguntas respecto a ese glosario.

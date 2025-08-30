@@ -29,6 +29,18 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Mira esta <a href="https://cdn4.vectorstock.com/i/1000x1000/81/33/mango-fruit-kawaii-character-vector-24898133.jpg" target="_blank" rel="noopener noreferrer">imagen</a> y replícala usando Illustrator. Imprime y adjunta el trabajo en tu folder.</p>
 </div>
+<h2 id="_3bs04-aprendo-sobre-el-uso-del-panel-apariencia" tabindex="-1"><a class="header-anchor" href="#_3bs04-aprendo-sobre-el-uso-del-panel-apariencia"><span>3BS04: Aprendo sobre el uso del panel Apariencia</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 01 al 05 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=4KnZTXoe5rQ" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>El panel Apariencia en Adobe Illustrator es una de las herramientas más potentes para diseñar y personalizar objetos y textos. Su principal ventaja es que permite aplicar múltiples atributos de trazo, relleno, transparencias y efectos de manera no destructiva, es decir, sin alterar el texto original. Al trabajar con texto, este panel facilita la creación de estilos visuales llamativos, como sombras, brillos, degradados o contornos múltiples, que se pueden combinar y reorganizar en capas para lograr acabados profesionales. Gracias a su flexibilidad, el panel Apariencia ofrece un control detallado sobre cada efecto aplicado, lo que convierte al texto en un elemento mucho más dinámico y creativo dentro de un diseño.</p>
+<h2 id="_3bs05-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs05-practica-calificada-revision-de-folder"><span>3BS05: Practica Calificada - Revisión de Folder</span></a></h2>
+<div class="hint-container caution">
+<p class="hint-container-title">Advertencia</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Semana 6<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator</p>
+</div>
+<p>Mira este <a href="https://img.freepik.com/vector-gratis/plantilla-cartel-arte-chicha-dibujado-mano_23-2151190871.jpg" target="_blank" rel="noopener noreferrer">cartel</a> y trata de replicarlo usando Adobe Illustrator. Imprime tu proyecto y preséntalo en folder.</p>
 </div></template>
 
 

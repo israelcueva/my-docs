@@ -44,3 +44,17 @@ La ventana Apariencia en Adobe Illustrator es una de las herramientas más vers�
 ::: warning **Tarea**
 Recrea el videotutorial con tus nombres
 :::
+
+## 3BS04: Exporto mis assets como PNG
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=0AVt6epHjiw)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
+
+En Adobe Illustrator, la creación de assets consiste en preparar y organizar elementos gráficos (como íconos, logotipos, ilustraciones o componentes de una interfaz) de manera que puedan exportarse fácilmente para usarse en otros proyectos. Illustrator cuenta con el Panel de Assets, que permite recopilar objetos de un diseño, guardarlos como recursos reutilizables y exportarlos en distintos formatos (PNG, SVG, PDF, etc.). Esto es especialmente útil en proyectos de diseño web, animación o aplicaciones, ya que facilita trabajar con versiones optimizadas de cada elemento sin perder la calidad del archivo original.
+
+## 3BS05: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator
+
+Mira esta [imagen](https://images.vexels.com/media/users/3/228519/isolated/preview/838937e1136b02dc393cf46b507d8605-lindo-personaje-robot.png) y trata de replicarlo usando Adobe Illustrator. Imprime tu proyecto y preséntalo en folder.

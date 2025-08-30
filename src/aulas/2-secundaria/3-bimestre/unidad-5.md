@@ -45,3 +45,61 @@ En Adobe Illustrator, las capas son una de las herramientas fundamentales para o
 ::: warning **Tarea**
 Revisa esta [imagen](https://www.blippo.com/cdn/shop/files/bl-my-melody_2048x.png?v=1682490695) y replícala usando Illustrator o similares.
 :::
+
+## 3BS04: Exporto mis capas para ser usados en Flash
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=h3AcAMDRA8s)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+
+Al exportar un archivo desde Illustrator hacia Animate, cada capa puede convertirse en un objeto independiente dentro de la línea de tiempo, lo que facilita la animación de personajes, fondos, objetos o cualquier detalle de la escena. Esto ahorra tiempo, mantiene la calidad vectorial y ofrece mayor control creativo durante el proceso de animación.
+
+## 3BS05: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator
+
+Realiza un personaje cualquiera en Adobe Illustrator, añadiendole los siguientes items/capas:
+
+<br>
+
+1. **Cuerpo base**
+---
+- Head (Cabeza)
+  - Left Eye (ojo izquierdo)
+    - Pupil
+    - Blink
+  - Right Eye (ojo derecho)
+    - Pupil
+    - Blink
+  - Mouth (Boca)
+    - Varias posiciones (Neutral, Smile, Surprised, O, M, etc. → los "visemas")
+  - Nose (Nariz)
+  - Ears (Orejas, opcional)
+  - Hair (Cabello)
+
+- Torso (cuerpo/pecho)
+  - Arms (Brazos)
+    - Left Arm (Brazo izquierdo) → subdividido en Upper Arm, Lower Arm, Hand
+    - Right Arm (Brazo derecho) → igual que arriba
+
+- Legs (Piernas, si el personaje no es solo busto)
+
+<br>
+
+2. **Capas de control facial**
+---
+- Eyebrows (Cejas) → izquierda y derecha
+- Mouth Shapes → mínimo 14 visemas para sincronización labial ("A", "E", "U", "O", "M", etc.)
+- Head Turn (opcional) → varias vistas de la cabeza (frontal, ¾, perfil)
+
+<br>
+
+3. **Extras opcionales**
+---
+- Background (Fondo)
+- Props (Objetos, accesorios) → por ejemplo, un sombrero, un bastón, mochila
+- Clothes (Ropa intercambiable) si quieres cambiar vestuario
+
+<br>
+
+Al finalizar tomale una captura a la estructura de tus capas y el personaje, imprimir y presentar en folder.
