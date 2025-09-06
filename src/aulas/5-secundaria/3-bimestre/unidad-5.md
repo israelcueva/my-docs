@@ -10,6 +10,8 @@ icon: fluent-color:notebook-32
 order: 5
 ---
 
+El desarrollo de aplicaciones con Python se ha vuelto muy popular gracias a que este lenguaje es sencillo de aprender, potente y versátil. Con Python se pueden crear distintos tipos de aplicaciones: desde programas de escritorio usando librerías como Tkinter o PyQt, aplicaciones web con frameworks como Django o Flask, hasta apps con inteligencia artificial, análisis de datos y automatización de procesos. Además, existen herramientas como Kivy o BeeWare que permiten desarrollar aplicaciones móviles multiplataforma. Su amplia comunidad y gran cantidad de librerías facilitan el proceso, lo que convierte a Python en una excelente opción tanto para principiantes como para desarrolladores avanzados.
+
 ## 3BS01: Comprendo el ecosistema de desarrollo en Python
 
 > [!important]
@@ -144,7 +146,7 @@ variable_nula = None
 numero_texto = "123"
 convertido = int(numero_texto)  # de str → int
 ```
-### Ejemplos
+### Ejemplos de clase
 
 ```python
 from datetime import datetime
@@ -217,7 +219,7 @@ else:
     print("Eres niño.")
 ```
 
-### Ejemplos
+### Ejemplos de clase
 
 ```python
 from datetime import datetime
@@ -303,8 +305,65 @@ for i in range(1, 11):
         print(i, "es par")
 ```
 
-### Ejemplos
+### Ejemplos de clase
 
+```python
+from datetime import datetime
+
+while True:
+    edad_texto = input("¿Cuál es tu edad? ")
+    
+    if edad_texto.isdigit():
+        edad = int(edad_texto)
+        if edad > 0:
+            year = datetime.now().year
+            resultado = year + (100 - edad)
+            print(f"Tienes {edad} años y cumplirás 100 en el año {resultado}.")
+            break  # termina el bucle si ya está correcto
+        else:
+            print("La edad debe ser mayor que 0.")
+    else:
+        print("Por favor, ingresa un número válido.")
+```
+```python
+cantidad = int(input("¿Cuántos estudiantes vas a registrar? "))
+
+for i in range(cantidad):
+    print(f"\nEstudiante {i+1}:")
+    nombre = input("Nombre del estudiante: ")
+    nota1 = float(input("Primera nota: "))
+    nota2 = float(input("Segunda nota: "))
+    nota3 = float(input("Tercera nota: "))
+
+    promedio = (nota1 + nota2 + nota3) / 3
+
+    if promedio >= 17:
+        print(f"{nombre} tiene un promedio de {promedio:.2f} → Excelente")
+    elif promedio >= 11:
+        print(f"{nombre} tiene un promedio de {promedio:.2f} → Aprobado")
+    else:
+        print(f"{nombre} tiene un promedio de {promedio:.2f} → Desaprobado")
+```
+```python
+veces = int(input("¿Cuántas comparaciones de palabras quieres hacer? "))
+
+for i in range(veces):
+    print(f"\nComparación {i+1}:")
+    palabra1 = input("Escribe la primera palabra: ").lower()
+    palabra2 = input("Escribe la segunda palabra: ").lower()
+
+    if len(palabra1) > len(palabra2):
+        print("La primera palabra es más larga.")
+    elif len(palabra2) > len(palabra1):
+        print("La segunda palabra es más larga.")
+    else:
+        print("Ambas palabras tienen la misma longitud.")
+
+    if palabra1 == palabra2:
+        print("Ambas palabras son iguales.")
+    else:
+        print("Las palabras son diferentes.")
+```
 ## 3BS05: Practica Calificada - Revisión de Folder
 
 > [!caution]

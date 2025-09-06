@@ -736,7 +736,45 @@ graph TD
   </div>
 
   <script>
+    // --- Funciones de apoyo getVal y mostrarResultado ---
+    function getVal(id) {
+      return parseFloat(document.getElementById(id).value) || 0;
+    }
 
+    function mostrarResultado(texto) {
+      document.getElementById("resultado").innerText = texto;
+    }
+
+    // --- Funciones de operaciones ---
+    function sumar() {
+      let a = getVal("num1"), b = getVal("num2");
+      mostrarResultado("Resultado: " + (a + b));
+    }
+
+    function restar() {
+      let a = getVal("num1"), b = getVal("num2");
+      mostrarResultado("Resultado: " + (a - b));
+    }
+
+    function multiplicar() {
+      let a = getVal("num1"), b = getVal("num2");
+      mostrarResultado("Resultado: " + (a * b));
+    }
+
+    function dividir() {
+      let a = getVal("num1"), b = getVal("num2");
+      if (b === 0) {
+        mostrarResultado("Error: no se puede dividir entre 0");
+      } else {
+        mostrarResultado("Resultado: " + (a / b));
+      }
+    }
+
+    // --- Uso de eventos y DOM ---
+    document.getElementById("btnSumar").addEventListener("click", sumar);
+    document.getElementById("btnRestar").addEventListener("click", restar);
+    document.getElementById("btnMultiplicar").addEventListener("click", multiplicar);
+    document.getElementById("btnDividir").addEventListener("click", dividir);
   </script>
 </body>
 </html>
