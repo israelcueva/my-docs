@@ -1,4 +1,15 @@
-<template><div><p>Este curso está diseñado para enseñarles las habilidades y el conocimiento necesarios para utilizar las computadoras de manera efectiva y segura. Aprenderán cómo manejar las aplicaciones de software más comunes, cómo navegar por la web, y maneras protegerse de los peligros que se encuentran en línea.</p>
+<template><div><div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><strong>Preferencias profesionales - Solo para quinto grado de secundaria</strong></p>
+<p><strong>1. Descargar archivo</strong>: Puedes descargar el archivo desde este <a href="https://docs.google.com/spreadsheets/d/1Vt0-p7spTFaAeLNxQb4c4EVL-LYJDK7O/edit?usp=sharing&amp;ouid=114926669931544758749&amp;rtpof=true&amp;sd=true" target="_blank" rel="noopener noreferrer">enlace</a></p>
+<p><strong>2. Subirlo</strong>: Una vez terminado, puedes subir tu archivo de Excel mediante estos enlaces:</p>
+<ul>
+<li><strong>Callao 5A</strong>: <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Esn1tT6bawVCk7S2aiNS1DUBDtbvjQwXkQaLw1QEkv0y-A" target="_blank" rel="noopener noreferrer">Enlace</a></li>
+<li><strong>Callao 5B</strong>: <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/EvdTJ7yy6M5KoUudunM-mNYBC7-vILcxnJhD-xomz7Lxnw" target="_blank" rel="noopener noreferrer">Enlace</a></li>
+<li><strong>Oquendo 5A</strong>: <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/EiKbrRSBCRNDhlkZeFNtnscBYcwMKtUish0uI9KVJIgG1A" target="_blank" rel="noopener noreferrer">Enlace</a></li>
+</ul>
+</div>
+<p>Este curso está diseñado para enseñarles las habilidades y el conocimiento necesarios para utilizar las computadoras de manera efectiva y segura. Aprenderán cómo manejar las aplicaciones de software más comunes, cómo navegar por la web, y maneras protegerse de los peligros que se encuentran en línea.</p>
 <p>No se olviden que deben esforzarse para poder aprovechar todos los conocimientos ofrecidos durante el desarrollo de clases. Todos y cada uno de ustedes guardan habilidades sorprendentes.</p>
 <h2 id="_1-calificaciones" tabindex="-1"><a class="header-anchor" href="#_1-calificaciones"><span>1. Calificaciones</span></a></h2>
 <p>El curso consta de las siguientes categorias para las notas.</p>
