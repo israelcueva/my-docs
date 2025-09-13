@@ -1,0 +1,14 @@
+<template><div><p>Esta Unidad continuaremos trabajando con Adobe Illustrator y profundizaremos en funciones que destacan como las capas, que permiten organizar los elementos de un diseño de manera ordenada; las máscaras, que sirven para ocultar o mostrar partes específicas de un objeto sin eliminarlas; y el panel Buscatrazos, que facilita la combinación, división o recorte de formas para generar nuevas figuras complejas. Dominar estos recursos brinda mayor control, flexibilidad y creatividad en el proceso de diseño, optimizando tanto el flujo de trabajo como la calidad del resultado final.</p>
+<h2 id="_3bs06-recreo-mi-personaje-usando-adobe-ilustrator" tabindex="-1"><a class="header-anchor" href="#_3bs06-recreo-mi-personaje-usando-adobe-ilustrator"><span>3BS06: Recreo mi personaje usando Adobe Ilustrator</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 15 al 19 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:illustrator" /> Illustrator <br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=-U23ExJE20c" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a> / <a href="https://bezier.method.ac/" target="_blank" rel="noopener noreferrer">The beziér game</a></p>
+</div>
+<p>Las capas en Adobe Illustrator funcionan como contenedores que organizan los distintos elementos de un diseño, permitiendo trabajar de manera más ordenada y eficiente. Gracias a ellas, es posible controlar la visibilidad, el bloqueo y la edición de objetos de forma independiente, lo que facilita la creación de proyectos complejos sin perder claridad en el proceso. Además, las capas ayudan a mantener un flujo de trabajo profesional, ya que permiten separar ilustraciones, textos y efectos, brindando flexibilidad y precisión al momento de editar o realizar ajustes.</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Mira esta <a href="https://img.pikbest.com/wp/202346/depicting-cartoon-character-blue-android-or-ai-robot-depicted-through-3d-rendering_9747068.jpg!w700wp" target="_blank" rel="noopener noreferrer">imagen</a> y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.</p>
+</div>
+</div></template>
+
+

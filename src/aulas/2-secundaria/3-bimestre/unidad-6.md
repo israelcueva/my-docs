@@ -1,0 +1,26 @@
+---
+title: Unidad 6
+category:
+  - Aula
+tag:
+  - Inicio
+  - 2-Secundaria
+  - Flash
+  - Animate
+author: Pepito
+icon: fluent-color:notebook-32
+order: 6
+---
+
+¡Bienvenidos! En esta unidad continuamos con el programa para poder crear nuestra animación final, además, aprenderemos nuevos conceptos para que nuestros proyectos se vean con mayor naturalidad.
+
+## 3BS06: Agrego movimiento base al personaje exportado
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 11 al 15 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-flash:: Adobe Flash / ::logos:adobe-animate:: Animate<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=ZEdYbW6vK7s) / [Walking](https://www.youtube.com/watch?v=Mol0lrRBy3g)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+
+La animación de personajes exportados desde Illustrator a Adobe Animate permite combinar la precisión del diseño vectorial con la flexibilidad del movimiento digital. Al crear un personaje en Illustrator, cada parte de su cuerpo puede organizarse en capas separadas (brazos, piernas, cabeza, torso), lo que facilita su importación a Animate como elementos editables. Una vez dentro del programa, estas partes pueden articularse mediante técnicas como interpolaciones de movimiento, deformaciones o rigging, logrando animaciones fluidas sin perder la calidad vectorial. Este flujo de trabajo es ideal para quienes buscan mantener un estilo gráfico definido y escalable, al mismo tiempo que aprovechan las potentes herramientas de animación que ofrece Adobe Animate.
+
+::: warning **Tarea**
+Usa el personaje de ejemplo e iguala la animación del video **Walking**. Exporta la animación a MPEG-4 o AVI y envíalo a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/EqCJMAYHoihPibgwS3gdzxMBi0RBrOAY4uzBWtbC5ETQcQ)
+:::

@@ -19,16 +19,6 @@ next: false
 comment: false
 ---
 
-> [!important]
-> **Preferencias profesionales - Solo para quinto grado de secundaria**
->
-> **1. Descargar archivo**: Puedes descargar el archivo desde este [enlace](https://docs.google.com/spreadsheets/d/1Vt0-p7spTFaAeLNxQb4c4EVL-LYJDK7O/edit?usp=sharing&ouid=114926669931544758749&rtpof=true&sd=true)
->
-> **2. Subirlo**: Una vez terminado, puedes subir tu archivo de Excel mediante estos enlaces:
->   - **Callao 5A**: [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Esn1tT6bawVCk7S2aiNS1DUBDtbvjQwXkQaLw1QEkv0y-A)
->   - **Callao 5B**: [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/EvdTJ7yy6M5KoUudunM-mNYBC7-vILcxnJhD-xomz7Lxnw)
->   - **Oquendo 5A**: [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/EiKbrRSBCRNDhlkZeFNtnscBYcwMKtUish0uI9KVJIgG1A)
-
 Este curso está diseñado para enseñarles las habilidades y el conocimiento necesarios para utilizar las computadoras de manera efectiva y segura. Aprenderán cómo manejar las aplicaciones de software más comunes, cómo navegar por la web, y maneras protegerse de los peligros que se encuentran en línea.
 
 No se olviden que deben esforzarse para poder aprovechar todos los conocimientos ofrecidos durante el desarrollo de clases. Todos y cada uno de ustedes guardan habilidades sorprendentes.

@@ -7,7 +7,7 @@ tag:
   - 3-Secundaria
 author: Pepito
 icon: fluent-color:notebook-32
-order: 1
+order: 5
 ---
 
 JavaScript es un lenguaje de programación que se utiliza principalmente para dar interactividad y dinamismo a las páginas web. Mientras que HTML se encarga de la estructura y CSS del diseño, JavaScript permite que el sitio “cobre vida”, añadiendo funciones como menús desplegables, animaciones, validación de formularios, juegos o aplicaciones completas en línea. Es uno de los lenguajes más populares en el mundo, porque se ejecuta directamente en el navegador sin necesidad de instalar programas adicionales. Además, también se usa en servidores y aplicaciones modernas, lo que lo convierte en una herramienta fundamental para aprender programación y crear proyectos innovadores en el mundo digital.
