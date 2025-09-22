@@ -148,7 +148,7 @@ export default sidebar({
     {
       text: "WhatsApp",
       icon: "logos:whatsapp-icon",
-      link: "https://wa.me/51926574295?text=Hola%2C%20me%20gustar%C3%ADa%20hacer%20una%20consulta"
+      link: "https://wa.me/51926574295"
     },
 
   ],

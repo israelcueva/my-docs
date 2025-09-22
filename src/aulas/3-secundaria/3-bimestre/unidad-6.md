@@ -213,3 +213,209 @@ do {
 </body>
 </html>
 ```
+
+## 3BS07: Creo y edito objetos en javascript
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 22 al 26 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar la ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=5DaZXXbHI_U)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+En JavaScript, los objetos se utilizan para almacenar y organizar información en pares clave–valor. Esto significa que cada dato dentro de un objeto tiene un nombre (la clave o propiedad) y un valor asociado, que puede ser un número, texto, función, arreglo u otro objeto. Los objetos son muy útiles porque permiten representar entidades del mundo real, como una persona, un auto o un producto, agrupando sus características y comportamientos
+
+**1. Objeto básico**
+
+```javascript
+// Objeto persona
+let persona = {
+  nombre: "Ana",
+  edad: 20,
+  profesion: "Estudiante"
+};
+
+console.log(persona.nombre);   // Ana
+console.log(persona["edad"]);  // 20
+```
+
+**2. Agregar y modificar propiedades**
+
+```javascript
+persona.apellido = "García";  // Agregar propiedad
+persona.edad = 21;            // Modificar propiedad
+
+console.log(persona);
+```
+
+**3. Objetos con métodos (funciones dentro de un objeto)**
+
+```javascript
+let auto = {
+  marca: "Toyota",
+  modelo: "Corolla",
+  anio: 2020,
+  encender: function() {
+    console.log("El auto está encendido 🚗💨");
+  }
+};
+
+auto.encender(); // Llama al método
+```
+
+**4. Objetos anidados (objetos dentro de objetos)**
+
+```javascript
+let estudiante = {
+  nombre: "Luis",
+  edad: 18,
+  direccion: {
+    ciudad: "Lima",
+    distrito: "Miraflores"
+  }
+};
+
+console.log(estudiante.direccion.ciudad); // Lima
+```
+
+**5. Arreglo de objetos**
+
+```javascript
+let productos = [
+  { id: 1, nombre: "Laptop", precio: 2500 },
+  { id: 2, nombre: "Mouse", precio: 80 },
+  { id: 3, nombre: "Teclado", precio: 150 }
+];
+
+productos.forEach(p => {
+  console.log(`${p.nombre} cuesta $${p.precio}`);
+});
+```
+
+### Ejemplo de clase
+
+```html title="index.html"
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Listas con Objetos en JavaScript</title>
+  <style>
+    body {
+      font-family: "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 40px;
+      background: linear-gradient(135deg, #f3f3f3, #e6eaf0);
+      color: #333;
+    }
+
+    h2 {
+      color: #0078d7;
+      margin-bottom: 20px;
+    }
+
+    .card {
+      background: rgba(255, 255, 255, 0.8);
+      backdrop-filter: blur(12px);
+      border-radius: 12px;
+      padding: 25px;
+      max-width: 650px;
+      margin: auto;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+    }
+
+    label {
+      font-weight: 600;
+    }
+
+    select, button {
+      margin: 10px 0;
+      padding: 10px 14px;
+      font-size: 16px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      outline: none;
+      transition: 0.3s;
+    }
+
+    select:focus {
+      border-color: #0078d7;
+      box-shadow: 0 0 6px rgba(0, 120, 215, 0.5);
+    }
+
+    button {
+      background: #0078d7;
+      color: white;
+      border: none;
+      cursor: pointer;
+      font-weight: bold;
+      transition: 0.3s;
+    }
+
+    button:hover {
+      background: #005a9e;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+    }
+
+    th {
+      background: #0078d7;
+      color: white;
+      padding: 12px;
+      text-align: center;
+    }
+
+    td {
+      padding: 10px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+
+    tr:nth-child(even) {
+      background: #f9f9f9;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h2>Ejemplo con Objetos y Bucles</h2>
+
+    <label for="listas">Elige una lista:</label><br>
+    <select id="listas">
+      <option value="frutas">Frutas</option>
+      <option value="colores">Colores</option>
+      <option value="animales">Animales</option>
+    </select>
+
+    <button onclick="mostrarLista()">Mostrar Lista</button>
+
+    <table id="tabla">
+      <thead>
+        <tr>
+          <th>#</th>
+          <th>Elemento</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- Aquí se mostrarán los datos -->
+      </tbody>
+    </table>
+  </div>
+
+  <script>
+    // Objeto con listas
+    const listas = {
+      frutas: ["Manzana", "Banana", "Pera", "Mango", "Sandía"],
+      colores: ["Rojo", "Verde", "Azul", "Amarillo", "Negro"],
+      animales: ["Perro", "Gato", "Elefante", "Loro", "Caballo"]
+    };
+
+  
+  </script>
+</body>
+</html>
+
+```

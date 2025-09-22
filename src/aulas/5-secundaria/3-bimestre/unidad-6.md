@@ -80,3 +80,39 @@ gato = Gato("Mishito")
 perro.hacer_sonido()
 gato.hacer_sonido()
 ```
+
+## 3BS07: Creo y uso funciones en Python
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 22 al 26 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar la ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=nOHwv__awVU)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+Una función es un bloque de código que se puede reutilizar para realizar una tarea específica.
+En lugar de repetir el mismo código muchas veces, lo colocamos dentro de una función y simplemente la llamamos cuando la necesitamos.
+
+En Python, las funciones se definen con la palabra clave def.
+
+```python title="Ejemplo básico"
+def saludar():
+    print("¡Hola, bienvenido a Python!")
+
+# Llamamos a la función
+saludar()
+```
+
+```python title="Funciones con parámetros"
+def presentar(nombre, edad):
+    print(f"Hola, me llamo {nombre} y tengo {edad} años.")
+
+# Llamamos a la función con distintos valores
+presentar("Runa", 15)
+presentar("Llangsa", 12)
+```
+
+```python title="Funciones que retornan valores"
+def sumar(a, b):
+    return a + b
+
+# Guardamos el resultado en una variable
+resultado = sumar(5, 7)
+print("La suma es:", resultado)
+```

@@ -9,6 +9,16 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Mira esta <a href="https://img.pikbest.com/wp/202346/depicting-cartoon-character-blue-android-or-ai-robot-depicted-through-3d-rendering_9747068.jpg!w700wp" target="_blank" rel="noopener noreferrer">imagen</a> y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.</p>
 </div>
+<h2 id="_3bs07-uso-mascaras-para-embeber-sombras-y-luces" tabindex="-1"><a class="header-anchor" href="#_3bs07-uso-mascaras-para-embeber-sombras-y-luces"><span>3BS07: Uso máscaras para embeber sombras y luces</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 22 al 26 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:illustrator" /> Illustrator <br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=k5tPKYVnG8A" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a> / <a href="https://bezier.method.ac/" target="_blank" rel="noopener noreferrer">The beziér game</a></p>
+</div>
+<p>Las máscaras son una herramienta fundamental en el diseño digital y la edición de imágenes, ya que permiten controlar qué partes de un objeto o capa son visibles sin necesidad de eliminar contenido de forma permanente. Su principal ventaja es que trabajan de manera no destructiva: en lugar de borrar, ocultan o revelan áreas según la configuración aplicada. Esto facilita realizar ajustes precisos, combinar imágenes, crear efectos de transparencia o resaltar elementos específicos, manteniendo siempre la posibilidad de modificar o revertir los cambios.</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Mira esta <a href="https://static.vecteezy.com/system/resources/previews/017/047/796/non_2x/cute-chibi-cow-kawaii-illustration-cow-farm-icon-graphic-vector.jpg" target="_blank" rel="noopener noreferrer">imagen</a> y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.</p>
+</div>
 </div></template>
 
 

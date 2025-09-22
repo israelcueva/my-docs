@@ -23,3 +23,13 @@ Las capas en Adobe Illustrator funcionan como contenedores que organizan los dis
 Mira esta [imagen](https://img.pikbest.com/wp/202346/depicting-cartoon-character-blue-android-or-ai-robot-depicted-through-3d-rendering_9747068.jpg!w700wp) y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.
 :::
 
+## 3BS07: Uso máscaras para embeber sombras y luces
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 22 al 26 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=k5tPKYVnG8A)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
+
+Las máscaras son una herramienta fundamental en el diseño digital y la edición de imágenes, ya que permiten controlar qué partes de un objeto o capa son visibles sin necesidad de eliminar contenido de forma permanente. Su principal ventaja es que trabajan de manera no destructiva: en lugar de borrar, ocultan o revelan áreas según la configuración aplicada. Esto facilita realizar ajustes precisos, combinar imágenes, crear efectos de transparencia o resaltar elementos específicos, manteniendo siempre la posibilidad de modificar o revertir los cambios.
+
+::: warning **Tarea**
+Mira esta [imagen](https://static.vecteezy.com/system/resources/previews/017/047/796/non_2x/cute-chibi-cow-kawaii-illustration-cow-farm-icon-graphic-vector.jpg) y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.
+:::
