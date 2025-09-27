@@ -19,6 +19,18 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Mira esta <a href="https://static.vecteezy.com/system/resources/previews/017/047/796/non_2x/cute-chibi-cow-kawaii-illustration-cow-farm-icon-graphic-vector.jpg" target="_blank" rel="noopener noreferrer">imagen</a> y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.</p>
 </div>
+<h2 id="_3bs08-creo-formas-avanzadas-usando-buscatrazos" tabindex="-1"><a class="header-anchor" href="#_3bs08-creo-formas-avanzadas-usando-buscatrazos"><span>3BS08: Creo formas avanzadas usando Buscatrazos</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 29 de Setiembre al 03 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18a497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a> / <VPIcon icon="devicon:illustrator" /> Illustrator <br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Realizar practica final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=2Um44xAlvH8" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a> / <a href="https://bezier.method.ac/" target="_blank" rel="noopener noreferrer">The beziér game</a></p>
+</div>
+<p>El Buscatrazos en Illustrator es una de las herramientas más útiles para trabajar con formas y vectores, ya que permite combinar, dividir, recortar o simplificar objetos de manera rápida y precisa. Con sus distintas opciones, como Unir, Menos frente, Intersecar o Excluir, el diseñador puede crear figuras personalizadas a partir de formas básicas, agilizando el proceso de diseño y dándole mayor versatilidad a la creación de logotipos, ilustraciones y composiciones gráficas. Gracias al Buscatrazos, es posible transformar ideas simples en elementos visuales complejos sin perder la calidad vectorial.</p>
+<h2 id="_3bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs09-practica-calificada-revision-de-folder"><span>3BS09: Practica Calificada - Revisión de Folder</span></a></h2>
+<div class="hint-container caution">
+<p class="hint-container-title">Advertencia</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong>  Callao (Martes 07) Oquendo (Jueves 09)<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator</p>
+</div>
+<p>Escoge un robot de esta<a href="https://img.freepik.com/vector-premium/robots-humanoides-androides-cyborg-juguetes-o-bots-maquinas-inteligencia-artificial_53500-279.jpg" target="_blank" rel="noopener noreferrer">imagen</a> y trata de replicarlo usando Adobe Illustrator. Imprime tu proyecto y preséntalo en folder el día indicado en la fecha límite.</p>
 </div></template>
 
 

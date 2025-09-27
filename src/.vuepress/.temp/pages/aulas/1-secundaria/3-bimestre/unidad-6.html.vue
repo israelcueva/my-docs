@@ -19,6 +19,19 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Agrega las texturas a la <a href="https://cdn.dribbble.com/userupload/12972340/file/original-e6a565d7aae730397e24edcd417d2e42.png?resize=752x752&amp;vertical=center" target="_blank" rel="noopener noreferrer">imagen</a>de tu tarea pasada. Imprime y adjunta el trabajo en tu folder.</p>
 </div>
+<h2 id="_3bs08-genero-patrones-de-manera-simple" tabindex="-1"><a class="header-anchor" href="#_3bs08-genero-patrones-de-manera-simple"><span>3BS08: Genero patrones de manera simple</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 29 de Setiembre al 03 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=nsfeFNc1mag" target="_blank" rel="noopener noreferrer">Crear patrones</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>En Adobe Illustrator, la creación de patrones es una herramienta fundamental para generar diseños repetitivos y versátiles que pueden aplicarse en fondos, ilustraciones, textiles, empaques y diversos proyectos gráficos. A través del panel de patrones, es posible diseñar una figura o motivo y transformarlo en una composición que se repite de manera automática y precisa, manteniendo siempre la calidad vectorial. Esta función permite experimentar con formas, colores y escalas, logrando resultados creativos y personalizados que enriquecen cualquier proyecto de diseño.</p>
+<h2 id="_3bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs09-practica-calificada-revision-de-folder"><span>3BS09: Practica Calificada - Revisión de Folder</span></a></h2>
+<div class="hint-container caution">
+<p class="hint-container-title">Advertencia</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Callao (Martes 07) Oquendo (Jueves 09)<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator</p>
+</div>
+<p>Busca <strong>pattern school</strong> en Google, escoge uno de los que aparece y crea una textura en Illustrator. Solo deberás agregar el logotipo del colegio en dicha textura. La textures puedes hacerla a mano alzada usando el pincel o el lápiz.</p>
+<p>Una vez termines, añade la textura a una hoja completa, coloca una frase de tu agrado e imprímela. Presenta dicha práctica en tu folder el día que se indica en la fecha límite.</p>
 </div></template>
 
 

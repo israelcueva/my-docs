@@ -35,3 +35,20 @@ La animación mediante la técnica de rigging consiste en crear una especie de �
 ::: warning **Tarea**
 Usa el personaje de ejemplo e iguala la animación del gif de ejemplo con NINA. Exporta la animación a MPEG-4 o AVI y envíalo a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/El0_zmvNfDVHm0tyHkz5X-IBb9UfPAj_KHN_87ahDaNnQA)
 :::
+
+## 3BS08: Afino detalles de mi animación final
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 29 de Setiembre al 03 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-flash:: Adobe Flash / ::logos:adobe-animate:: Animate<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Realizar practica final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=ZEdYbW6vK7s) / [Walking](https://www.youtube.com/watch?v=Mol0lrRBy3g)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+
+Efectos como sombras, brillos, desenfoques, resplandores o transparencias, ayudan a resaltar personajes, objetos y escenas, generando una mayor profundidad y transmitiendo emociones de forma más efectiva. Al aplicarlos, no solo mejoramos la estética, sino que también podemos guiar la atención del espectador hacia elementos clave de la historia. El uso adecuado de los efectos especiales convierte una animación sencilla en una experiencia visual más envolvente y profesional.
+
+## 3BS09: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Domingo 5 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::file-icons:adobe-flash /#221210:: **Flash** / ::logos:adobe-animate:: **Animate**
+
+Revisa esta [animación](https://i.pinimg.com/originals/d5/34/21/d534212932500d4963739f0ebd3b601e.gif) y replicala usando Adobe Flash. Agregale un fondo, además que el color de la llama sea blanca. 
+
+Una vez termines tu trabajo expórtalo a video (MP4 o AVI) y envíalo a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Evhrwy3FuOtKvdrRBOx41wwBL6Yq7vtpo75s6RYdvZ11gQ)
+

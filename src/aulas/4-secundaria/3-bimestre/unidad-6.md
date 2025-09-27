@@ -33,3 +33,17 @@ Las máscaras son una herramienta fundamental en el diseño digital y la edició
 ::: warning **Tarea**
 Mira esta [imagen](https://static.vecteezy.com/system/resources/previews/017/047/796/non_2x/cute-chibi-cow-kawaii-illustration-cow-farm-icon-graphic-vector.jpg) y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.
 :::
+
+## 3BS08: Creo formas avanzadas usando Buscatrazos
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 29 de Setiembre al 03 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Realizar practica final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=2Um44xAlvH8)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
+
+El Buscatrazos en Illustrator es una de las herramientas más útiles para trabajar con formas y vectores, ya que permite combinar, dividir, recortar o simplificar objetos de manera rápida y precisa. Con sus distintas opciones, como Unir, Menos frente, Intersecar o Excluir, el diseñador puede crear figuras personalizadas a partir de formas básicas, agilizando el proceso de diseño y dándole mayor versatilidad a la creación de logotipos, ilustraciones y composiciones gráficas. Gracias al Buscatrazos, es posible transformar ideas simples en elementos visuales complejos sin perder la calidad vectorial.
+
+## 3BS09: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:**  Callao (Martes 07) Oquendo (Jueves 09)<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator
+
+Escoge un robot de esta[imagen](https://img.freepik.com/vector-premium/robots-humanoides-androides-cyborg-juguetes-o-bots-maquinas-inteligencia-artificial_53500-279.jpg) y trata de replicarlo usando Adobe Illustrator. Imprime tu proyecto y preséntalo en folder el día indicado en la fecha límite.

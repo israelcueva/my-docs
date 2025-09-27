@@ -19,6 +19,19 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Usa el personaje de ejemplo e iguala la animación del gif de ejemplo con NINA. Exporta la animación a MPEG-4 o AVI y envíalo a través de este <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/El0_zmvNfDVHm0tyHkz5X-IBb9UfPAj_KHN_87ahDaNnQA" target="_blank" rel="noopener noreferrer">enlace</a></p>
 </div>
+<h2 id="_3bs08-afino-detalles-de-mi-animacion-final" tabindex="-1"><a class="header-anchor" href="#_3bs08-afino-detalles-de-mi-animacion-final"><span>3BS08: Afino detalles de mi animación final</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 29 de Setiembre al 03 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-flash" /> Adobe Flash / <VPIcon icon="logos:adobe-animate" /> Animate<br> <VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Realizar practica final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=ZEdYbW6vK7s" target="_blank" rel="noopener noreferrer">Video</a> / <a href="https://www.youtube.com/watch?v=Mol0lrRBy3g" target="_blank" rel="noopener noreferrer">Walking</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>Efectos como sombras, brillos, desenfoques, resplandores o transparencias, ayudan a resaltar personajes, objetos y escenas, generando una mayor profundidad y transmitiendo emociones de forma más efectiva. Al aplicarlos, no solo mejoramos la estética, sino que también podemos guiar la atención del espectador hacia elementos clave de la historia. El uso adecuado de los efectos especiales convierte una animación sencilla en una experiencia visual más envolvente y profesional.</p>
+<h2 id="_3bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs09-practica-calificada-revision-de-folder"><span>3BS09: Practica Calificada - Revisión de Folder</span></a></h2>
+<div class="hint-container caution">
+<p class="hint-container-title">Advertencia</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Domingo 5 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="file-icons:adobe-flash" color="#221210" /> <strong>Flash</strong> / <VPIcon icon="logos:adobe-animate" /> <strong>Animate</strong></p>
+</div>
+<p>Revisa esta <a href="https://i.pinimg.com/originals/d5/34/21/d534212932500d4963739f0ebd3b601e.gif" target="_blank" rel="noopener noreferrer">animación</a> y replicala usando Adobe Flash. Agregale un fondo, además que el color de la llama sea blanca.</p>
+<p>Una vez termines tu trabajo expórtalo a video (MP4 o AVI) y envíalo a través de este <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Evhrwy3FuOtKvdrRBOx41wwBL6Yq7vtpo75s6RYdvZ11gQ" target="_blank" rel="noopener noreferrer">enlace</a></p>
 </div></template>
 
 

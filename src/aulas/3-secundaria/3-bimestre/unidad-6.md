@@ -419,3 +419,151 @@ productos.forEach(p => {
 </html>
 
 ```
+
+## 3BS08: Hago de uso de objetos JSON para enviar datos
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 29 de Setiembre al 03 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Realizar la práctica final S09<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=5DaZXXbHI_U)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+En JavaScript, los objetos JSON (JavaScript Object Notation) son una forma ligera y estructurada de almacenar e intercambiar información entre aplicaciones. Su sintaxis está basada en pares de clave y valor, lo que facilita la organización de datos de manera clara y legible tanto para humanos como para máquinas. JSON es ampliamente utilizado en el desarrollo web, especialmente para enviar y recibir información desde servidores a través de APIs. Gracias a su simplicidad y compatibilidad, se ha convertido en un estándar esencial para trabajar con datos en entornos modernos de programación.
+
+```json title="Ejemplos básicos"
+{
+  "nombre": "Ana",
+  "edad": 20,
+  "estudiante": true,
+  "cursos": ["Matemáticas", "Historia", "Programación"]
+}
+```
+
+En este caso, el objeto JSON contiene datos sobre una persona: su nombre, edad, si es estudiante y una lista de cursos.
+
+En JavaScript, se trabaja con JSON a través de los métodos:
+
+- `JSON.stringify(objeto)` → Convierte un objeto de JavaScript a una cadena JSON.
+- `JSON.parse(cadena)` → Convierte una cadena JSON en un objeto de JavaScript.
+
+Esto hace que JSON sea muy útil para intercambiar datos en aplicaciones web modernas.
+
+```javascript title="Ejemplo básico"
+// Un objeto JSON con información de estudiantes
+let estudiantesJSON = `[
+  { "nombre": "Luis", "edad": 16, "grado": "4to" },
+  { "nombre": "María", "edad": 15, "grado": "3ro" },
+  { "nombre": "Pedro", "edad": 17, "grado": "5to" }
+]`;
+
+// Convertimos la cadena JSON a un objeto de JavaScript
+let estudiantes = JSON.parse(estudiantesJSON);
+
+// Mostrar todos los estudiantes
+console.log("Lista de estudiantes:");
+estudiantes.forEach(est => {
+  console.log(`${est.nombre} - Edad: ${est.edad}, Grado: ${est.grado}`);
+});
+
+// Convertir nuevamente a JSON
+let nuevoJSON = JSON.stringify(estudiantes);
+console.log("Objeto convertido otra vez a JSON:");
+console.log(nuevoJSON);
+
+```
+
+### Ejemplo de clase
+
+```html title="index.html"
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Pokédex Fluent Design</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f3f3f3;
+      margin: 0;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #e3350d;
+      margin-bottom: 30px;
+      font-weight: 600;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+      max-width: 1200px;
+      margin: auto;
+    }
+
+    .card {
+      background: #ffffffcc;
+      border-radius: 16px;
+      padding: 20px;
+      text-align: center;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+      transition: transform 0.2s ease, box-shadow 0.2s ease;
+      backdrop-filter: blur(8px);
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 12px 24px rgba(0,0,0,0.15);
+    }
+
+    .card img {
+      width: 100px;
+      height: 100px;
+      margin-bottom: 10px;
+    }
+
+    .card h2 {
+      font-size: 18px;
+      margin: 0;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>Pokédex Fluent Design</h1>
+  <div class="grid" id="pokemon-grid"></div>
+
+  <script>
+    // URL de la PokéAPI
+    let url = "https://pokeapi.co/api/v2/pokemon?limit=20";
+
+    fetch(url)
+      .then(res => res.json())
+      .then(data => {
+        let grid = document.getElementById("pokemon-grid");
+
+        data.results.forEach(pokemon => {
+          fetch(pokemon.url)
+            .then(res => res.json())
+            .then(info => {
+              let card = document.createElement("div");
+              card.classList.add("card");
+              card.innerHTML = `
+                <img src="${info.sprites.front_default}" alt="${pokemon.name}">
+                <h2>${pokemon.name.toUpperCase()}</h2>
+              `;
+              grid.appendChild(card);
+            });
+        });
+      })
+      .catch(error => console.log("Error: " + error));
+  </script>
+</body>
+</html>
+```
+
+## 3BS09: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 9<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)
+
+Crea una app que me permite según el nombre del pokemon que escriba en un input me muestre los detalles de dicho pokemon. Sube tu proyecto a Internet y en clase se te haran preguntas al respecto.

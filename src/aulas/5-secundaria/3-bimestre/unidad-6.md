@@ -116,3 +116,75 @@ def sumar(a, b):
 resultado = sumar(5, 7)
 print("La suma es:", resultado)
 ```
+
+## 3BS08: Importo librerías como pandas o Numpy
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 29 de Setiembre al 03 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Realizar la práctica final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=hWbD_6xhYe0)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+El import en Python es la forma en que un programa incorpora módulos —archivos o bibliotecas— para reutilizar código ya escrito (funciones, clases, constantes). Gracias a import puedes mantener tu código organizado, aprovechar la funcionalidad de la librería estándar o instalar paquetes externos y usarlos inmediatamente en tu proyecto. Existen variantes: import módulo importa el módulo completo, from módulo import nombre trae elementos concretos, y puedes usar alias con as para acortar nombres. Usar import correctamente facilita la lectura, evita duplicar código y potencia la escalabilidad de tus programas.
+
+```python title="mimodulo.py"
+def saludar(nombre):
+    return f"Hola, {nombre}, bienvenido a Python!"
+
+def sumar(a, b):
+    return a + b
+```
+
+```python title="main.py"
+# programa.py
+import mimodulo
+
+print(mimodulo.saludar("Israel"))
+print(mimodulo.sumar(5, 7))
+```
+
+```python title="main.py"
+from mimodulo import saludar
+
+print(saludar("Ana"))
+```
+
+En Python, además de tus propios módulos, también puedes usar paquetes externos que otros programadores han creado y compartido. Estos paquetes se instalan desde PyPI (Python Package Index) usando la herramienta pip, que viene incluida con la mayoría de instalaciones de Python.
+
+Para instalar una paquete abrimos la terminal
+
+```bash instalando requests
+pip install requests
+```
+
+Una vez instalado el paquete procedemos a usarlo
+
+```python
+import requests
+
+respuesta = requests.get("https://pokeapi.co/api/v2/pokemon/pikachu")
+print(respuesta.json())  # Muestra los datos en formato JSON
+```
+
+Además podemos usar un alias para que sea más facil el manejo de paquetes
+
+```python
+import numpy as np
+
+numeros = np.array([1, 2, 3, 4, 5])
+print(np.mean(numeros))  # Promedio de la lista
+```
+
+Si solo necesitamos una función del paquete podemos especificarlo
+
+```python
+from datetime import date
+hoy = date.today()
+print("Hoy es:", hoy)
+```
+
+Con esto puedes acceder a miles de librerías ya hechas (para matemáticas, gráficos, inteligencia artificial, bases de datos, etc.), y solo necesitas instalarlas una vez en tu entorno de Python.
+
+## 3BS09: Practica Calificada - Revisión de Folder
+
+> [!caution]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 9<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ)
+
+Prepara el glosario con las palabras y todas las funciones usadas en clase. En la semana 9 se te haran preguntas respecto a ese glosario.
