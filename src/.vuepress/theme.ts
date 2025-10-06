@@ -5,6 +5,7 @@ import sidebar from "./sidebar.js";
 
 export default hopeTheme({
   darkmode: "toggle",
+  fullscreen: true,
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
   focus: false,
   pure: false,

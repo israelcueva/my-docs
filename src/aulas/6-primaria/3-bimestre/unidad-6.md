@@ -39,3 +39,7 @@ Con sus opciones de formas, colores y textos, en Excalidraw podemos representar 
 > ::fluent-color:calendar-48:: **Fecha Límite:** Callao (Martes 07) Oquendo (Jueves 09) <br>::fluent-color:laptop-48:: **Programa:** ::material-icon-theme:excalidraw:: [Excalidraw](https://excalidraw.com/)
 
 En Excalidraw realiza este [cartel](https://i.pinimg.com/736x/d0/bb/14/d0bb14bf678d1c03cd1e1f0199ccab5a.jpg) basándote en el programa de Aniversario de nuestra institución educativa María Reina de Corazones. Expórtalo en formato PNG, imprime tu proyecto y preséntalo en la semana el día indicado la fecha límite.
+
+### Presentación de folder
+
+Graba en video tu folder como en este [ejemplo](https://www.youtube.com/shorts/LVkLdyKfSKE). Dicho video lo puedes presentar a través este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Enspv5cDODRDvXzOoU5OwawB3uM-zFjrLONmMyOorkTm8w). **Recuerda que el texto se debe poder leer**
