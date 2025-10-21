@@ -23,6 +23,8 @@
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Callao (Martes 07) Oquendo (Jueves 09) <br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="material-icon-theme:excalidraw" /> <a href="https://excalidraw.com/" target="_blank" rel="noopener noreferrer">Excalidraw</a></p>
 </div>
 <p>En Excalidraw realiza este <a href="https://i.pinimg.com/736x/d0/bb/14/d0bb14bf678d1c03cd1e1f0199ccab5a.jpg" target="_blank" rel="noopener noreferrer">cartel</a> basándote en el programa de Aniversario de nuestra institución educativa María Reina de Corazones. Expórtalo en formato PNG, imprime tu proyecto y preséntalo en la semana el día indicado la fecha límite.</p>
+<h3 id="presentacion-de-folder" tabindex="-1"><a class="header-anchor" href="#presentacion-de-folder"><span>Presentación de folder</span></a></h3>
+<p>Graba en video tu folder como en este <a href="https://www.youtube.com/shorts/LVkLdyKfSKE" target="_blank" rel="noopener noreferrer">ejemplo</a>. Dicho video lo puedes presentar a través este <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Enspv5cDODRDvXzOoU5OwawB3uM-zFjrLONmMyOorkTm8w" target="_blank" rel="noopener noreferrer">enlace</a>. <strong>Recuerda que el texto se debe poder leer</strong></p>
 </div></template>
 
 

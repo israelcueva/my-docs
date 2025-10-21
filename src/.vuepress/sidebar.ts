@@ -38,6 +38,16 @@ export default sidebar({
                   "unidad-6.md",
                 ]
               },
+              {
+                text: "Bimestre IV",
+                prefix: "4-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-7.md",
+                  //"unidad-8.md",
+                ]
+              },
             ],
           },
         // 1-secundaria
@@ -55,6 +65,16 @@ export default sidebar({
                 children: [
                   "unidad-5.md",
                   "unidad-6.md",
+                ]
+              },
+                            {
+                text: "Bimestre IV",
+                prefix: "4-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-7.md",
+                  //"unidad-8.md",
                 ]
               },
             ],
@@ -76,6 +96,16 @@ export default sidebar({
                   "unidad-6.md",
                 ]
               },
+              {
+                text: "Bimestre IV",
+                prefix: "4-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-7.md",
+                  //"unidad-8.md",
+                ]
+              },
             ],
           },
           // 3-secundaria
@@ -93,6 +123,16 @@ export default sidebar({
                 children: [
                   "unidad-5.md",
                   "unidad-6.md",
+                ]
+              },
+                            {
+                text: "Bimestre IV",
+                prefix: "4-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-7.md",
+                  "unidad-8.md",
                 ]
               },
             ],
@@ -114,6 +154,16 @@ export default sidebar({
                   "unidad-6.md",
                 ]
               },
+                {
+                text: "Bimestre IV",
+                prefix: "4-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-7.md",
+                  "unidad-8.md",
+                ]
+              },
             ],
           },
           // 5-secundaria
@@ -131,6 +181,16 @@ export default sidebar({
                 children: [
                   "unidad-5.md",
                   "unidad-6.md",
+                ]
+              },
+                {
+                text: "Bimestre IV",
+                prefix: "4-bimestre/",
+                icon: "fluent-color:calendar-48",
+                collapsible: true,
+                children: [
+                  "unidad-7.md",
+                  "unidad-8.md",
                 ]
               },
             ],

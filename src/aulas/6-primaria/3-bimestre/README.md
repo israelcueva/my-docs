@@ -4,7 +4,7 @@ category:
   - Bimestre
 tag:
   - 3-bimestre
-  - 2-Secundaria
+  - 6-primaria
 author: Pepito
 order: 1
 icon: fluent-color:calendar-48
