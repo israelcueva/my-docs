@@ -2,7 +2,7 @@
 <h2 id="_4bs01-creo-una-animacion-de-balon-rebotando" tabindex="-1"><a class="header-anchor" href="#_4bs01-creo-una-animacion-de-balon-rebotando"><span>4BS01: Creo una animación de balón rebotando</span></a></h2>
 <div class="hint-container important">
 <p class="hint-container-title">Importante</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 20 al 24 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="ph:ghost" /> <a href="https://www.wickeditor.com/#/" target="_blank" rel="noopener noreferrer">Wick Editor</a><br> <VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/@lucacodes" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 20 al 24 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="ph:ghost" /> <a href="https://www.wickeditor.com/#/" target="_blank" rel="noopener noreferrer">Wick Editor</a><br> <VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/@lucacodes" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
 <p>En esta clase veremos como hacer una animación usando código solamente para que la animación sea &quot;procedural&quot;.</p>
 <p><strong>1. Crear Objeto</strong></p>
@@ -50,10 +50,6 @@
 <li>La pelota rebote ni bien toque el borde.</li>
 <li>Crear 3 pelotas más que reboten, que cada una sea de un color distinto.</li>
 </ul>
-<div class="hint-container warning">
-<p class="hint-container-title"><strong>Tarea</strong></p>
-<p>Mediante código, crea una animación de burbujas, puedes inspirarte en este famoso <a href="https://www.youtube.com/watch?v=zbLgoXkseY0" target="_blank" rel="noopener noreferrer">protector de pantalla</a>. Presentar proyecto en clase.</p>
-</div>
 </div></template>
 
 

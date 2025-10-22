@@ -17,7 +17,7 @@ order: 6
 ## 4BS01: Creo una animación de balón rebotando
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/@lucacodes)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/@lucacodes)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
 
 En esta clase veremos como hacer una animación usando código solamente para que la animación sea "procedural".
 
@@ -63,7 +63,3 @@ Ahora te toca cambiar el código para que haga lo siguiente:
 - Cambiar las propiedades necesarias para que la animación abarque todo el escenario.
 - La pelota rebote ni bien toque el borde.
 - Crear 3 pelotas más que reboten, que cada una sea de un color distinto.
-
-::: warning **Tarea**
-Mediante código, crea una animación de burbujas, puedes inspirarte en este famoso [protector de pantalla](https://www.youtube.com/watch?v=zbLgoXkseY0). Presentar proyecto en clase.
-:::

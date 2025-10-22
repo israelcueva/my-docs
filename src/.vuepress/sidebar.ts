@@ -132,7 +132,7 @@ export default sidebar({
                 collapsible: true,
                 children: [
                   "unidad-7.md",
-                  "unidad-8.md",
+                 // "unidad-8.md",
                 ]
               },
             ],
@@ -161,7 +161,7 @@ export default sidebar({
                 collapsible: true,
                 children: [
                   "unidad-7.md",
-                  "unidad-8.md",
+                  //"unidad-8.md",
                 ]
               },
             ],
@@ -190,7 +190,7 @@ export default sidebar({
                 collapsible: true,
                 children: [
                   "unidad-7.md",
-                  "unidad-8.md",
+                  //"unidad-8.md",
                 ]
               },
             ],

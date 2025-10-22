@@ -26,7 +26,7 @@ A partir de esta base, se pueden agregar luces, texturas, materiales, animacione
 ## 4BS01: Creo mi primer CUBO 3D
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Por añadir<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=ifYjDexuFxc)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=ifYjDexuFxc)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
 
 Uno de los primeros pasos para aprender a usar Three.js es crear un cubo 3D. Este ejercicio nos ayuda a entender los tres elementos fundamentales de toda escena en Three.js:
 
