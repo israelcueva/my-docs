@@ -4,11 +4,31 @@
 <p class="hint-container-title">Importante</p>
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 20 al 24 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="logos:visual-studio-code" /> <VPIcon icon="logos:python" /> <a href="https://www.youtube.com/watch?v=-IyA_Yvs8IQ" target="_blank" rel="noopener noreferrer">Instalar</a> /  <VPIcon icon="logos:xampp" /> <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noopener noreferrer">Xampp</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=JVNirg9qs4M" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
-<p>Pasos</p>
+<p>En esta primera clase veremos como crear una base datos simple, con una sola tabla llamada <code v-pre>TB_PERSON</code> y luego accederemos a esta mediante el conector de python. Para ello debemos seguir los pasos siguientes:</p>
 <p><strong>Xampp</strong></p>
 <ol>
 <li>Descargar Xampp desde su página.</li>
 <li>Crear una base de datos desde phpmyadmind.</li>
+</ol>
+<p><strong>MySQL</strong></p>
+<ol>
+<li>Abrimos el control panel de Xampp.</li>
+<li>Iniciamos los servicios de <strong>Apache</strong> y <strong>MySQL</strong>.</li>
+<li>Vamos al navegador y accedemos a <strong>localhost</strong>.</li>
+<li>En el menú que aparece buscamos <strong>phpmyadmin</strong>.</li>
+<li>A la izquierda presionamos en <strong>Nueva</strong>.</li>
+<li>Le colocamos el nombre a nuestra base de datos y damos clic en crear.</li>
+<li>Seleccionamos la base de datos que acabamos de crear en el menú de la izquierda.</li>
+<li>Abrimos la pestaña <strong>SQL</strong>.</li>
+<li>Colocamos el código siguiente:</li>
+</ol>
+<div class="language-sql line-numbers-mode" data-highlighter="shiki" data-ext="sql" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code" v-pre=""><code class="language-sql"><span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">CREATE</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> DATABASE</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> TB_PERSON</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">  person_id </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">INT</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> PRIMARY KEY</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">  person_name </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">VARCHAR</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">255</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">),</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">  person_last_name </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">VARCHAR</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">255</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="10">
+<li>Damos clic en continuar y ya tendriamos nuestra primera base de datos y una tabla llamada <strong>TB_PERSON</strong>.</li>
 </ol>
 <p><strong>Python</strong></p>
 <p>1- Instala el paquete oficial que permite conectar Python con MySQL.</p>

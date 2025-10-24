@@ -15,15 +15,25 @@ order: 6
 ## 4BS01: Diseño una tabla de ángulos
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](#)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Simbolo de grados](https://www.youtube.com/watch?v=bGk09pdFP-g) / [Imprimir en una sola hoja](https://www.youtube.com/watch?v=XRadXOlSMHo)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
 
 Trabajar con fórmulas en Excel es fundamental para aprovechar al máximo su potencial. Las fórmulas permiten realizar cálculos automáticos y procesar datos sin necesidad de hacerlo manualmente, lo que ahorra tiempo y reduce errores. En Excel, todas las fórmulas comienzan con el signo igual (=), seguido de los valores, celdas o funciones que se desean utilizar. Por ejemplo, para veste caso usaremos las siguientes:
 
-- Hallar el tercer ángulo: `=180-(LadoA+LadoB)`
-- Sumar todos los lados: `=SUMA(Angulos)`
+- Hallar el tercer ángulo: `=180-(C3+D3)`
+- Sumar todos los lados: `=SUMA(C3:E3)`
 
 En el primero usamos una fórmula normal y en el segundo usamos una función de Excel llamada SUMA.
 
 ::: warning **Tarea**
 Replica el proyecto de clase e imprime dicho proyecto siguiendo este [template](https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing).
 :::
+
+## 4BS02: Creo una tabla de polígonos regulares
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 27 al 31 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Multilínea](https://www.youtube.com/watch?v=O4HudVR_DfQ) / [Alinear](https://www.youtube.com/watch?v=Ng7_wNxPXLQ) / [Ancho&Alto](https://www.youtube.com/watch?v=BQN9lQILV1Q)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+
+Con las opciones de formato, es posible modificar el tipo de letra, el color, el tamaño, los bordes y el fondo de las celdas, así como aplicar formatos numéricos (por ejemplo, para mostrar fechas, monedas o porcentajes). También se pueden usar reglas de formato condicional para resaltar automáticamente ciertos valores según criterios específicos.
+
+  
+

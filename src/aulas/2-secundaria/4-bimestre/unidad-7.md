@@ -62,4 +62,4 @@ Ahora te toca cambiar el código para que haga lo siguiente:
 
 - Cambiar las propiedades necesarias para que la animación abarque todo el escenario.
 - La pelota rebote ni bien toque el borde.
-- Crear 3 pelotas más que reboten, que cada una sea de un color distinto.
+- Crear 3 pelotas más que reboten, que cada una sea de un color y tamaño distintos.

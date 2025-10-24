@@ -18,3 +18,10 @@ order: 5
 > ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Tutorial](#)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
 
 La programación basada en bloques de Scratch utiliza piezas gráficas de colores que representan instrucciones. Estas se arrastran y encajan entre sí como si fueran fichas de rompecabezas, lo que permite crear secuencias lógicas sin escribir código. Cada bloque cumple una función específica, como mover un personaje, reproducir sonidos o tomar decisiones. Este enfoque visual facilita el aprendizaje de conceptos fundamentales de la programación, como bucles, condiciones y eventos, de una manera intuitiva y accesible para todos.
+
+## 4BS02: Creo un personaje interactivo
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 27 al 31 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Tutorial](#)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
+
+En este proyecto aprenderás los pasos básicos para crear tu propio personaje interactivo en Scratch: desde el diseño del sprite y la programación de sus movimientos, hasta la incorporación de efectos visuales y sonidos que harán tu animación mucho más atractiva. ¡Prepárate para combinar creatividad y lógica para construir un personaje que cobre vida con tus propias instrucciones!
