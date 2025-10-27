@@ -63,3 +63,50 @@ Incluye herramientas esenciales para que WordPress funcione correctamente:
 7. **Acceder al sitio**
    - Sitio web: `http://localhost/wordpress`
    - Panel de administración: `http://localhost/wordpress/wp-admin`
+
+## 4BS02: Hago la configuración inicial de mi sitio de Wordpress
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 27 al 31 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::dashicons:wordpress /#21759b:: [Wordpress](https://es.wordpress.org/download/) / ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=VNWMV3R822M)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+La configuración inicial de WordPress es un paso fundamental para poner en marcha un sitio web funcional, seguro y optimizado desde el primer momento. Durante este proceso se definen aspectos esenciales como el idioma del sitio, el nombre y descripción del proyecto, la cuenta de administrador, la dirección de correo electrónico y los ajustes básicos de enlaces permanentes y zona horaria. Además, se realizan las primeras personalizaciones relacionadas con la apariencia y los complementos necesarios para ampliar las funciones del sitio. Una correcta configuración inicial garantiza una base sólida para el desarrollo, mantenimiento y crecimiento del proyecto web en WordPress.
+
+**Configuración iniciales**
+
+**1. Crear páginas de iniciales**
+
+Ve la sección páginas y crear las páginas siguientes, el slug se coloca en paréntesis.
+
+- Inicio (inicio).
+- Acerca de (acerca-de).
+- Blog (blog).
+- Contacto (contacto).
+
+**2. Ajustes del sitio**
+
+**2.1 Ajustes -> Generales**
+
+- Título del sitio: Nombre de tu web. Ejemplo: Concinando con Pepito
+- Descripción corta: Frase que resume el propósito del sitio. Ejemplo: Descubre una manera simple de cocinar.
+- Icono del sitio: Una imagen que represente el sitio como un logo.
+- Correo electrónico del administrador: Donde recibirás notificaciones y si te olvidas la contraseña a donde se enviará la misma.
+- Zona horaria: Elige tu país o ciudad.
+- Formato de fecha y hora: Selecciona tu formato preferido. En Perú se usa el dd-mm-yyyy
+- Idioma del sitio: Español o el idioma de preferencia.
+
+**2.2 Ajustes -> Lectura**
+
+- Una página estatica: Seleccionar la página Inicio y para las entradas la página Blog.
+- Para cada entrada en el fed incluir **Extracto**.
+- Activar la opción: Pedir a los motores de búsqueda no indexar este sitio.
+
+**2.3 Enlaces permanentes**
+
+En estructura perzonalizada coloca lo siguiente: `/%category%/%postname%`
+
+### Tarea
+
+::: warning **Tarea**
+En tu sitio de Wordpress haz esta primera configuración inicial. Recuerda que tienes como plazo hasta el día Sábado 01 de Noviembre.
+:::
+

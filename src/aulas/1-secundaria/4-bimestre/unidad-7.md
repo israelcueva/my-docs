@@ -35,5 +35,8 @@ Replica el proyecto de clase e imprime dicho proyecto siguiendo este [template](
 
 Con las opciones de formato, es posible modificar el tipo de letra, el color, el tamaño, los bordes y el fondo de las celdas, así como aplicar formatos numéricos (por ejemplo, para mostrar fechas, monedas o porcentajes). También se pueden usar reglas de formato condicional para resaltar automáticamente ciertos valores según criterios específicos.
 
+::: warning **Tarea**
+Replica el proyecto de clase e imprime dicho proyecto siguiendo este [template](https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing).
+:::
   
 

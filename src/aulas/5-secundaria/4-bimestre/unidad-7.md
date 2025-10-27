@@ -37,7 +37,7 @@ En esta primera clase veremos como crear una base datos simple, con una sola tab
 9. Colocamos el código siguiente:
 
 ```sql
-CREATE DATABASE TB_PERSON(
+CREATE TABLE TB_PERSON(
   person_id INT PRIMARY KEY,
   person_name VARCHAR(255),
   person_last_name VARCHAR(255)
@@ -91,3 +91,59 @@ for tabla in cursor:
 ```python
 conexion.close()
 ```
+
+## 4BS02: Muestro una tabla usando SELECT
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ) /  ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=RgLzqIFZg8s)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+Esta semana veremos como usar otro comando de Mysql llamado SELECT, que basicamente nos permite seleccionar datos en base a un criterio o múltiples.
+
+Antes de empezar necesitamos agregar nuevos datos a la tabla creada anteriormente. Por ende, ve a **phpmyadmin** y ejecuta el código SQL siguiente, de paso añade tus nombres y apellidos completos.
+
+```sql
+INSERT INTO TB_PERSON (person_id, person_name, person_last_name) VALUES
+(1, 'Luis Alberto', 'García Torres'),
+(2, 'María Fernanda', 'Ramírez López'),
+(3, 'Juan Carlos', 'Vásquez Rojas'),
+(4, 'Ana Lucía', 'Flores Delgado'),
+(5, 'Carlos Eduardo', 'Mendoza Salazar'),
+(6, 'Lucía Isabel', 'Paredes Quispe'),
+(7, 'Jorge Antonio', 'Campos Huamán'),
+(8, 'Elena Sofía', 'Chávez Gutiérrez'),
+(9, 'Miguel Ángel', 'Huerta Castillo'),
+(10, 'Rosa María', 'Sánchez Palomino');
+```
+
+Ahora que nuestra tabla `TB_PERSON` esta creada y tiene datos podemos ejecutar el siguiente código de python:
+
+```python
+import mysql.connector
+
+# Conexión a MySQL
+conn = mysql.connector.connect(
+    host="localhost",
+    user="root",
+    password="",
+    database="nombre_de_tu_base" 
+)
+
+cursor = conn.cursor()
+
+# Mostrar registros
+print("=== LISTADO DE PERSONAS ===")
+cursor.execute("SELECT * FROM TB_PERSON")
+rows = cursor.fetchall()
+
+for row in rows:
+    print(f"ID: {row[0]} | Nombre: {row[1]} | Apellidos: {row[2]}")
+
+# Cerrar conexión
+cursor.close()
+conn.close()
+```
+
+::: warning **Tarea**
+Revisa la documentación de [SELECT](https://www.w3schools.com/mysql/mysql_select.asp) y [WHERE](https://www.w3schools.com/mysql/mysql_where.asp) que en clase se te haran preguntas.
+:::
+  
