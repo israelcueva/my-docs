@@ -135,3 +135,99 @@ if (this.growing) {
 Recrea la siguiente animación: [Enlace](https://static.wikia.nocookie.net/alldimensions/images/f/f6/ForthrightTediousChrysomelid-size_restricted.gif/revision/latest?cb=20200516110000).
 Una vez terminado, presenta tu proyecto, en formato GIF, por esta URL: [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/EuwjJIwHkgBBnDFJavFewS4BfdwvJhswD48ODASxeRqWpw)
 :::
+
+## 4BS02: Animo mi nombre usando textos simples
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 03 al 07 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/) / [Candlestickers](https://candlestickers.app/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/@lucacodes)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+
+
+Al usar Wick Editor, los textos pueden desplazarse, cambiar de color, tamaño o transparencia, e incluso combinarse con imágenes y sonidos. El proceso es intuitivo: solo se necesita crear un texto, colocarlo en la línea de tiempo y aplicar transformaciones cuadro por cuadro o mediante código en JavaScript.
+
+Aprender a animar textos en Wick Editor no solo ayuda a mejorar la presentación visual de los proyectos, sino que también permite explorar conceptos básicos de movimiento, ritmo y sincronización, esenciales en toda producción animada.
+
+### Código de clase
+
+```javascript
+// Animación de Entrada con Fade y Movimiento
+
+// Variables iniciales
+if (!this.initialized) {
+    this.opacity = 0;
+    this.x = project.width / 2 - 200; // Comienza a la izquierda
+    this.scaleX = 0.5;
+    this.scaleY = 0.5;
+    this.initialized = true;
+}
+
+// Animación gradual
+this.opacity += 0.05;
+this.x += 4;
+this.scaleX += 0.01;
+this.scaleY += 0.01;
+
+// Detener cuando llegue a la posición final
+if (this.opacity >= 1) {
+    this.opacity = 1;
+    this.scaleX = 1;
+    this.scaleY = 1;
+}
+
+
+// Texto Rebotando
+
+if (!this.time) this.time = 0;
+this.time++;
+
+// Movimiento de rebote usando seno
+this.y = project.height / 2 + Math.sin(this.time * 0.1) * 50;
+
+
+// Texto Girando y Cambiando Tamaño
+
+if (!this.angle) this.angle = 0;
+this.angle += 2;
+
+this.rotation = this.angle;
+this.scaleX = 1 + Math.sin(this.angle * 0.05) * 0.3;
+this.scaleY = 1 + Math.sin(this.angle * 0.05) * 0.3;
+
+// Efecto de Máquina de Escribir
+
+if (!root.fullText) {
+    root.fullText = "¡Hola Mamá!";
+    root.currentText = "";
+    root.charIndex = 0;
+    root.frameCounter = 0;
+}
+
+root.frameCounter++;
+
+if (root.frameCounter % 5 === 0 && root.charIndex < root.fullText.length) {
+    root.currentText += root.fullText[root.charIndex];
+    root.charIndex++;
+}
+
+if (project.activeFrame.getClip("textito")) {
+    project.activeFrame.getClip("textito").text = root.currentText;
+}
+
+// Texto Pulsante
+
+if (!this.pulse) this.pulse = 0;
+this.pulse += 0.1;
+
+var scale = 1 + Math.sin(this.pulse) * 0.2;
+this.scaleX = scale;
+this.scaleY = scale;
+
+// Texto con Efecto de Onda (Wave)
+
+if (!this.waveTime) this.waveTime = 0;
+this.waveTime += 0.1;
+
+this.y = project.height / 2 + Math.sin(this.waveTime) * 30;
+this.rotation = Math.sin(this.waveTime * 2) * 10;
+
+```
+

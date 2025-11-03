@@ -25,3 +25,10 @@ La programación basada en bloques de Scratch utiliza piezas gráficas de colore
 > ::fluent-color:calendar-48:: **Fecha:** 27 al 31 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Tutorial](#)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
 
 En este proyecto aprenderás los pasos básicos para crear tu propio personaje interactivo en Scratch: desde el diseño del sprite y la programación de sus movimientos, hasta la incorporación de efectos visuales y sonidos que harán tu animación mucho más atractiva. ¡Prepárate para combinar creatividad y lógica para construir un personaje que cobre vida con tus propias instrucciones!
+
+## 4BS02: Programo un juego de laberinto
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 03 al 07 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Tutorial](#)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
+
+En este proyecto, diseñaremos un recorrido lleno de caminos y obstáculos que el jugador debe superar moviendo un personaje hasta llegar a la meta. A lo largo del proceso, se aplican conceptos básicos como movimiento con teclas, detección de colisiones, control de eventos y uso de variables.
