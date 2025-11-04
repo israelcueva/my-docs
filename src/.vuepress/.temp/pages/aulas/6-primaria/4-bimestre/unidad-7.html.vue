@@ -11,6 +11,12 @@
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 27 al 31 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:scratch" color="orange" /> <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer">Scratch</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completar ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="#">Tutorial</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
 <p>En este proyecto aprenderás los pasos básicos para crear tu propio personaje interactivo en Scratch: desde el diseño del sprite y la programación de sus movimientos, hasta la incorporación de efectos visuales y sonidos que harán tu animación mucho más atractiva. ¡Prepárate para combinar creatividad y lógica para construir un personaje que cobre vida con tus propias instrucciones!</p>
+<h2 id="_4bs02-programo-un-juego-de-laberinto" tabindex="-1"><a class="header-anchor" href="#_4bs02-programo-un-juego-de-laberinto"><span>4BS02: Programo un juego de laberinto</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 03 al 07 de Noviembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:scratch" color="orange" /> <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer">Scratch</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completar ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="#">Tutorial</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>En este proyecto, diseñaremos un recorrido lleno de caminos y obstáculos que el jugador debe superar moviendo un personaje hasta llegar a la meta. A lo largo del proceso, se aplican conceptos básicos como movimiento con teclas, detección de colisiones, control de eventos y uso de variables.</p>
 </div></template>
 
 
