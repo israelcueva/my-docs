@@ -24,6 +24,16 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Replica el proyecto de clase e imprime dicho proyecto siguiendo este <a href="https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing" target="_blank" rel="noopener noreferrer">template</a>.</p>
 </div>
+<h2 id="_4bs03-uso-operadores-para-calcular-porcentajes" tabindex="-1"><a class="header-anchor" href="#_4bs03-uso-operadores-para-calcular-porcentajes"><span>4BS03: Uso operadores para calcular porcentajes</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 03 al 07 de Noviembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-excel" /> Excel<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=O4HudVR_DfQ" target="_blank" rel="noopener noreferrer">Multilínea</a> / <a href="https://www.youtube.com/watch?v=Ng7_wNxPXLQ" target="_blank" rel="noopener noreferrer">Alinear</a> / <a href="https://www.youtube.com/watch?v=GCHVz9fHn_k" target="_blank" rel="noopener noreferrer">Porcentajes</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>El uso de porcentajes en Microsoft Excel es fundamental para analizar datos de manera clara y precisa. Con esta herramienta, es posible calcular aumentos, descuentos, proporciones o comparaciones entre valores de forma automática, facilitando tareas comunes como el análisis de ventas, presupuestos o evaluaciones académicas. Excel permite aplicar fórmulas sencillas, como dividir una parte entre el total y luego multiplicar por 100, además de ofrecer opciones de formato que convierten los resultados en porcentajes de manera visual y ordenada. Dominar el uso de porcentajes en Excel mejora la interpretación de la información y agiliza la toma de decisiones basadas en datos.</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Replica el proyecto de clase e imprime dicho proyecto siguiendo este <a href="https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing" target="_blank" rel="noopener noreferrer">template</a>.</p>
+</div>
 </div></template>
 
 

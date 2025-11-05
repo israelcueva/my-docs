@@ -353,3 +353,7 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+::: warning **Tarea**
+Crea la base de datos animales y muestrala como hicimos con `TB_PERSON`. En clase tendrás que ejecutarlo y este debe funcionar sin problema.
+:::

@@ -136,7 +136,7 @@ Recrea la siguiente animación: [Enlace](https://static.wikia.nocookie.net/alldi
 Una vez terminado, presenta tu proyecto, en formato GIF, por esta URL: [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/EuwjJIwHkgBBnDFJavFewS4BfdwvJhswD48ODASxeRqWpw)
 :::
 
-## 4BS02: Animo mi nombre usando textos simples
+## 4BS03: Animo mi nombre usando textos simples
 
 > [!important]
 > ::fluent-color:calendar-48:: **Fecha:** 03 al 07 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/) / [Candlestickers](https://candlestickers.app/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/@lucacodes)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
@@ -231,3 +231,6 @@ this.rotation = Math.sin(this.waveTime * 2) * 10;
 
 ```
 
+::: warning **Tarea**
+Coloca todas las animaciones en un solo proyecto. Exportarlo a GIF y presenta tu proyecto, en formato GIF, por esta URL: [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Eu3xVwqEFj5Oo469FgauCiABFHAhA7BkNoUNKOiX-oYGiw)
+:::

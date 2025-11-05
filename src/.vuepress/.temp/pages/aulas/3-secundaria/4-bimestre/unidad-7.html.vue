@@ -111,10 +111,59 @@ Incluye herramientas esenciales para que WordPress funcione correctamente:</p>
 </ul>
 <p><strong>2.3 Enlaces permanentes</strong></p>
 <p>En estructura perzonalizada coloca lo siguiente: <code v-pre>/%category%/%postname%</code></p>
-<h3 id="tarea" tabindex="-1"><a class="header-anchor" href="#tarea"><span>Tarea</span></a></h3>
 <div class="hint-container warning">
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>En tu sitio de Wordpress haz esta primera configuración inicial. Recuerda que tienes como plazo hasta el día Sábado 01 de Noviembre.</p>
+</div>
+<h2 id="_4bs03-creo-entradas-y-paginas-iniciales" tabindex="-1"><a class="header-anchor" href="#_4bs03-creo-entradas-y-paginas-iniciales"><span>4BS03: Creo entradas y páginas iniciales</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 03 al 07 de Noviembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="dashicons:wordpress" color="#21759b" /> <a href="https://es.wordpress.org/download/" target="_blank" rel="noopener noreferrer">Wordpress</a> / <VPIcon icon="logos:xampp" /> <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noopener noreferrer">Xampp</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=p4VUmQlEy8I" target="_blank" rel="noopener noreferrer">Spectra</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p><strong>1. Crear páginas principales</strong></p>
+<ol>
+<li>Inicia sesión en tu panel de WordPress (<a href="http://tusitio.com/wp-admin" target="_blank" rel="noopener noreferrer">tusitio.com/wp-admin</a>).</li>
+<li>En el menú lateral, haz clic en Páginas → Añadir nueva.</li>
+<li>Crea las siguientes páginas, una por una:
+<ul>
+<li>Inicio</li>
+<li>Acerca de</li>
+<li>Blog</li>
+<li>Contacto</li>
+</ul>
+</li>
+<li>En cada página:</li>
+<li>Agrega un título (por ejemplo, “Acerca de”).</li>
+<li>Escribe un texto breve o deja el espacio en blanco si lo editarás más adelante.</li>
+<li>Haz clic en Publicar para guardar los cambios.</li>
+</ol>
+<p><strong>2. Editar el menú principal</strong></p>
+<ol>
+<li>Ve a Apariencia → Temas.</li>
+<li>Activa el tema &quot;Astra&quot;</li>
+<li>Ve a Apariencia → Menús.</li>
+<li>Crea un nuevo menú llamado, por ejemplo: &quot;menu-principal&quot;.</li>
+<li>Marca las páginas que creaste y presiona Añadir al menú.</li>
+<li>Ordena los elementos arrastrándolos según el orden: Inicio, Acerca de, Blog y Contacto.</li>
+<li>Marca la casilla Ubicación en el tema → Menú principal.</li>
+<li>Haz clic en Guardar menú.</li>
+</ol>
+<p><strong>3. Establecer la página de inicio</strong></p>
+<ol>
+<li>Ve a Ajustes → Lectura.</li>
+<li>En la sección Tu página de inicio muestra, selecciona:</li>
+<li>Una página estática.</li>
+<li>En Página de inicio, elige Inicio.</li>
+<li>En Página de entradas, selecciona Blog.</li>
+<li>Adiconal: Activa Extracto más abajo.</li>
+<li>Guarda los cambios.</li>
+</ol>
+<p><strong>4. Editar la página de inicio con Spectra</strong></p>
+<p>Spectra (anteriormente Ultimate Addons for Gutenberg) permite diseñar páginas con bloques avanzados directamente en el editor de WordPress.</p>
+<p>Puedes guiarte al video que se adjunta esta semana y crear una página de inicio genial y bonita.</p>
+<div class="hint-container caution">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>En tu sitio de Wordpress realiza lo indicado esta semana. Tienes hasta el Sábado 8, de no completar dicha tarea tu sitio será eliminado irremediablemente.</p>
 </div>
 </div></template>
 

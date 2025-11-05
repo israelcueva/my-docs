@@ -104,9 +104,57 @@ Ve la sección páginas y crear las páginas siguientes, el slug se coloca en pa
 
 En estructura perzonalizada coloca lo siguiente: `/%category%/%postname%`
 
-### Tarea
-
 ::: warning **Tarea**
 En tu sitio de Wordpress haz esta primera configuración inicial. Recuerda que tienes como plazo hasta el día Sábado 01 de Noviembre.
 :::
 
+## 4BS03: Creo entradas y páginas iniciales
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 03 al 07 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::dashicons:wordpress /#21759b:: [Wordpress](https://es.wordpress.org/download/) / ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Spectra](https://www.youtube.com/watch?v=p4VUmQlEy8I)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+
+**1. Crear páginas principales**
+
+1. Inicia sesión en tu panel de WordPress (tusitio.com/wp-admin).
+2. En el menú lateral, haz clic en Páginas → Añadir nueva.
+3. Crea las siguientes páginas, una por una:
+   - Inicio
+   - Acerca de
+   - Blog
+   - Contacto
+4. En cada página:
+5. Agrega un título (por ejemplo, “Acerca de”).
+6. Escribe un texto breve o deja el espacio en blanco si lo editarás más adelante.
+7. Haz clic en Publicar para guardar los cambios.
+
+**2. Editar el menú principal**
+
+1. Ve a Apariencia → Temas.
+2. Activa el tema "Astra"
+3. Ve a Apariencia → Menús.
+4. Crea un nuevo menú llamado, por ejemplo: "menu-principal".
+5. Marca las páginas que creaste y presiona Añadir al menú.
+6. Ordena los elementos arrastrándolos según el orden: Inicio, Acerca de, Blog y Contacto.
+7. Marca la casilla Ubicación en el tema → Menú principal.
+8. Haz clic en Guardar menú.
+
+**3. Establecer la página de inicio**
+
+1. Ve a Ajustes → Lectura.
+2. En la sección Tu página de inicio muestra, selecciona:
+3. Una página estática.
+4. En Página de inicio, elige Inicio.
+5. En Página de entradas, selecciona Blog.
+6. Adiconal: Activa Extracto más abajo.
+7. Guarda los cambios.
+
+**4. Editar la página de inicio con Spectra**
+
+Spectra (anteriormente Ultimate Addons for Gutenberg) permite diseñar páginas con bloques avanzados directamente en el editor de WordPress.
+
+Puedes guiarte al video que se adjunta esta semana y crear una página de inicio genial y bonita.
+
+::: danger **Tarea**
+En tu sitio de Wordpress realiza lo indicado esta semana. Tienes hasta el Sábado 8, de no completar dicha tarea tu sitio será eliminado irremediablemente.
+:::

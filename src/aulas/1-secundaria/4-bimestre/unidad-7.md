@@ -40,3 +40,13 @@ Replica el proyecto de clase e imprime dicho proyecto siguiendo este [template](
 :::
   
 
+## 4BS03: Uso operadores para calcular porcentajes
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 03 al 07 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Multilínea](https://www.youtube.com/watch?v=O4HudVR_DfQ) / [Alinear](https://www.youtube.com/watch?v=Ng7_wNxPXLQ) / [Porcentajes](https://www.youtube.com/watch?v=GCHVz9fHn_k)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+
+El uso de porcentajes en Microsoft Excel es fundamental para analizar datos de manera clara y precisa. Con esta herramienta, es posible calcular aumentos, descuentos, proporciones o comparaciones entre valores de forma automática, facilitando tareas comunes como el análisis de ventas, presupuestos o evaluaciones académicas. Excel permite aplicar fórmulas sencillas, como dividir una parte entre el total y luego multiplicar por 100, además de ofrecer opciones de formato que convierten los resultados en porcentajes de manera visual y ordenada. Dominar el uso de porcentajes en Excel mejora la interpretación de la información y agiliza la toma de decisiones basadas en datos.
+
+::: warning **Tarea**
+Replica el proyecto de clase e imprime dicho proyecto siguiendo este [template](https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing).
+:::
