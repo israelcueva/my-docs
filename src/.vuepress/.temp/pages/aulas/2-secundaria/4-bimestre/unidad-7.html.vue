@@ -200,6 +200,12 @@ Una vez terminado, presenta tu proyecto, en formato GIF, por esta URL: <a href="
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Coloca todas las animaciones en un solo proyecto. Exportarlo a GIF y presenta tu proyecto, en formato GIF, por esta URL: <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Eu3xVwqEFj5Oo469FgauCiABFHAhA7BkNoUNKOiX-oYGiw" target="_blank" rel="noopener noreferrer">Enlace</a></p>
 </div>
+<h2 id="_4bs04-practica-calificada" tabindex="-1"><a class="header-anchor" href="#_4bs04-practica-calificada"><span>4BS04: Práctica Calificada</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 10 al 14 de Noviembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="ph:ghost" /> <a href="https://www.wickeditor.com/#/" target="_blank" rel="noopener noreferrer">Wick Editor</a> / <a href="https://candlestickers.app/" target="_blank" rel="noopener noreferrer">Candlestickers</a></p>
+</div>
+<p>Esta semana se te dará una pequeña práctica y te podras ayudar con chatGPT. Suerte.</p>
 </div></template>
 
 

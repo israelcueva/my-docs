@@ -50,3 +50,12 @@ El uso de porcentajes en Microsoft Excel es fundamental para analizar datos de m
 ::: warning **Tarea**
 Replica el proyecto de clase e imprime dicho proyecto siguiendo este [template](https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing).
 :::
+
+## 4BS04: Práctica Calificada & Revisión de folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 10 al 14 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-excel:: Excel
+
+Esta semana se te tomará una práctica que consiste en la elaboración de la tabla de polígonos regulares, pero esta vez con sus representaciones gráficas.
+
+Además, se te revisará el folder.

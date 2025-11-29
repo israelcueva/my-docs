@@ -7,7 +7,7 @@ tag:
   - 6-Primaria
 author: Pepito
 icon: fluent-color:notebook-32
-order: 5
+order: 1
 ---
 
 ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/) es un programa diseñado para aprender a programar de forma sencilla y divertida. Permite crear historias interactivas, juegos y animaciones mediante bloques de colores que se encajan como piezas de un rompecabezas. Gracias a su entorno visual, los estudiantes desarrollan el pensamiento lógico y la creatividad sin necesidad de escribir código complejo, convirtiéndose en una excelente herramienta para iniciarse en la programación.
@@ -32,3 +32,10 @@ En este proyecto aprenderás los pasos básicos para crear tu propio personaje i
 > ::fluent-color:calendar-48:: **Fecha:** 03 al 07 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Tutorial](https://youtu.be/oDI0GLVZ16M)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
 
 En este proyecto, diseñaremos un recorrido lleno de caminos y obstáculos que el jugador debe superar moviendo un personaje hasta llegar a la meta. A lo largo del proceso, se aplican conceptos básicos como movimiento con teclas, detección de colisiones, control de eventos y uso de variables.
+
+## 4BS04: Práctica Calificada & Revisión de folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** Semana 5<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)
+
+Se te evaluará en la sala de Computo la semana 4. Práctica todo lo aprendido.

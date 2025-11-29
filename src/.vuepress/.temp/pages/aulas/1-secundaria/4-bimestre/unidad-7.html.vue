@@ -34,6 +34,13 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Replica el proyecto de clase e imprime dicho proyecto siguiendo este <a href="https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing" target="_blank" rel="noopener noreferrer">template</a>.</p>
 </div>
+<h2 id="_4bs04-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_4bs04-practica-calificada-revision-de-folder"><span>4BS04: Práctica Calificada &amp; Revisión de folder</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 10 al 14 de Noviembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-excel" /> Excel</p>
+</div>
+<p>Esta semana se te tomará una práctica que consiste en la elaboración de la tabla de polígonos regulares, pero esta vez con sus representaciones gráficas.</p>
+<p>Además, se te revisará el folder.</p>
 </div></template>
 
 

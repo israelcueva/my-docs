@@ -158,3 +158,4 @@ Puedes guiarte al video que se adjunta esta semana y crear una página de inicio
 ::: danger **Tarea**
 En tu sitio de Wordpress realiza lo indicado esta semana. Tienes hasta el Sábado 8, de no completar dicha tarea tu sitio será eliminado irremediablemente.
 :::
+

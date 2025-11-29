@@ -9,7 +9,7 @@ tag:
   - Javascript
 author: Pepito
 icon: fluent-color:notebook-32
-order: 6
+order: 1
 ---
 
 ::ph:ghost:: Wick Editor es una herramienta gratuita y en línea que permite crear animaciones interactivas y videojuegos 2D de manera sencilla. Su entorno combina lo mejor de la animación tradicional con la programación básica, lo que lo convierte en una excelente opción para aficionados.
@@ -234,3 +234,10 @@ this.rotation = Math.sin(this.waveTime * 2) * 10;
 ::: warning **Tarea**
 Coloca todas las animaciones en un solo proyecto. Exportarlo a GIF y presenta tu proyecto, en formato GIF, por esta URL: [Enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Eu3xVwqEFj5Oo469FgauCiABFHAhA7BkNoUNKOiX-oYGiw)
 :::
+
+## 4BS04: Práctica Calificada
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 10 al 14 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/) / [Candlestickers](https://candlestickers.app/)
+
+Esta semana se te dará una pequeña práctica y te podras ayudar con chatGPT. Suerte.
