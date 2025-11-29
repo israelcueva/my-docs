@@ -7,7 +7,7 @@ tag:
   - 1-Secundaria
   - Excel
 icon: fluent-color:notebook-32
-order: 6
+order: 1
 ---
 
 ::vscode-icons:file-type-excel:: Microsoft Excel es una de las herramientas más utilizadas en el mundo para la organización, análisis y presentación de datos. Forma parte del paquete Microsoft Office y permite trabajar con hojas de cálculo donde se pueden realizar operaciones matemáticas, estadísticas y financieras de manera rápida y eficiente. Gracias a sus funciones, fórmulas, gráficos y tablas dinámicas, Excel se convierte en un recurso esencial tanto para estudiantes como para profesionales, facilitando la toma de decisiones basadas en información clara y estructurada. Su versatilidad lo hace útil en diversas áreas, como la educación, la contabilidad, la investigación científica y la gestión empresarial.

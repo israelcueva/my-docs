@@ -7,7 +7,7 @@ tag:
   - 5-Secundaria
 author: Pepito
 icon: fluent-color:notebook-32
-order: 6
+order: 1
 ---
 
 ::devicon:mysql-wordmark:: MySQL es un sistema de gestión de bases de datos relacional de código abierto ampliamente utilizado para almacenar, organizar y administrar información de manera eficiente. Su estructura basada en tablas permite establecer relaciones entre datos, garantizando integridad, consistencia y rapidez en las consultas. Gracias a su compatibilidad con múltiples lenguajes de programación y su integración con servidores web como Apache y PHP, MySQL se ha convertido en una herramienta fundamental para el desarrollo de aplicaciones web dinámicas, sistemas empresariales y proyectos educativos. Además, su facilidad de uso, alto rendimiento y constante actualización lo posicionan como uno de los motores de base de datos más populares en todo el mundo.
@@ -357,3 +357,10 @@ if __name__ == "__main__":
 ::: warning **Tarea**
 Crea la base de datos animales y muestrala como hicimos con `TB_PERSON`. En clase tendrás que ejecutarlo y este debe funcionar sin problema.
 :::
+
+## 4BS04: Práctica Calificada
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 03 al 07 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ) /  ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)
+
+Esta semana se te hará una serie de preugntas y retos respecto a lo aprendido.

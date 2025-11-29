@@ -8,7 +8,7 @@ tag:
   - treejs
 author: Pepito
 icon: fluent-color:notebook-32
-order: 6
+order: 1
 ---
 
 Three.js es una biblioteca de JavaScript que permite crear y mostrar gráficos en 3D directamente en el navegador web, sin necesidad de instalar programas adicionales. Funciona sobre WebGL, una tecnología que aprovecha la tarjeta gráfica del dispositivo para generar imágenes tridimensionales en tiempo real.
@@ -535,3 +535,9 @@ Realiza la animación siguiente
 Presentar en clase.
 :::
 
+## 4BS04: Práctica Calificada
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 10 al 14 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)
+
+Esta semana se te hará una evaluación en clase sobre Three.JS. Recuerda prácticar en casa lo que se esta trabajando.

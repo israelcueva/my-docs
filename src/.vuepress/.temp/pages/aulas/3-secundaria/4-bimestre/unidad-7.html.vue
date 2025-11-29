@@ -165,6 +165,13 @@ Incluye herramientas esenciales para que WordPress funcione correctamente:</p>
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>En tu sitio de Wordpress realiza lo indicado esta semana. Tienes hasta el Sábado 8, de no completar dicha tarea tu sitio será eliminado irremediablemente.</p>
 </div>
+<h2 id="_4bs04-revision-de-sitio-web" tabindex="-1"><a class="header-anchor" href="#_4bs04-revision-de-sitio-web"><span>4BS04: Revisión de sitio web</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 1 al 14de Noviembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="dashicons:wordpress" color="#21759b" /> <a href="https://es.wordpress.org/download/" target="_blank" rel="noopener noreferrer">Wordpress</a> / <VPIcon icon="logos:xampp" /> <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noopener noreferrer">Xampp</a></p>
+</div>
+<p>Esta semana se revisará tu avance del sitio web de Wordpress. Recuerda si no realizas tus avances el blog asignado para tí será eliminado permanentente.</p>
+<p>Extensión de plazo: Domingo 30 de Noviembre.</p>
 </div></template>
 
 

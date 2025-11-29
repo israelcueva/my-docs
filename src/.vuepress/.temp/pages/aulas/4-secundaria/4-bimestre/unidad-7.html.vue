@@ -468,6 +468,12 @@ Sin luz, los materiales como <code v-pre>MeshStandardMaterial</code> o <code v-p
 <p><a href="https://www.youtube.com/watch?v=hWG3N8ukEdE" target="_blank" rel="noopener noreferrer">Animación</a></p>
 <p>Presentar en clase.</p>
 </div>
+<h2 id="_4bs04-practica-calificada" tabindex="-1"><a class="header-anchor" href="#_4bs04-practica-calificada"><span>4BS04: Práctica Calificada</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 10 al 14 de Noviembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="logos:visual-studio-code" /> <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">Visual Studio Code</a></p>
+</div>
+<p>Esta semana se te hará una evaluación en clase sobre Three.JS. Recuerda prácticar en casa lo que se esta trabajando.</p>
 </div></template>
 
 

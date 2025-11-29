@@ -8,7 +8,7 @@ tag:
   - treejs
 author: Pepito
 icon: fluent-color:notebook-32
-order: 6
+order: 1
 ---
 
 ::dashicons:wordpress /#21759b:: WordPress es un sistema de gestión de contenidos (CMS, por sus siglas en inglés) que permite crear y administrar sitios web de manera sencilla, sin necesidad de tener conocimientos avanzados de programación. Fue lanzado en 2003 y, con el tiempo, se ha convertido en una de las herramientas más populares del mundo para diseñar blogs, portafolios, tiendas virtuales y páginas empresariales.
@@ -159,3 +159,11 @@ Puedes guiarte al video que se adjunta esta semana y crear una página de inicio
 En tu sitio de Wordpress realiza lo indicado esta semana. Tienes hasta el Sábado 8, de no completar dicha tarea tu sitio será eliminado irremediablemente.
 :::
 
+## 4BS04: Revisión de sitio web
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 1 al 14de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::dashicons:wordpress /#21759b:: [Wordpress](https://es.wordpress.org/download/) / ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)
+
+Esta semana se revisará tu avance del sitio web de Wordpress. Recuerda si no realizas tus avances el blog asignado para tí será eliminado permanentente.
+
+Extensión de plazo: Domingo 30 de Noviembre.
