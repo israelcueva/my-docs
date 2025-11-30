@@ -19,6 +19,24 @@ Esta combinación permite trabajar con datos precisos pero presentados de forma 
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Replica el proyecto de clase e imprime dicho proyecto siguiendo este <a href="https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing" target="_blank" rel="noopener noreferrer">template</a>.</p>
 </div>
+<h2 id="_4bs07-desarrollo-cuadros-estadisticos" tabindex="-1"><a class="header-anchor" href="#_4bs07-desarrollo-cuadros-estadisticos"><span>4BS07: Desarrollo cuadros estadísticos</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 01 al 05 de Diciembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-excel" /> Excel<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=IMUIwvcFnvM" target="_blank" rel="noopener noreferrer">Max/Min</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>Las funciones MAX y MIN en Excel son herramientas esenciales para el análisis de datos, especialmente al elaborar cuadros estadísticos. Estas funciones permiten identificar rápidamente el valor más alto y el más bajo dentro de un conjunto de datos, facilitando la interpretación de información en áreas como notas, ventas, temperaturas, cantidades y más. Su uso ayuda a los estudiantes a comprender tendencias, detectar extremos y resumir información de manera precisa. Integrar MAX y MIN en cuadros estadísticos convierte a Excel en una herramienta poderosa para la toma de decisiones y el análisis comparativo.</p>
+<h2 id="_4bs08-uso-condicionales-para-calculos-complejos-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_4bs08-uso-condicionales-para-calculos-complejos-revision-de-folder"><span>4BS08: Uso condicionales para cálculos complejos - Revisión de folder</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 08 al 12 de Diciembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-excel" /> Excel<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=IMUIwvcFnvM" target="_blank" rel="noopener noreferrer">Max/Min</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>El uso de condicionales en Excel, especialmente mediante funciones como SI, Y, O y sus combinaciones, permite tomar decisiones automáticas basadas en datos. Estas funciones ayudan a evaluar condiciones y devolver resultados distintos según se cumplan o no ciertos criterios. Gracias a ellas, es posible crear cuadros de control, clasificar información, generar alertas, automatizar cálculos y realizar análisis más precisos. Los condicionales convierten a Excel en una herramienta dinámica e inteligente, ideal para resolver problemas reales en contextos académicos, administrativos o empresariales.</p>
+<h2 id="_4bs09-practica-calificada" tabindex="-1"><a class="header-anchor" href="#_4bs09-practica-calificada"><span>4BS09: Práctica Calificada</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha límite:</strong> 14 de Diciembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-excel" /> Excel</p>
+</div>
+<p>Descarga y completa la práctica final, después imprime dicho trabajo en una sola hoja. Añadiendo tus datos personales (Apellidos y Nombres, Grado/Sección, Colegio/Sede)</p>
 </div></template>
 
 

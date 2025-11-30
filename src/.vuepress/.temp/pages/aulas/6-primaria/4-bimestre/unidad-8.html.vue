@@ -11,6 +11,24 @@
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 24 al 28 de Noviembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:scratch" color="orange" /> <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer">Scratch</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completar ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://youtu.be/teKK4nnlLoU" target="_blank" rel="noopener noreferrer">Tutorial</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
 <p>Scratch permite dibujar formas geométricas de manera sencilla utilizando el plano cartesiano, donde cada punto se define por sus coordenadas X (horizontal) e Y (vertical). Al mover al personaje o al lápiz a posiciones específicas del escenario, se pueden crear líneas, polígonos y figuras más complejas siguiendo rutas precisas.</p>
+<h2 id="_4bs07-desarrollo-una-calculadora-simple" tabindex="-1"><a class="header-anchor" href="#_4bs07-desarrollo-una-calculadora-simple"><span>4BS07: Desarrollo una calculadora simple</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 01 al 05 de Diciembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:scratch" color="orange" /> <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer">Scratch</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>Crear una calculadora en Scratch permite comprender conceptos básicos como variables, operadores matemáticos, eventos y control de datos. A través del uso de bloques, los alumnos pueden construir paso a paso un proyecto funcional que recibe números, realiza operaciones y muestra resultados, desarrollando así su pensamiento computacional. Además, esta actividad fortalece la comprensión de cómo funcionan las calculadoras reales y motiva a explorar nuevas formas de resolver problemas mediante la programación creativa.</p>
+<h2 id="_4bs08-diseno-y-programo-mi-bateria-virtual-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_4bs08-diseno-y-programo-mi-bateria-virtual-revision-de-folder"><span>4BS08: Diseño y programo mi batería virtual - Revisión de folder</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 08 al 12 de Diciembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:scratch" color="orange" /> <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer">Scratch</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>Crear un simulador de instrumentos musicales en Scratch es una actividad que permite explorar el uso de eventos, sensores, sonidos pregrabados y control de tiempo. Mediante bloques simples, los alumnos pueden diseñar interfaces interactivas donde cada tecla, botón o figura produce una nota musical.</p>
+<h2 id="_4bs09-practica-calificada" tabindex="-1"><a class="header-anchor" href="#_4bs09-practica-calificada"><span>4BS09: Práctica Calificada</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 15 al 19 de Diciembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:scratch" color="orange" /> <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer">Scratch</a><br></p>
+</div>
+<p>Como práctica deberás crear una simulador de bateria, que funcione usando las letras del teclado.</p>
 </div></template>
 
 

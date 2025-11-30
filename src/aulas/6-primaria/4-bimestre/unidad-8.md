@@ -26,3 +26,23 @@ El plano cartesiano es una herramienta esencial en Scratch para simular movimien
 
 Scratch permite dibujar formas geométricas de manera sencilla utilizando el plano cartesiano, donde cada punto se define por sus coordenadas X (horizontal) e Y (vertical). Al mover al personaje o al lápiz a posiciones específicas del escenario, se pueden crear líneas, polígonos y figuras más complejas siguiendo rutas precisas. 
 
+## 4BS07: Desarrollo una calculadora simple
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:**<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
+
+Crear una calculadora en Scratch permite comprender conceptos básicos como variables, operadores matemáticos, eventos y control de datos. A través del uso de bloques, los alumnos pueden construir paso a paso un proyecto funcional que recibe números, realiza operaciones y muestra resultados, desarrollando así su pensamiento computacional. Además, esta actividad fortalece la comprensión de cómo funcionan las calculadoras reales y motiva a explorar nuevas formas de resolver problemas mediante la programación creativa.
+
+## 4BS08: Diseño y programo mi batería virtual - Revisión de folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 08 al 12 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:**<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing)
+
+Crear un simulador de instrumentos musicales en Scratch es una actividad que permite explorar el uso de eventos, sensores, sonidos pregrabados y control de tiempo. Mediante bloques simples, los alumnos pueden diseñar interfaces interactivas donde cada tecla, botón o figura produce una nota musical.
+
+## 4BS09: Práctica Calificada
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 15 al 19 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:scratch /orange:: [Scratch](https://scratch.mit.edu/)<br>
+
+Como práctica deberás crear una simulador de bateria, que funcione usando las letras del teclado.

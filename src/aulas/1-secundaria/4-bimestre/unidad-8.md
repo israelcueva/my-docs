@@ -34,3 +34,24 @@ Esta combinación permite trabajar con datos precisos pero presentados de forma 
 ::: warning **Tarea**
 Replica el proyecto de clase e imprime dicho proyecto siguiendo este [template](https://drive.google.com/file/d/1JNsUku-ee2Ysjuk5MRBMfmVC9kbwXK8V/view?usp=sharing).
 :::
+
+## 4BS07: Desarrollo cuadros estadísticos
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Max/Min](https://www.youtube.com/watch?v=IMUIwvcFnvM)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+
+Las funciones MAX y MIN en Excel son herramientas esenciales para el análisis de datos, especialmente al elaborar cuadros estadísticos. Estas funciones permiten identificar rápidamente el valor más alto y el más bajo dentro de un conjunto de datos, facilitando la interpretación de información en áreas como notas, ventas, temperaturas, cantidades y más. Su uso ayuda a los estudiantes a comprender tendencias, detectar extremos y resumir información de manera precisa. Integrar MAX y MIN en cuadros estadísticos convierte a Excel en una herramienta poderosa para la toma de decisiones y el análisis comparativo.
+
+## 4BS08: Uso condicionales para cálculos complejos - Revisión de folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 08 al 12 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Max/Min](https://www.youtube.com/watch?v=IMUIwvcFnvM)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+
+El uso de condicionales en Excel, especialmente mediante funciones como SI, Y, O y sus combinaciones, permite tomar decisiones automáticas basadas en datos. Estas funciones ayudan a evaluar condiciones y devolver resultados distintos según se cumplan o no ciertos criterios. Gracias a ellas, es posible crear cuadros de control, clasificar información, generar alertas, automatizar cálculos y realizar análisis más precisos. Los condicionales convierten a Excel en una herramienta dinámica e inteligente, ideal para resolver problemas reales en contextos académicos, administrativos o empresariales.
+
+## 4BS09: Práctica Calificada
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha límite:** 14 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-excel:: Excel
+
+Descarga y completa la práctica final, después imprime dicho trabajo en una sola hoja. Añadiendo tus datos personales (Apellidos y Nombres, Grado/Sección, Colegio/Sede)
