@@ -65,7 +65,7 @@ Ahora te queda añadir texturas al resto de objetos. Para el fondo en vez de `ma
 ## 4BS06: Entiendo el manejo de la cámara en la escena
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 17 al 21 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Cámaras](https://www.youtube.com/watch?v=FwcXultcBl4) <br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 24 al 28 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Cámaras](https://www.youtube.com/watch?v=FwcXultcBl4) <br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
 
 Las cámaras en Three.js son fundamentales para definir qué parte de la escena 3D se renderiza y desde qué perspectiva. Actúan como los "ojos" a través de los cuales vemos el mundo 3D.
 
@@ -388,3 +388,267 @@ class CinematicCamera {
 5. **Controles**: Usa `enableDamping` en OrbitControls para movimientos más suaves y profesionales.
 
 6. **Límites**: Establece límites apropiados (minDistance, maxDistance, maxPolarAngle) para evitar que los usuarios pierdan la orientación.
+
+## 4BS07: Creo una animación con movimiento simple
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Cámaras](https://www.youtube.com/watch?v=FwcXultcBl4) <br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+Las animaciones en Three.js permiten dar vida a escenas 3D mediante el movimiento y transformación de objetos a lo largo del tiempo. Three.js ofrece varias formas de crear animaciones, desde bucles simples hasta sistemas complejos con AnimationMixer.
+
+**1. Bucle de Animación Básico**
+
+La forma más simple de animar es usando requestAnimationFrame(), que ejecuta una función repetidamente sincronizada con la tasa de refresco del navegador (generalmente 60 FPS).
+
+```
+function animate() {
+    requestAnimationFrame(animate);
+    
+    // Animar rotación
+    mesh.rotation.x += 0.01;
+    mesh.rotation.y += 0.01;
+    
+    renderer.render(scene, camera);
+}
+
+animate();
+```
+
+**2. Clock para Animaciones Basadas en Tiempo**
+
+El objeto `THREE.Clock` permite crear animaciones independientes de la velocidad de frames.
+
+```javascript
+const clock = new THREE.Clock();
+
+function animate() {
+    requestAnimationFrame(animate);
+    
+    const elapsedTime = clock.getElapsedTime();
+    
+    // Movimiento circular
+    mesh.position.x = Math.cos(elapsedTime) * 3;
+    mesh.position.y = Math.sin(elapsedTime) * 3;
+    
+    renderer.render(scene, camera);
+}
+```
+
+Métodos útiles de Clock
+
+- `getElapsedTime()`: Tiempo total desde que se creó el clock
+- `getDelta()`: Tiempo transcurrido desde el último frame
+- `start()`: Inicia el clock
+- `stop()`: Pausa el clock
+
+**3. Tweening con Bibliotecas Externas**
+
+Para animaciones más suaves y controladas, se puede usar GSAP (GreenSock Animation Platform):
+
+```javascript
+// Animar posición
+gsap.to(mesh.position, {
+    duration: 2,
+    x: 5,
+    ease: "power2.inOut"
+});
+
+// Animar múltiples propiedades
+gsap.to(mesh.rotation, {
+    duration: 3,
+    y: Math.PI * 2,
+    repeat: -1,
+    ease: "linear"
+});
+```
+
+**4. AnimationMixer y AnimationClip**
+
+Para animaciones más complejas, especialmente con modelos importados, Three.js ofrece el sistema de AnimationMixer.
+
+Crear AnimationClips Manualmente
+
+```javascript
+// Definir keyframes
+const times = [0, 1, 2];
+const values = [0, 1, 0]; // posiciones Y
+
+const positionTrack = new THREE.KeyframeTrack(
+    '.position[y]',
+    times,
+    values
+);
+
+// Crear clip
+const clip = new THREE.AnimationClip('salto', 2, [positionTrack]);
+
+// Configurar mixer
+const mixer = new THREE.AnimationMixer(mesh);
+const action = mixer.clipAction(clip);
+action.play();
+
+// En el bucle de animación
+const clock = new THREE.Clock();
+function animate() {
+    requestAnimationFrame(animate);
+    
+    mixer.update(clock.getDelta());
+    renderer.render(scene, camera);
+}
+```
+
+Cargar Animaciones de Modelos
+
+```javascript
+const loader = new THREE.GLTFLoader();
+loader.load('model.gltf', (gltf) => {
+    const model = gltf.scene;
+    scene.add(model);
+    
+    const mixer = new THREE.AnimationMixer(model);
+    
+    // Reproducir todas las animaciones
+    gltf.animations.forEach((clip) => {
+        mixer.clipAction(clip).play();
+    });
+    
+    // O reproducir una específica
+    const action = mixer.clipAction(gltf.animations[0]);
+    action.play();
+});
+```
+
+**5. Tipos de KeyframeTracks**
+
+Three.js soporta varios tipos de tracks para animar diferentes propiedades:
+
+- `VectorKeyframeTrack`: Para vectores (position, scale)
+- `QuaternionKeyframeTrack`: Para rotaciones
+- `NumberKeyframeTrack`: Para valores numéricos
+- `ColorKeyframeTrack`: Para colores
+- `BooleanKeyframeTrack`: Para valores booleanos
+
+```javascript
+// Animar color
+const colorTrack = new THREE.ColorKeyframeTrack(
+    '.material.color',
+    [0, 1, 2],
+    [1, 0, 0, 0, 1, 0, 0, 0, 1] // RGB values
+);
+```
+
+**6. Controlar AnimationActions**
+
+Las `AnimationAction` ofrecen control detallado sobre la reproducción:
+
+```javascript
+const action = mixer.clipAction(clip);
+
+// Reproducción
+action.play();
+action.stop();
+action.pause();
+
+// Configuración
+action.setLoop(THREE.LoopRepeat, Infinity);
+action.clampWhenFinished = true;
+action.timeScale = 1.5; // Velocidad de reproducción
+
+// Transiciones suaves
+action.fadeIn(0.5);
+action.fadeOut(0.5);
+action.crossFadeTo(otherAction, 0.3);
+```
+
+**7. Morfismo (Morph Targets)**
+
+Para animaciones de deformación de malla:
+
+```javascript
+const geometry = new THREE.BoxGeometry(1, 1, 1);
+geometry.morphAttributes.position = [];
+
+// Crear morph target
+const morphTarget = new Float32Array(geometry.attributes.position.count * 3);
+// ... llenar con posiciones modificadas
+geometry.morphAttributes.position.push(
+    new THREE.BufferAttribute(morphTarget, 3)
+);
+
+const mesh = new THREE.Mesh(geometry, material);
+
+// Animar influencia del morph
+function animate() {
+    mesh.morphTargetInfluences[0] = Math.sin(Date.now() * 0.001) * 0.5 + 0.5;
+}
+```
+
+**8. Skeletal Animation (Animación Esquelética)**
+
+Para personajes y modelos complejos:
+
+```javascript
+// Generalmente viene del modelo cargado
+const skeleton = new THREE.Skeleton(bones);
+const skinnedMesh = new THREE.SkinnedMesh(geometry, material);
+skinnedMesh.add(bones[0]);
+skinnedMesh.bind(skeleton);
+
+// Las animaciones de esqueleto se manejan con AnimationMixer
+```
+
+**9. Mejores Prácticas**
+
+Optimización
+
+- Usa getDelta() en lugar de getElapsedTime() cuando sea posible
+- Limita las actualizaciones de animaciones a lo necesario
+- Considera usar requestAnimationFrame solo cuando la pestaña esté activa
+
+Interpolación
+
+```javascript
+// Suavizar animaciones con lerp (interpolación lineal)
+mesh.position.lerp(targetPosition, 0.1);
+mesh.quaternion.slerp(targetQuaternion, 0.1);
+```
+
+Delta Time
+
+```javascript
+// Usar delta para animaciones consistentes
+function animate() {
+    const delta = clock.getDelta();
+    
+    // Velocidad constante independiente de FPS
+    mesh.rotation.y += 1.0 * delta;
+    
+    mixer.update(delta);
+}
+```
+
+## 4BS08: Desarrollo un proyecto de animación completo
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 08 al 12 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Cámaras](https://www.youtube.com/watch?v=FwcXultcBl4) <br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+
+Ahora que hemos visto los conceptos básicos de Three.js, es el momento perfecto para crear un proyecto práctico que nos permita consolidar y poner a prueba todos los conocimientos adquiridos en este potente framework de gráficos 3D. La teoría cobra verdadero sentido cuando la aplicamos en casos reales, y nada mejor que enfrentarnos a un proyecto completo para comprender cómo se integran conceptos como escenas, cámaras, luces, materiales, geometrías y animaciones en una aplicación funcional.
+
+## 4BS09: Práctica Calificada
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 13 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)
+
+Para tu práctica debes tener realizar un proyecto que contenga las características siguientes:
+
+- El proyecto debe mostrar una habitación con estilo navideño: [Ejemplos](https://www.google.com/search?q=isometric+christmas+room).
+- Añade los recursos necesarios para que la habitación se vea bien.
+- Añade orbit controls, música y luces a tu proyecto.
+
+Para presentar este proyecto puedes usar cualquiera de estas páginas:
+
+- https://codepen.io/
+- https://codesandbox.io/
+- https://jsfiddle.net/
+- https://codeanywhere.com/
+

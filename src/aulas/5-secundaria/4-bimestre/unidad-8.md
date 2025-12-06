@@ -351,3 +351,145 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+## 4BS07: Completo mi CRUD con el botón eliminar
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Diciembre <br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ) /  ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** <br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+El uso de DROP y DELETE en MySQL es fundamental para gestionar y depurar información dentro de una base de datos. Mientras que DELETE se emplea para eliminar registros específicos de una tabla sin afectar su estructura, permitiendo incluso aplicar condiciones o filtros, el comando DROP se utiliza para borrar por completo objetos de la base de datos, como tablas, vistas o incluso la base de datos entera, eliminando tanto su contenido como su estructura. 
+
+## 4BS08: Completo mi interfaz en Tkinter
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 08 al 12 de Diciembre <br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ) /  ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** <br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1IAVg1vC0uFupTV1WnKcwjR4tm0hwY9Hj?usp=sharing)
+
+Tkinter es la biblioteca estándar de Python para crear interfaces gráficas de usuario (GUI). Gracias a su sencillez y a que viene incluida con la mayoría de instalaciones de Python, es una herramienta ideal para desarrollar ventanas, formularios, botones, cuadros de texto y todo tipo de aplicaciones interactivas sin necesidad de instalar componentes externos. Con Tkinter puedes construir aplicaciones desde las más simples hasta proyectos complejos, utilizando una estructura basada en widgets que se colocan dentro de una ventana principal.
+
+Si no lo tienes instalado debes usar el siguiente comando de la terminal.
+
+```bash
+pip install tk
+```
+
+**Crear una ventana básica**
+
+```python
+import tkinter as tk
+
+ventana = tk.Tk()
+ventana.title("Mi primera GUI")
+ventana.geometry("300x200")
+
+ventana.mainloop()
+```
+
+- `Tk()` crea la ventana principal.
+- `title()` define el título.
+- `geometry()` establece el tamaño.
+- `mainloop()` mantiene la ventana abierta.
+
+**Widgets principales**
+
+- Etiqueta (Label)
+
+```python
+label = tk.Label(ventana, text="Hola, Tkinter")
+label.pack()
+```
+
+- Botón (Button)
+
+```python
+def saludar():
+    print("Hola desde el botón")
+
+boton = tk.Button(ventana, text="Saludar", command=saludar)
+boton.pack()
+```
+
+- Entrada de texto (Entry)
+
+```python
+entrada = tk.Entry(ventana)
+entrada.pack()
+```
+
+- Caja de texto (Text)
+
+```python
+texto = tk.Text(ventana, height=5, width=30)
+texto.pack()
+```
+
+**Organización de widgets**
+
+- pack(): Distribuye widgets automáticamente arriba, abajo, izquierda o derecha.
+
+```python
+label.pack(side="top")
+```
+
+- grid(): Organiza widgets en filas y columnas.
+
+```python
+label.grid(row=0, column=0)
+```
+
+- place(): Posiciona widgets con coordenadas absolutas.
+
+```python
+label.place(x=50, y=100)
+```
+
+**Crear una pequeña interfaz completa**
+
+```python
+import tkinter as tk
+
+def mostrar_mensaje():
+    nombre = entrada.get()
+    label_resultado.config(text=f"Hola, {nombre}")
+
+ventana = tk.Tk()
+ventana.title("Ejemplo Completo")
+
+tk.Label(ventana, text="Ingresa tu nombre:").pack()
+
+entrada = tk.Entry(ventana)
+entrada.pack()
+
+tk.Button(ventana, text="Aceptar", command=mostrar_mensaje).pack()
+
+label_resultado = tk.Label(ventana, text="")
+label_resultado.pack()
+
+ventana.mainloop()
+```
+
+
+## 4BS09: Práctica Calificada
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 08 al 12 de Diciembre <br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: ::logos:python:: [Instalar](https://www.youtube.com/watch?v=-IyA_Yvs8IQ) /  ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)<br>
+
+Como práctica deberás presentar, en clase, la aplicación con las características siguientes:
+
+**Base de datos**
+
+- Nombre: refurinfunflay
+- Tabla: TB_ratoncitos (ratoncito_id, ratoncito_nombre, ratoncito_raza, ratoncito_color)
+- Registros: Agrega un total de 5 registros
+
+**Aplicación**
+
+Usa la interfaz trabajada en la semana 6 y adecua su estructura para que se adapte a la nueva base de datos.
+
+**Modo de presentación**
+
+A fin de evitar gastar tiempo preparando e instalando lo necesario para que la app funcione lo harás usando:
+
+- Base de datos: https://freedb.tech/
+- App: https://freedb.tech/ (Debes subir tu proyecto en formato zip desde Import code or design)
+
+En clase deberás explicar y hacer funcionar tu App.
