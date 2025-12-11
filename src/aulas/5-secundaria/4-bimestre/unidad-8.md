@@ -490,6 +490,9 @@ Usa la interfaz trabajada en la semana 6 y adecua su estructura para que se adap
 A fin de evitar gastar tiempo preparando e instalando lo necesario para que la app funcione lo harás usando:
 
 - Base de datos: https://freedb.tech/
-- App: https://freedb.tech/ (Debes subir tu proyecto en formato zip desde Import code or design)
+
+Y enviaras tu archivo `main.py` a través del enlace siguiente:
+
+https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgCn4XlacYGMRLOBxJWOmb6lAVv9yAvh-S82LLShJeub0Ek
 
 En clase deberás explicar y hacer funcionar tu App.
