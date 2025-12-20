@@ -437,8 +437,9 @@
 <p>A fin de evitar gastar tiempo preparando e instalando lo necesario para que la app funcione lo harás usando:</p>
 <ul>
 <li>Base de datos: <a href="https://freedb.tech/" target="_blank" rel="noopener noreferrer">https://freedb.tech/</a></li>
-<li>App: <a href="https://freedb.tech/" target="_blank" rel="noopener noreferrer">https://freedb.tech/</a> (Debes subir tu proyecto en formato zip desde Import code or design)</li>
 </ul>
+<p>Y enviaras tu archivo <code v-pre>main.py</code> a través del enlace siguiente:</p>
+<p><a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgCn4XlacYGMRLOBxJWOmb6lAVv9yAvh-S82LLShJeub0Ek" target="_blank" rel="noopener noreferrer">https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgCn4XlacYGMRLOBxJWOmb6lAVv9yAvh-S82LLShJeub0Ek</a></p>
 <p>En clase deberás explicar y hacer funcionar tu App.</p>
 </div></template>
 

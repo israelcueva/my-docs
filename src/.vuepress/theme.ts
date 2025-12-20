@@ -29,7 +29,7 @@ export default hopeTheme({
   footer: "",
 
   displayFooter: true,
-  
+
 
   encrypt: {
     config: {
@@ -73,7 +73,7 @@ export default hopeTheme({
         },
       },
     ],
-      highlighter: {
+    highlighter: {
       type: "shiki", // or "prismjs"
       lineNumbers: true,
       highlightLines: true,
@@ -113,7 +113,7 @@ export default hopeTheme({
     // flowchart: true,
 
     // install mermaid before enabling it
-     mermaid: true,
+    mermaid: true,
 
     // playground: {
     //   presets: ["ts", "vue"],
@@ -132,7 +132,7 @@ export default hopeTheme({
   },
 
   plugins: {
-    
+
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
     /*comment: {
@@ -143,15 +143,15 @@ export default hopeTheme({
       categoryId: "DIC_kwDOG_Pt2M4COD69",
     },*/
 
-   notice: [
+    notice: [
       {
         path: "/",
-        title: "Casting de voces",
-        content: "Puedes ver los lineamientos para el casting de voces aquí",
+        title: "Límite de entregas",
+        content: "El cierre de entregas de tarea es hasta mañana Sábado 20 a las 11:00 a.m. Si necesitas enviar cualquier tarea o práctica hazlo hasta esa fecha. Feliz Navidad y próspero año nuevo: 😊",
+        fullscreen: true,
         actions: [
           {
-            text: "Revisar",
-            link: "/proyectos/runa/casting-voces",
+            text: "Aceptar",
             type: "primary",
           },
           { text: "Cerrar" },
@@ -177,7 +177,7 @@ export default hopeTheme({
 
     icon: {
       prefix: "fa6-solid:",
-       assets: "iconify",
+      assets: "iconify",
     }
 
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
