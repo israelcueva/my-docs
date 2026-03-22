@@ -142,7 +142,7 @@ export default hopeTheme({
       category: "Announcements",
       categoryId: "DIC_kwDOG_Pt2M4COD69",
     },*/
-
+/*
     notice: [
       {
         path: "/",
@@ -170,7 +170,7 @@ export default hopeTheme({
           { text: "Default Action" },
         ],
       },
-    ],
+    ],*/
     components: {
       components: ["Badge", "VPCard"],
     },

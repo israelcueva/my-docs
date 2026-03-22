@@ -24,33 +24,34 @@
 <tbody>
 <tr>
 <td style="text-align:center">Primer Bimestre</td>
-<td style="text-align:center">04 de Marzo</td>
-<td style="text-align:center">10 de Mayo</td>
-<td style="text-align:center">12 al 13 de Mayo</td>
+<td style="text-align:center">09 de Marzo</td>
+<td style="text-align:center">08 de Mayo</td>
+<td style="text-align:center">11 al 15 de Mayo</td>
 </tr>
 <tr>
 <td style="text-align:center">Segundo Bimestre</td>
-<td style="text-align:center">20 de Mayo</td>
-<td style="text-align:center">26 de Julio</td>
-<td style="text-align:center">28 de Julio al 08 de Agosto</td>
+<td style="text-align:center">18 de Mayo</td>
+<td style="text-align:center">24 de Julio</td>
+<td style="text-align:center">27 de Julio al 07 de Agosto</td>
 </tr>
 <tr>
 <td style="text-align:center">Tercer Bimestre</td>
-<td style="text-align:center">12 de Agosto</td>
-<td style="text-align:center">11 de Octubre</td>
-<td style="text-align:center">13 al 17 de Octubre</td>
+<td style="text-align:center">10 de Agosto</td>
+<td style="text-align:center">09 de Octubre</td>
+<td style="text-align:center">12 al 16 de Octubre</td>
 </tr>
 <tr>
 <td style="text-align:center">Cuarto Bimestre</td>
-<td style="text-align:center">21 de Octubre</td>
-<td style="text-align:center">20 de Diciembre</td>
+<td style="text-align:center">19 de Octubre</td>
+<td style="text-align:center">18 de Diciembre</td>
 <td style="text-align:center"></td>
 </tr>
 </tbody>
 </table>
 <p>Si quieres ver más detallada la calendarización, puedes hacerlo desde este <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTGHt9w65XS_bugyWABRH54FoZMNOJ0Acvhoe3nmQOcqzb4AfY7tkj5B5AaAhKZEr3Ewg0GDPv6UvFr/pubhtml?gid=0&amp;single=true" target="_blank" rel="noopener noreferrer">enlace</a></p>
 <h2 id="_3-folder-de-computacion" tabindex="-1"><a class="header-anchor" href="#_3-folder-de-computacion"><span>3. Folder de Computación</span></a></h2>
-<p>El folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Para ello se debe tomar en cuenta lo siguiente:</p>
+<p>El folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Algunas unidades se prescindirá de su uso al ser proyectos de video y/o audio.</p>
+<p>Para el folder se debe tomar en cuenta lo siguiente:</p>
 <ul>
 <li>El material puede ser cualquiera (Desde Manila hasta plastificado).</li>
 <li>Se le dará bastante importancia a la limpieza.</li>
@@ -62,17 +63,17 @@
 <span class="line"><span>├── Hoja de respeto</span></span>
 <span class="line"><span>├── Carátula de folder</span></span>
 <span class="line"><span>├── Carátula de Bimestre I</span></span>
-<span class="line"><span>│   └── Tareas semanales(S1-S9)</span></span>
-<span class="line"><span>├── Carátula de Bimestre II</span></span>
 <span class="line"><span>│   └── Tareas semanales(S1-S8)</span></span>
+<span class="line"><span>├── Carátula de Bimestre II</span></span>
+<span class="line"><span>│   └── Tareas semanales(S1-S9)</span></span>
 <span class="line"><span>├── Carátula de Bimestre III</span></span>
 <span class="line"><span>│   └── Tareas semanales(S1-S8)</span></span>
 <span class="line"><span>└── Carátula de Bimestre IV</span></span>
-<span class="line"><span>    └── Tareas semanales(S1-S9)</span></span></code></pre>
+<span class="line"><span>    └── Tareas semanales(S1-S8)</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol>
 <li><strong>Hoja de Respeto:</strong> Primero hoja del folder. Deberá estar sin manchas, ni deterioro por rasgado o doblado.</li>
 <li><strong>Carátula del folder:</strong> Una hoja creada manualmente con los datos del estudiante, grado ,sección, año, curso, colegio y profesor.</li>
-<li><strong>Carátula del Bimestre:</strong> Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página.</li>
+<li><strong>Carátula del Bimestre:</strong> Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página. Esta se usará para colocar la nota de Folder de dicho Bimestre.</li>
 <li><strong>Tareas:</strong> Hojas con la captura o resultado de la tarea dejada. Cada tarea debe ir en una sola hoja, juntamente con el número de semana y el título de la clase que corresponde con dicha tarea.</li>
 </ol>
 <h2 id="_4-no-tengo-computadora" tabindex="-1"><a class="header-anchor" href="#_4-no-tengo-computadora"><span>4. No tengo computadora</span></a></h2>

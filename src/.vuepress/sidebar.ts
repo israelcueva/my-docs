@@ -29,15 +29,15 @@ export default sidebar({
           collapsible: true,
             children: [
               {
-                text: "Bimestre III",
-                prefix: "3-bimestre/",
+                text: "Bimestre I",
+                prefix: "1-bimestre/",
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-5.md",
-                  "unidad-6.md",
+                  "unidad-1.md"
+                  //"unidad-6.md",
                 ]
-              },
+              }/*,
               {
                 text: "Bimestre IV",
                 prefix: "4-bimestre/",
@@ -47,7 +47,7 @@ export default sidebar({
                   "unidad-7.md",
                   "unidad-8.md",
                 ]
-              },
+              },*/
             ],
           },
         // 1-secundaria
@@ -58,15 +58,15 @@ export default sidebar({
           collapsible: true,
             children: [
               {
-                text: "Bimestre III",
-                prefix: "3-bimestre/",
+                text: "Bimestre I",
+                prefix: "1-bimestre/",
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-5.md",
-                  "unidad-6.md",
+                  "unidad-1.md"//,
+                  //"unidad-6.md",
                 ]
-              },
+              }/*,
                             {
                 text: "Bimestre IV",
                 prefix: "4-bimestre/",
@@ -76,7 +76,7 @@ export default sidebar({
                   "unidad-7.md",
                   "unidad-8.md",
                 ]
-              },
+              },*/
             ],
           },
           // 2-secundaria
@@ -87,15 +87,15 @@ export default sidebar({
             collapsible: true,
             children: [
               {
-                text: "Bimestre III",
-                prefix: "3-bimestre/",
+                text: "Bimestre I",
+                prefix: "-bimestre/",
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-5.md",
-                  "unidad-6.md",
+                  "unidad-1.md"//,
+                  //"unidad-6.md",
                 ]
-              },
+              }/*,
               {
                 text: "Bimestre IV",
                 prefix: "4-bimestre/",
@@ -105,7 +105,7 @@ export default sidebar({
                   "unidad-7.md",
                   "unidad-8.md",
                 ]
-              },
+              },*/
             ],
           },
           // 3-secundaria
@@ -116,15 +116,15 @@ export default sidebar({
             collapsible: true,
             children: [
               {
-                text: "Bimestre III",
-                prefix: "3-bimestre/",
+                text: "Bimestre I",
+                prefix: "-bimestre/",
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-5.md",
-                  "unidad-6.md",
+                  "unidad-1.md"//,
+                  //"unidad-6.md",
                 ]
-              },
+              }/*,
                             {
                 text: "Bimestre IV",
                 prefix: "4-bimestre/",
@@ -134,7 +134,7 @@ export default sidebar({
                   "unidad-7.md",
                   "unidad-8.md",
                 ]
-              },
+              },*/
             ],
           },
           // 4-secundaria
@@ -145,15 +145,15 @@ export default sidebar({
             collapsible: true,
             children: [
               {
-                text: "Bimestre III",
-                prefix: "3-bimestre/",
+                text: "Bimestre I",
+                prefix: "1-bimestre/",
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-5.md",
-                  "unidad-6.md",
+                  "unidad-1.md"//,
+                  //"unidad-6.md",
                 ]
-              },
+              }/*,
                 {
                 text: "Bimestre IV",
                 prefix: "4-bimestre/",
@@ -163,7 +163,7 @@ export default sidebar({
                   "unidad-7.md",
                   "unidad-8.md",
                 ]
-              },
+              },*/
             ],
           },
           // 5-secundaria
@@ -174,15 +174,15 @@ export default sidebar({
             collapsible: true,
             children: [
               {
-                text: "Bimestre III",
-                prefix: "3-bimestre/",
+                text: "Bimestre I",
+                prefix: "1-bimestre/",
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-5.md",
-                  "unidad-6.md",
+                  "unidad-1.md"//,
+                  //"unidad-6.md",
                 ]
-              },
+              }/*,
                 {
                 text: "Bimestre IV",
                 prefix: "4-bimestre/",
@@ -192,11 +192,11 @@ export default sidebar({
                   "unidad-7.md",
                   "unidad-8.md",
                 ]
-              },
+              },*/
             ],
           }
       ]
-    },
+    }/*,
      {
       text: "Concursos",
       icon: "fluent-color:trophy-48",
@@ -204,12 +204,12 @@ export default sidebar({
       children: [
         "historieta-osinergmin.md"
       ]
-    },
+    }*//*,
     {
       text: "WhatsApp",
       icon: "logos:whatsapp-icon",
       link: "https://wa.me/51926574295"
-    },
+    },*/
 
   ],
 });

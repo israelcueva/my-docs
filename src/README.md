@@ -41,17 +41,19 @@ La estructura del curso se rige a la calendarización general.
 
 |   **Bimestre**   |   **Inicio**  |     **Fin**     |        **Vacaciones**        |
 |:----------------:|:-------------:|:---------------:|:----------------------------:|
-| Primer Bimestre  | 04 de Marzo   | 10 de Mayo      | 12 al 13 de Mayo             |
-| Segundo Bimestre | 20 de Mayo    | 26 de Julio     | 28 de Julio al 08 de Agosto  |
-| Tercer Bimestre  | 12 de Agosto  | 11 de Octubre   | 13 al 17 de Octubre          |
-| Cuarto Bimestre  | 21 de Octubre | 20 de Diciembre |                              |
+| Primer Bimestre  | 09 de Marzo   | 08 de Mayo      | 11 al 15 de Mayo             |
+| Segundo Bimestre | 18 de Mayo    | 24 de Julio     | 27 de Julio al 07 de Agosto  |
+| Tercer Bimestre  | 10 de Agosto  | 09 de Octubre   | 12 al 16 de Octubre          |
+| Cuarto Bimestre  | 19 de Octubre | 18 de Diciembre |                              |
 
 Si quieres ver más detallada la calendarización, puedes hacerlo desde este [enlace](https://docs.google.com/spreadsheets/d/e/2PACX-1vTGHt9w65XS_bugyWABRH54FoZMNOJ0Acvhoe3nmQOcqzb4AfY7tkj5B5AaAhKZEr3Ewg0GDPv6UvFr/pubhtml?gid=0&single=true)
 
 
 ## 3. Folder de Computación
 
-El folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Para ello se debe tomar en cuenta lo siguiente:
+El folder de Computación, como se menciono anteriormente, se usará como archivador de tareas. Algunas unidades se prescindirá de su uso al ser proyectos de video y/o audio.
+
+Para el folder se debe tomar en cuenta lo siguiente:
 
 - El material puede ser cualquiera (Desde Manila hasta plastificado).
 - Se le dará bastante importancia a la limpieza.
@@ -66,18 +68,18 @@ Folder
 ├── Hoja de respeto
 ├── Carátula de folder
 ├── Carátula de Bimestre I
-│   └── Tareas semanales(S1-S9)
-├── Carátula de Bimestre II
 │   └── Tareas semanales(S1-S8)
+├── Carátula de Bimestre II
+│   └── Tareas semanales(S1-S9)
 ├── Carátula de Bimestre III
 │   └── Tareas semanales(S1-S8)
 └── Carátula de Bimestre IV
-    └── Tareas semanales(S1-S9)
+    └── Tareas semanales(S1-S8)
 ```
 
 1. **Hoja de Respeto:** Primero hoja del folder. Deberá estar sin manchas, ni deterioro por rasgado o doblado.
 2. **Carátula del folder:** Una hoja creada manualmente con los datos del estudiante, grado ,sección, año, curso, colegio y profesor.
-3. **Carátula del Bimestre:** Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página.
+3. **Carátula del Bimestre:** Una hoja diseñada con el tema del Bimestre descrito en clase y/o esta página. Esta se usará para colocar la nota de Folder de dicho Bimestre.
 4. **Tareas:** Hojas con la captura o resultado de la tarea dejada. Cada tarea debe ir en una sola hoja, juntamente con el número de semana y el título de la clase que corresponde con dicha tarea.
 
 ## 4. No tengo computadora

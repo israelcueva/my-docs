@@ -9,10 +9,9 @@
 <li><VPIcon icon="simple-icons:scratch" color="orange" /> <a href="https://scratch.mit.edu/" target="_blank" rel="noopener noreferrer"><strong>Scratch:</strong></a> Scratch es una plataforma de programación visual diseñada para enseñar a niños y principiantes a crear historias interactivas, juegos y animaciones. Utiliza bloques gráficos que se arrastran y encajan, fomentando el pensamiento lógico y la creatividad de forma accesible y divertida.</li>
 </ul>
 <h2 id="_2-secciones" tabindex="-1"><a class="header-anchor" href="#_2-secciones"><span>2. Secciones</span></a></h2>
-<h3 id="bimestre-iii" tabindex="-1"><a class="header-anchor" href="#bimestre-iii"><span>Bimestre III</span></a></h3>
+<h3 id="bimestre-i" tabindex="-1"><a class="header-anchor" href="#bimestre-i"><span>Bimestre I</span></a></h3>
 <ul>
-<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./3-bimestre/unidad-5">Unidad 5</a></li>
-<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./3-bimestre/unidad-6">Unidad 6</a></li>
+<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./1-bimestre/unidad-1">Unidad 1</a></li>
 </ul>
 </div></template>
 
