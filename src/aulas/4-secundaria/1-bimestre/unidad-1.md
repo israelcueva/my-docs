@@ -1,5 +1,5 @@
 ---
-title: Unidad 5
+title: Unidad 1
 category:
   - Aula
 tag:
@@ -10,51 +10,58 @@ icon: fluent-color:notebook-32
 order: 5
 ---
 
-::devicon:illustrator:: Adobe Illustrator es una herramienta poderosa para el diseño de personajes, ya que permite trabajar con gráficos vectoriales que se pueden escalar sin perder calidad. Gracias a sus herramientas de formas, pluma y pinceles, los creadores pueden dar vida a personajes originales con trazos definidos, colores vibrantes y detalles precisos. Su principal ventaja frente a otros programas es la posibilidad de crear ilustraciones limpias y editables, ideales tanto para animación como para impresión o proyectos digitales. Al usar Illustrator en la creación de personajes, los diseñadores pueden explorar desde bocetos simples hasta figuras completas, logrando un estilo profesional y adaptable a diferentes medios.
+En la actualidad, el desarrollo de videojuegos se ha vuelto más accesible gracias a herramientas que simplifican el proceso sin sacrificar creatividad ni calidad. Una de estas herramientas es ::streamline-flex-color:cat-2:: ct.js, un motor de código abierto diseñado especialmente para principiantes y desarrolladores independientes que desean crear juegos en 2D de manera rápida y visual.
 
-## 3BS01: Creo una ilustración básica usando formas
+::streamline-flex-color:cat-2:: ct.js permite desarrollar videojuegos sin necesidad de tener conocimientos avanzados de programación, ya que ofrece una interfaz intuitiva basada en elementos gráficos como escenas, objetos y animaciones. Sin embargo, también brinda la posibilidad de utilizar JavaScript para añadir lógica más compleja, lo que lo convierte en una plataforma flexible tanto para novatos como para usuarios más experimentados.
+
+Entre sus principales ventajas se encuentran su ligereza, facilidad de uso y la capacidad de exportar juegos a múltiples plataformas, especialmente para la web. Además, incluye herramientas integradas para gestionar recursos como imágenes, sonidos y scripts, facilitando la organización del proyecto.
+
+## 1BS01: Creo un juego simple usando templates
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 11 al 15 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=30CsBTY5lvk)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
+> ::fluent-color:calendar-48:: **Fecha:** 09 al 13 de Marzo<br>::fluent-color:laptop-48:: **Programa:** ::streamline-flex-color:cat-2:: [CT.JS](https://ctjs.rocks/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Lista](https://www.youtube.com/watch?v=gJCGwp2uDCU&list=PLWGY0ivGwOKIiJ6KcgmPF3eqV_TlYB0XT)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1u-QYAtX2ifDre1PqLDUwn7RMOUXgSCwQ?usp=sharing)
 
-El uso de formas en Ilustrator es una herramienta esencial para diseñadores gráficos, ilustradores y creativos visuales. A través de formas predeterminadas —como rectángulos, círculos, líneas o polígonos— o personalizadas con la herramienta Pluma, es posible construir composiciones precisas, limpias y visualmente atractivas. Estas formas pueden combinarse, editarse y transformarse fácilmente, lo que permite crear desde botones para interfaces web hasta ilustraciones complejas. Además, se pueden aplicar estilos, degradados, trazos y máscaras, lo que convierte a las formas en elementos versátiles para cualquier proyecto gráfico.
+Al comenzar a trabajar con ct.js, una de las mejores formas de aprender es a través de sus ejemplos básicos, los cuales están diseñados para mostrar de manera práctica cómo funcionan los elementos fundamentales de un videojuego. Estos ejemplos permiten comprender, paso a paso, conceptos esenciales como el movimiento de personajes, la detección de colisiones, la interacción con el usuario y la gestión de escenas.
+
+## 1BS02: Diseño mi primer nivel usando tiles
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 16 al 20 de Marzo<br>::fluent-color:laptop-48:: **Programa:** ::streamline-flex-color:cat-2:: [CT.JS](https://ctjs.rocks/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Lista](https://www.youtube.com/watch?v=gJCGwp2uDCU&list=PLWGY0ivGwOKIiJ6KcgmPF3eqV_TlYB0XT)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1u-QYAtX2ifDre1PqLDUwn7RMOUXgSCwQ?usp=sharing)
+
+En el desarrollo de videojuegos con ct.js, los tiles son una herramienta fundamental para crear escenarios de manera eficiente y organizada. Un tile es una pequeña imagen o bloque gráfico que, al repetirse en un patrón, permite construir mapas, suelos, paredes y otros elementos del entorno del juego.
+
+El uso de tiles facilita enormemente el diseño de niveles, ya que en lugar de crear cada escenario desde cero, el desarrollador puede reutilizar piezas pequeñas para formar estructuras más grandes. Esto no solo ahorra tiempo, sino que también optimiza el rendimiento del juego, al reducir la cantidad de recursos necesarios.
+
+En ct.js, los tiles se gestionan mediante sistemas de tilemaps, donde se pueden colocar y organizar estos bloques dentro de una cuadrícula. Esto permite diseñar niveles de forma visual, alineando fácilmente cada elemento y manteniendo una coherencia gráfica. Además, los tiles pueden combinarse con objetos interactivos (copies) para añadir colisiones, animaciones o eventos específicos dentro del juego.
+
+## 1BS03: Agrego mi primer personaje y sus distintos estados
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 23 al 27 de Marzo<br>::fluent-color:laptop-48:: **Programa:** ::streamline-flex-color:cat-2:: [CT.JS](https://ctjs.rocks/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Lista](https://www.youtube.com/watch?v=gJCGwp2uDCU&list=PLWGY0ivGwOKIiJ6KcgmPF3eqV_TlYB0XT)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1u-QYAtX2ifDre1PqLDUwn7RMOUXgSCwQ?usp=sharing)
+
+Esta semana veremos como crear un personaje simple en CT.JS. Para ello hacemos lo siguiente:
+
+**1. Creando personaje**
+
+1. Nos vamos `New Asset` y escogemos la galeria Integrada `Built in Gallery`.
+2. Escogemos el paquete llamado `Kenney's Jumperpack` y descargamos el llamado `Bunny1_Walk1`.
+3. Modificamos el área de colisión y le damos en Aplicar.
+4. Creamos un template y escogemos la textura creada `Bunny1_Walk1`.
+
+**2. Importando textura para suelo**
+
+1. Nos vamos `New Asset` y escogemos la galeria integrada `Built in Gallery`.
+2. Escogemos el paquete llamado `Kenney's Jumperpack` y al menos 3 texturas de suelo.
+3. Modificamos el área de colisión y le damos en Aplicar.
+4. Creamos un template y escogemos la textura del suelo, además, configuramos su grupo de colisión a `suelo`. Hacemos lo mismo con las otras dos texturas.
+
+**3. Creando Room**
+
+1. Nos vamos `New Asset` y esogemos `Room`y le ponemos de nombre `RM_nivel_01`. 
+2. Usando la segunda herramienta `Add copies` añadimos los suelos y el template de nuestro personaje
 
 ::: warning **Tarea**
-Recrea las formas del juego usando la herramienta Pluma. Haz que todos alcancen en una hoja.
+Haz un tutorial visual de como agregar el personaje. Desde la galeria hasta colocarlo en el ROOM. Imprimir y presentar en físico.
 :::
 
-## 3BS02: Hago uso de la herramienta Pluma para crear mi personaje
 
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 11 al 15 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=hIZo8SYhMto)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
-
-La herramienta Pluma en Adobe Illustrator es una de las más importantes para la creación de personajes, ya que permite dibujar trazos precisos y personalizar las formas con total libertad. A diferencia de las herramientas de dibujo automático, la Pluma funciona a través de anclas y curvas que el diseñador coloca para definir contornos, líneas y siluetas. Con ella se pueden construir desde las formas básicas de un personaje hasta detalles más complejos como expresiones faciales, ropa o accesorios. Dominar la Pluma es clave para lograr ilustraciones limpias y profesionales, porque ofrece un control exacto sobre cada curva y permite editar fácilmente los puntos para perfeccionar el diseño.
-
-::: warning **Tarea**
-Mira el videotutorial y realiza las formas allí presentadas.
-:::
-
-## 3BS03: Agrego estilos usando opciones de fusión
-
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 25 al 29 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=0AVt6epHjiw)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
-
-La ventana Apariencia en Adobe Illustrator es una de las herramientas más versátiles y potentes para la edición de objetos. A través de ella, los usuarios pueden gestionar todos los atributos visuales de un elemento, como rellenos, trazos, transparencias, efectos y estilos, de manera organizada y no destructiva. Esto significa que es posible aplicar múltiples rellenos y trazos a un mismo objeto, modificar el orden en que se muestran, ajustar la opacidad de forma independiente e incluso añadir efectos sin alterar la forma original. Gracias a la ventana Apariencia, se logra un mayor control y flexibilidad en el diseño, permitiendo experimentar con estilos complejos y personalizables que enriquecen el trabajo gráfico.
-
-::: warning **Tarea**
-Recrea el videotutorial con tus nombres
-:::
-
-## 3BS04: Exporto mis assets como PNG
-
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=0AVt6epHjiw)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
-
-En Adobe Illustrator, la creación de assets consiste en preparar y organizar elementos gráficos (como íconos, logotipos, ilustraciones o componentes de una interfaz) de manera que puedan exportarse fácilmente para usarse en otros proyectos. Illustrator cuenta con el Panel de Assets, que permite recopilar objetos de un diseño, guardarlos como recursos reutilizables y exportarlos en distintos formatos (PNG, SVG, PDF, etc.). Esto es especialmente útil en proyectos de diseño web, animación o aplicaciones, ya que facilita trabajar con versiones optimizadas de cada elemento sin perder la calidad del archivo original.
-
-## 3BS05: Practica Calificada - Revisión de Folder
-
-> [!caution]
-> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator
-
-Mira esta [imagen](https://images.vexels.com/media/users/3/228519/isolated/preview/838937e1136b02dc393cf46b507d8605-lindo-personaje-robot.png) y trata de replicarlo usando Adobe Illustrator. Imprime tu proyecto y preséntalo en folder.

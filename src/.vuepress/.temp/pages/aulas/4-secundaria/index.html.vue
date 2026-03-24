@@ -9,10 +9,9 @@
 <li><VPIcon icon="mdi:microsoft-office" color="red" /> <strong>Office:</strong> Es una de las suites de productividad más utilizadas en el mundo, desarrollada por Microsoft. Incluye programas esenciales como Word (procesador de texto), Excel (hojas de cálculo), PowerPoint (presentaciones), Outlook (correo electrónico y calendario) y otros complementos según la versión. Está disponible para Windows, macOS y en versión en línea, ofreciendo colaboración en tiempo real y almacenamiento en la nube mediante OneDrive. Su principal ventaja es que reúne en un solo paquete herramientas para escribir documentos, organizar datos, crear presentaciones profesionales y comunicarse de manera eficiente, siendo indispensable tanto en entornos educativos como empresariales. Puedes instalar a partir de la versión 2015.</li>
 </ul>
 <h2 id="_2-secciones" tabindex="-1"><a class="header-anchor" href="#_2-secciones"><span>2. Secciones</span></a></h2>
-<h3 id="bimestre-iii" tabindex="-1"><a class="header-anchor" href="#bimestre-iii"><span>Bimestre III</span></a></h3>
+<h3 id="bimestre-i" tabindex="-1"><a class="header-anchor" href="#bimestre-i"><span>Bimestre I</span></a></h3>
 <ul>
-<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./3-bimestre/unidad-5">Unidad 5</a></li>
-<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./3-bimestre/unidad-6">Unidad 6</a></li>
+<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./1-bimestre/unidad-1">Unidad 1</a></li>
 </ul>
 </div></template>
 
