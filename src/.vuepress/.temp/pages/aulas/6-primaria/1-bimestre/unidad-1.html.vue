@@ -37,6 +37,18 @@
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 23 al 27 de Marzo<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-word" /> Microsoft Word<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completar la ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> No aplica<br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1Cxa39NHMOhjPZjPGVxRwamKbuCXn9uo3?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
 <p>¡Explora tu creatividad con Microsoft Word! Aunque solemos verlo como una herramienta exclusiva para escribir documentos formales o tareas escolares, Word es en realidad un lienzo versátil ideal para la narrativa visual. A través del uso de tablas para estructurar las viñetas, cuadros de texto para los diálogos y la inserción estratégica de imágenes y formas, podemos transformar una página en blanco en una historieta vibrante. Esta es una oportunidad perfecta para combinar tus habilidades de diseño digital con el poder de la narración, permitiéndote contar historias complejas de una manera dinámica, visual y profesional, utilizando herramientas que ya conoces de una forma totalmente nueva.</p>
+<h2 id="_1bs04-diseno-el-modelo-de-un-triptico" tabindex="-1"><a class="header-anchor" href="#_1bs04-diseno-el-modelo-de-un-triptico"><span>1BS04: Diseño el modelo de un tríptico</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 30 de Marzo al 03 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-word" /> Microsoft Word<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completar la ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> No aplica<br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1Cxa39NHMOhjPZjPGVxRwamKbuCXn9uo3?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>Microsoft Word es una herramienta muy útil no solo para redactar documentos, sino también para diseñar materiales informativos como trípticos. Un tríptico es un folleto dividido en tres partes que permite organizar la información de manera clara y atractiva. Utilizando las funciones de diseño de Word, como la orientación horizontal, las columnas y la inserción de imágenes y colores, es posible crear trípticos profesionales de forma sencilla. Aprender a usar Word para este propósito ayuda a desarrollar habilidades de presentación y comunicación visual, ideales para trabajos escolares o proyectos informativos.</p>
+<h2 id="_1bs05-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_1bs05-practica-calificada-revision-de-folder"><span>1BS05: Práctica Calificada &amp; Revisión de folder</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Clase Semana 6<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-word" /> Microsoft Word</p>
+</div>
+<p>Para tu práctica de Computación debes elaborar un triptico sobre semana santa, luego imprimirlo y traerlo en tu folder para su revisión. Es importante el que uses los conceptos vistos en clase.</p>
 </div></template>
 
 

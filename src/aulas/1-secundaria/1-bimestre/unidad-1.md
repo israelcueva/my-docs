@@ -38,3 +38,17 @@ Las máscaras de capa son una de las herramientas más poderosas y esenciales en
 ::: warning **Tarea**
 Replica lo hecho en clase, imprime y adjuntalo en tu folder para la revisión del profesor
 :::
+
+## 3BS04: Comprendo el uso de las opciones de fusión
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 30 de Marzo al 03 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea color=#18A497:: [Photopea](https://www.photopea.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://youtube.com/playlist?list=PLOuPFNSnWxurrTVHXXtyNvkZD9ZroHqDA)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1xQE1cxdSxjQYRbnzP0LhML1X9ZoCNs27?usp=sharing)
+
+El uso de las opciones de fusión en Photopea permite combinar capas de diferentes maneras para lograr efectos visuales atractivos y profesionales. Estas opciones, también conocidas como modos de fusión, controlan cómo interactúan los colores y la iluminación entre una capa y otra, permitiendo crear sombras, brillos, transparencias y mezclas de color. Herramientas como “Multiplicar”, “Superponer” o “Trama” son esenciales para mejorar imágenes, diseñar composiciones creativas y dar mayor profundidad a los proyectos gráficos. Dominar estas funciones es clave para aprovechar al máximo el potencial de edición que ofrece Photopea.
+
+## 3BS05: Comprendo el uso de las opciones de fusión
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** Clase de la semana 6<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea color=#18A497:: [Photopea](https://www.photopea.com/)
+
+Al igual que se trabajo a Pikachu, haz lo mismo con Clefairy, el pokemon hada. Imprime el trabajo final, asi como las capas que usaste.

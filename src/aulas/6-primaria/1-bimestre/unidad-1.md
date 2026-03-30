@@ -53,3 +53,16 @@ Microsoft Word es mucho más que un procesador de textos; es una herramienta ver
 
 ¡Explora tu creatividad con Microsoft Word! Aunque solemos verlo como una herramienta exclusiva para escribir documentos formales o tareas escolares, Word es en realidad un lienzo versátil ideal para la narrativa visual. A través del uso de tablas para estructurar las viñetas, cuadros de texto para los diálogos y la inserción estratégica de imágenes y formas, podemos transformar una página en blanco en una historieta vibrante. Esta es una oportunidad perfecta para combinar tus habilidades de diseño digital con el poder de la narración, permitiéndote contar historias complejas de una manera dinámica, visual y profesional, utilizando herramientas que ya conoces de una forma totalmente nueva.
 
+## 1BS04: Diseño el modelo de un tríptico
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 30 de Marzo al 03 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-word:: Microsoft Word<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completar la ficha de la semana<br>::fluent-color:video-48:: **Videos:** No aplica<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1Cxa39NHMOhjPZjPGVxRwamKbuCXn9uo3?usp=sharing)
+
+Microsoft Word es una herramienta muy útil no solo para redactar documentos, sino también para diseñar materiales informativos como trípticos. Un tríptico es un folleto dividido en tres partes que permite organizar la información de manera clara y atractiva. Utilizando las funciones de diseño de Word, como la orientación horizontal, las columnas y la inserción de imágenes y colores, es posible crear trípticos profesionales de forma sencilla. Aprender a usar Word para este propósito ayuda a desarrollar habilidades de presentación y comunicación visual, ideales para trabajos escolares o proyectos informativos.
+
+## 1BS05: Práctica Calificada & Revisión de folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha Límite:** Clase Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-word:: Microsoft Word
+
+Para tu práctica de Computación debes elaborar un triptico sobre semana santa, luego imprimirlo y traerlo en tu folder para su revisión. Es importante el que uses los conceptos vistos en clase.
