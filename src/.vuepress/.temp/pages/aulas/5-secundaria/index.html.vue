@@ -15,10 +15,9 @@
 <li><VPIcon icon="logos:mysql" /> <a href="https://www.apachefriends.org/es/index.html" target="_blank" rel="noopener noreferrer">MySQL</a> Es un sistema de gestión de bases de datos relacional de código abierto, muy popular en el desarrollo de aplicaciones y sitios web. Permite almacenar, organizar y consultar grandes volúmenes de información utilizando el lenguaje SQL (Structured Query Language). Es conocido por ser rápido, seguro y confiable, además de ser multiplataforma y contar con gran compatibilidad con lenguajes como PHP, Python o Java. Se utiliza ampliamente en sistemas de gestión de contenidos (como WordPress), aplicaciones empresariales y proyectos que requieren manejar datos de forma estructurada.</li>
 </ul>
 <h2 id="_2-secciones" tabindex="-1"><a class="header-anchor" href="#_2-secciones"><span>2. Secciones</span></a></h2>
-<h3 id="bimestre-iii" tabindex="-1"><a class="header-anchor" href="#bimestre-iii"><span>Bimestre III</span></a></h3>
+<h3 id="bimestre-i" tabindex="-1"><a class="header-anchor" href="#bimestre-i"><span>Bimestre I</span></a></h3>
 <ul>
-<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./3-bimestre/unidad-5">Unidad 5</a></li>
-<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./3-bimestre/unidad-6">Unidad 6</a></li>
+<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./1-bimestre/unidad-1">Unidad 1</a></li>
 </ul>
 </div></template>
 

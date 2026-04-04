@@ -48,7 +48,7 @@
 <p class="hint-container-title">Importante</p>
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Clase Semana 6<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="vscode-icons:file-type-word" /> Microsoft Word</p>
 </div>
-<p>Para tu práctica de Computación debes elaborar un triptico sobre semana santa, luego imprimirlo y traerlo en tu folder para su revisión. Es importante el que uses los conceptos vistos en clase.</p>
+<p>Para tu práctica de Computación debes elaborar una historieta sobre la traición de Judas, luego imprimirlo y traerlo en tu folder para su revisión. Es importante el que uses los conceptos vistos en clase.</p>
 </div></template>
 
 

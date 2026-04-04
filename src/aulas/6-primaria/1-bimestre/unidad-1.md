@@ -65,4 +65,4 @@ Microsoft Word es una herramienta muy útil no solo para redactar documentos, si
 > [!important]
 > ::fluent-color:calendar-48:: **Fecha Límite:** Clase Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::vscode-icons:file-type-word:: Microsoft Word
 
-Para tu práctica de Computación debes elaborar un triptico sobre semana santa, luego imprimirlo y traerlo en tu folder para su revisión. Es importante el que uses los conceptos vistos en clase.
+Para tu práctica de Computación debes elaborar una historieta sobre la traición de Judas, luego imprimirlo y traerlo en tu folder para su revisión. Es importante el que uses los conceptos vistos en clase.

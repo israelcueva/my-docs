@@ -1,5 +1,5 @@
 ---
-title: Unidad 5
+title: Unidad 1
 category:
   - Aula
 tag:
@@ -7,783 +7,180 @@ tag:
   - 3-Secundaria
 author: Pepito
 icon: fluent-color:notebook-32
-order: 5
+order: 1
 ---
 
-JavaScript es un lenguaje de programación que se utiliza principalmente para dar interactividad y dinamismo a las páginas web. Mientras que HTML se encarga de la estructura y CSS del diseño, JavaScript permite que el sitio “cobre vida”, añadiendo funciones como menús desplegables, animaciones, validación de formularios, juegos o aplicaciones completas en línea. Es uno de los lenguajes más populares en el mundo, porque se ejecuta directamente en el navegador sin necesidad de instalar programas adicionales. Además, también se usa en servidores y aplicaciones modernas, lo que lo convierte en una herramienta fundamental para aprender programación y crear proyectos innovadores en el mundo digital.
+::mdi:wordpress color=#0F88BD:: WordPress es el sistema de gestión de contenidos (CMS) más popular y versátil del mundo, diseñado para permitir la creación, administración y publicación de sitios web de manera sencilla y profesional. Aunque nació originalmente como una plataforma enfocada en la creación de blogs, su arquitectura de código abierto ha evolucionado hasta convertirse en una herramienta integral capaz de dar vida a cualquier tipo de proyecto digital, desde portafolios personales y sitios corporativos hasta complejas tiendas virtuales.
 
-## 3BS01: Entiendo el uso de variables en Javascript
+Su éxito radica en un ecosistema basado en temas (para el diseño visual) y plugins (para añadir funciones específicas), lo que permite a los usuarios construir sitios web robustos sin necesidad de tener conocimientos avanzados en programación. Al ser una plataforma accesible y altamente personalizable, WordPress se ha consolidado como la opción predilecta tanto para principiantes que buscan su primera presencia en línea como para desarrolladores que requieren una base sólida y escalable para sus proyectos.
 
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 11 al 15 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=yn8nQjocX2g)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
-
-Las variables son contenedores que almacenan datos. En JavaScript, puedes crear variables para guardar diferentes tipos de información como números, texto, objetos, y más.
-
-**Declaración de Variables**
-
-JavaScript ofrece tres formas principales de declarar variables:
-
-`var`
-
-```javascript
-var nombre = "Juan";
-var edad = 25;
-```
-
-`let`
-```javascript
-let nombre = "María";
-let edad = 30;
-```
-
-`const`
-```javascript
-const PI = 3.14159;
-const nombre = "Pedro";
-```
-
-**Diferencias entre var, let y const**
-
-| Característica | var | let | const |
-|----------------|-----|-----|-------|
-| Scope (Alcance) | Función/Global | Bloque | Bloque |
-| Redeclaración | Permitida | No permitida | No permitida |
-| Reasignación | Permitida | Permitida | No permitida |
-| Hoisting | Sí | Sí (pero TDZ) | Sí (pero TDZ) |
-
-**Tipos de Datos**
-
-JavaScript es un lenguaje de tipado dinámico, lo que significa que no necesitas especificar el tipo de dato.
-
-**Tipos Primitivos**
-
-**String (Cadena de texto)**
-```javascript
-let saludo = "Hola mundo";
-let nombre = 'JavaScript';
-let template = `Mi nombre es ${nombre}`;
-```
-
-**Number (Número)**
-```javascript
-let entero = 42;
-let decimal = 3.14;
-let negativo = -10;
-```
-
-**Boolean (Booleano)**
-```javascript
-let verdadero = true;
-let falso = false;
-```
-
-**Undefined**
-```javascript
-let sinDefinir;
-console.log(sinDefinir); // undefined
-```
-
-**Null**
-```javascript
-let vacio = null;
-```
-
-**Symbol (ES6+)**
-```javascript
-let simbolo = Symbol('descripcion');
-```
-
-**BigInt (ES2020)**
-```javascript
-let numeroGrande = 123456789012345678901234567890n;
-```
-
-### Ejemplo
-
-```html title="index.html"
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <script>
-        let name = "Pepito"; // [!code focus]
-        let lastName = "Periquito"; // [!code focus]
-        console.log(`Hola mi nombre es ${name} ${lastName}`); // [!code focus]
-    </script>
-</body>
-</html>
-```
-
-::: warning **Tarea**
-Declara  las variables nombre, apellidos, edad y sexo. Además, crea un template que muestra, mediante la consola, el mensaje: <code>Hola, soy Pepito Periquito, tengo 52 años y mi sexo es Masculino</code>
-:::
-
-## 3BS02: Hago uso de funciones para mi aplicación
+## 1BS01: Instalo Wordpress en el  localhost
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 18 al 22 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completa la ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=e3EyqGnb6XM)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 09 al 13 de Marzo<br>::fluent-color:laptop-48:: **Programa:** ::mdi:wordpress color=#0F88BD:: [Wordpress](https://pe.wordpress.org/) /  ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=-dDNCZtKAn0)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1PZFcDRsIkn81WQUMvHLm6P0vTOw9OX1F?usp=sharing)
 
-En JavaScript, las funciones son bloques de código que nos permiten agrupar instrucciones para reutilizarlas cuando las necesitemos. En lugar de escribir las mismas líneas de código varias veces, podemos crear una función, darle un nombre y luego “llamarla” cada vez que queramos que se ejecute. Esto hace que los programas sean más organizados, fáciles de entender y de mantener. Además, las funciones pueden recibir valores de entrada llamados parámetros y devolver un resultado, lo que las convierte en una herramienta esencial para resolver problemas y construir aplicaciones dinámicas en la web.
+Instalar WordPress en modo local es la mejor forma de practicar, diseñar o desarrollar un sitio web antes de publicarlo en un servidor real. Para ello, utilizaremos XAMPP, un paquete de software que simula un servidor web en tu propia computadora.
 
-**1. Función básica**
+1. **Descargar e Instalar XAMPP**
 
-```javascript
-// Definición de una función
-function saludar() {
-  console.log("¡Hola, bienvenido a JavaScript!");
-}
+Ve al sitio oficial de Apache Friends y descarga el instalador de XAMPP para tu sistema operativo (Windows, Linux o macOS).
 
-// Llamada a la función
-saludar();
-```
+Sigue los pasos del instalador manteniendo las opciones por defecto. Una vez terminada la instalación, abre el XAMPP Control Panel.
 
-**2. Función con parámetros**
+2. **Iniciar los Servicios**
 
-```javascript
-function saludarPersona(nombre) {
-  console.log("Hola " + nombre + ", ¿cómo estás?");
-}
+En el Panel de Control de XAMPP, debes activar dos servicios fundamentales haciendo clic en el botón "Start":
 
-// Llamadas a la función
-saludarPersona("Ana");
-saludarPersona("Luis");
-```
+- Apache: El servidor web que procesará los archivos.
+- MySQL: El sistema que gestionará la base de datos de tu sitio.
 
-**3. Función que devuelve un valor**
+Los indicadores deben ponerse en color verde para confirmar que están funcionando correctamente.
 
-```javascript
-function sumar(a, b) {
-  return a + b;
-}
+3. **Descargar WordPress**
 
-// Usamos la función y guardamos el resultado
-let resultado = sumar(5, 7);
-console.log("La suma es: " + resultado);
-```
+Descarga la versión más reciente en español desde WordPress.org.
 
-**4. Función flecha (más moderna)**
+Obtendrás un archivo .zip. Descomprímelo y verás una carpeta llamada wordpress.
 
-```javascript
-// Forma corta de escribir funciones
-const multiplicar = (x, y) => x * y;
+4. **Preparar la Carpeta del Proyecto**
 
-console.log("El producto es: " + multiplicar(4, 6));
-```
+Copia la carpeta `wordpress` descomprimida.
 
-### Ejemplo
+Dirígete a la ruta donde instalaste XAMPP (generalmente `C:\xampp`) y entra en la carpeta llamada `htdocs`.
 
-```html title="index.html"
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Calculadora Fluent</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #dfe9f3 0%, #ffffff 100%);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+Pega la carpeta ahí. Puedes renombrarla con el nombre de tu proyecto (ejemplo: mi-sitio-web).
 
-    .calculator {
-      background: rgba(255, 255, 255, 0.7);
-      backdrop-filter: blur(10px);
-      border-radius: 20px;
-      padding: 30px;
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-      text-align: center;
-      width: 350px;
-    }
+5. **Crear la Base de Datos**
 
-    h1 {
-      font-weight: 600;
-      color: #2c3e50;
-      margin-bottom: 20px;
-    }
+Abre tu navegador y escribe: localhost/phpmyadmin.
 
-    input {
-      width: 120px;
-      padding: 10px;
-      margin: 10px;
-      border: none;
-      border-radius: 10px;
-      text-align: center;
-      font-size: 16px;
-      background: rgba(240, 240, 240, 0.9);
-      box-shadow: inset 1px 1px 3px rgba(0,0,0,0.1);
-    }
+Haz clic en la pestaña "Nueva" (o "New").
 
-    .buttons {
-      margin-top: 15px;
-    }
+Escribe un nombre para tu base de datos (por ejemplo: bd_wordpress) y haz clic en "Crear". No necesitas hacer nada más aquí por ahora.
 
-    button {
-      padding: 12px 18px;
-      margin: 8px;
-      border: none;
-      border-radius: 12px;
-      font-size: 15px;
-      font-weight: 500;
-      background: #0078D7;
-      color: white;
-      cursor: pointer;
-      transition: all 0.2s ease;
-      box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    }
+6. **Ejecutar el Instalador de WordPress**
 
-    button:hover {
-      background: #005a9e;
-      transform: translateY(-2px);
-      box-shadow: 0 5px 12px rgba(0,0,0,0.25);
-    }
+En tu navegador, ingresa a la dirección: localhost/nombre-de-tu-carpeta (ejemplo: localhost/mi-sitio-web).
 
-    #resultado {
-      margin-top: 25px;
-      font-size: 20px;
-      font-weight: bold;
-      color: #1b1b1b;
-      background: rgba(255, 255, 255, 0.5);
-      padding: 12px;
-      border-radius: 12px;
-      box-shadow: inset 1px 1px 4px rgba(0,0,0,0.1);
-    }
-  </style>
-</head>
-<body>
-  <div class="calculator">
-    <h1>Calculadora</h1>
-    
-    <input type="number" id="num1" placeholder="Número 1">
-    <input type="number" id="num2" placeholder="Número 2">
-    <br>
+Selecciona tu idioma y haz clic en "¡Vamos a ello!".
 
-    <div class="buttons">
-      <button onclick="sumar(getVal('num1'), getVal('num2'))">+</button>
-      <button onclick="restar(getVal('num1'), getVal('num2'))">-</button>
-      <button onclick="multiplicar(getVal('num1'), getVal('num2'))">*</button>
-      <button onclick="dividir(getVal('num1'), getVal('num2'))">/</button>
-    </div>
-    
-    <div id="resultado">Resultado: </div>
-  </div>
+Configura los datos de conexión de la siguiente manera:
 
-  <script>
+- Nombre de la base de datos: bd_wordpress (o el nombre que elegiste en el paso 5).
+- Nombre de usuario: root
+- Contraseña: (Déjalo vacío, XAMPP por defecto no tiene contraseña para root).
+- Servidor de la base de datos: localhost
+- Prefijo de tabla: wp_
 
-   function getVal(id) {
-      return parseFloat(document.getElementById(id).value) || 0;
-    }
+7. **Finalizar la Instalación**
 
-    function sumar(a, b) {
-      document.getElementById("resultado").innerText = "Resultado: " + (a + b);
-    }
+Haz clic en "Ejecutar la instalación". Ahora te pedirá los datos del sitio, como es de pruebas harás lo siguiente:
 
-    function restar(a, b) {
-      document.getElementById("resultado").innerText = "Resultado: " + (a - b);
-    }
+- Nombre del Sitio: Ponle cualquier nombre.
+- Usuario: root (inseguro, pero fácil de recordar).
+- Contraseña: root (inseguro, pero fácil de recordar).
+- Activar COntraseña insegura.
+- Correo: cualquiercorreo@cualquiercorreo.com
 
-    function multiplicar(a, b) {
-      document.getElementById("resultado").innerText = "Resultado: " + (a * b);
-    }
+Dale en Instalar.
 
-    function dividir(a, b) {
-      if (b === 0) {
-        document.getElementById("resultado").innerText = "Error: División entre 0";
-      } else {
-        document.getElementById("resultado").innerText = "Resultado: " + (a / b);
-      }
-    }
+¡Listo! Ahora puedes acceder a tu panel de administración local en `localhost/mi-sitio-web/wp-admin`.
 
-  </script>
-</body>
-</html>
-```
-
-## 3BS03: Uso de condicionales para mejorar mi aplicación
+## 1BS02: Instalo y configuro Astra y Spectra
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 18 al 22 de Agosto<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completa la ficha de la semana<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=0FaErrXOFRE)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 16 al 20 de Marzo<br>::fluent-color:laptop-48:: **Programa:** ::mdi:wordpress color=#0F88BD:: [Wordpress](https://pe.wordpress.org/) <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Astra](https://www.youtube.com/watch?v=H4wjtCsjrtc) / [Spectra](https://www.youtube.com/watch?v=p4VUmQlEy8I)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1PZFcDRsIkn81WQUMvHLm6P0vTOw9OX1F?usp=sharing)
 
+Para llevar tus proyectos de WordPress al siguiente nivel, la combinación de Astra y Spectra es una de las soluciones más potentes y eficientes en la actualidad. Astra es un tema extremadamente ligero y rápido, diseñado para ofrecer un control total sobre el diseño global de tu sitio (como cabeceras, pies de página y tipografías) sin afectar el rendimiento. Por su parte, Spectra es un conjunto de bloques avanzados que potencia el editor nativo de WordPress (Gutenberg), permitiéndote crear diseños complejos, animaciones y estructuras profesionales mediante un sistema de "arrastrar y soltar". Juntos, permiten construir sitios web visualmente impactantes y optimizados para SEO sin necesidad de escribir una sola línea de código.
 
-**1. If / Else**
+**Instalación del Tema Astra**
 
----
+1. Entra a tu panel de administración de WordPress (`localhost/tu-sitio/wp-admin`).
+2. En el menú de la izquierda, ve a `Apariencia` > `Temas`.
+3. Haz clic en el botón `Añadir tema` (`Add theme`).
+4. En el buscador de la derecha, escribe "Astra".
+5. Cuando aparezca, haz clic en `Instalar` y, una vez finalizado, presiona `Activar`.
 
-En JavaScript, la estructura if...else se utiliza para que un programa tome decisiones dependiendo de si una condición es verdadera o falsa.
-Es la forma más común de usar condicionales en la programación.
+**Instalación del Plugin Spectra**
 
-La estructura básica es:
+1. Ve a la sección Plugins > Añadir nuevo plugin.
+2. En el buscador, escribe "Spectra".
+3. Busca el plugin llamado "Spectra – WordPress Gutenberg Blocks" (desarrollado por Brainstorm Force).
+4. Haz clic en Instalar ahora y luego en Activar.
 
-```javascript
-if (condicion) {
-  // Código que se ejecuta si la condición es verdadera
-} else {
-  // Código que se ejecuta si la condición es falsa
-}
-```
-También se pueden agregar más condiciones con else if:
+**(Opcional pero recomendado) Starter Templates**
 
-```javascript
-if (condicion1) {
-  // Se ejecuta si la condición1 es verdadera
-} else if (condicion2) {
-  // Se ejecuta si la condición2 es verdadera
-} else {
-  // Se ejecuta si ninguna condición anterior fue verdadera
-}
-```
+Si quieres empezar con un diseño profesional ya hecho en lugar de una página en blanco:
 
-**Ejemplo práctico**
+Al activar Astra o Spectra, verás un aviso para instalar "Starter Templates". Si no lo ves, búscalo en la sección de Plugins como "Starter Templates".
 
-```javascript
-let numero = 5;
+Una vez activado, ve a Apariencia > Starter Templates.
 
-if (numero > 10) {
-  console.log("El número es mayor que 10");
-} else if (numero === 10) {
-  console.log("El número es igual a 10");
-} else {
-  console.log("El número es menor que 10");
-}
-```
-En este ejemplo:
+Selecciona "Block Editor" (Gutenberg) como tu constructor.
 
-- Si numero es mayor que 10 → muestra ``El número es mayor que 10``.
-- Si numero es igual a 10 → muestra ``El número es igual a 10``.
-- Si no cumple ninguna de las anteriores → muestra ``El número es menor que 10``.
+Elige una plantilla que te guste, personaliza el logo y los colores básicos, y haz clic en "Submit & Build My Website".
 
+**A tomar en cuenta**
 
-**2. Switch / Case**
+- Astra (Tema): Es el "esqueleto" y la configuración global (colores del sitio, menús, fuentes).
+- Spectra (Blocks): Son los "ladrillos" con los que construyes cada página (botones, galerías, mapas, testimonios).
 
----
-
-En JavaScript, el switch es una estructura de control que se utiliza cuando necesitamos tomar decisiones entre varias opciones posibles.
-Funciona de manera similar a una serie de if...else if...else, pero su sintaxis es más ordenada y clara cuando hay muchos casos distintos a evaluar.
-
-La estructura básica es:
-
-```javascript
-switch (expresion) {
-  case valor1:
-    // Código si expresion === valor1
-    break;
-  case valor2:
-    // Código si expresion === valor2
-    break;
-  case valor3:
-    // Código si expresion === valor3
-    break;
-  default:
-    // Código si ninguno de los casos anteriores coincide
-}
-```
-
-**Explicación:**
-
-- **expresion**: es la variable o valor que queremos evaluar.
-- **case valorX**: representa cada posible opción.
-- **break**: detiene la ejecución del switch para que no se ejecuten los demás casos.
-- **default**: se ejecuta si ningún caso coincide (es como el else).
-
-```javascript
-let dia = "lunes";
-switch (dia) {
-  case "lunes":
-    console.log("Inicio de semana");
-    break;
-  case "viernes":
-    console.log("Casi fin de semana");
-    break;
-  case "sábado":
-  case "domingo":
-    console.log("Es fin de semana");
-    break;
-  default:
-    console.log("Es un día normal");
-}
-```
-
-**En este ejemplo:**
-
-- Si dia es "lunes", mostrará `Inicio de semana`.
-- Si dia es "viernes", mostrará ``Casi fin de semana``.
-- Si dia es "sábado" o "domingo", mostrará ``Es fin de semana``.
-- Para cualquier otro valor, ejecutará el default.
-
-### Ejemplo
-
-```html title="index.html"
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Calculadora con Switch</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #dfe9f3 0%, #ffffff 100%);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-
-    .calculator {
-      background: rgba(255, 255, 255, 0.7);
-      backdrop-filter: blur(10px);
-      border-radius: 20px;
-      padding: 30px;
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-      text-align: center;
-      width: 350px;
-    }
-
-    h1 {
-      font-weight: 600;
-      color: #2c3e50;
-      margin-bottom: 20px;
-    }
-
-    input, select {
-      width: 120px;
-      padding: 10px;
-      margin: 10px;
-      border: none;
-      border-radius: 10px;
-      text-align: center;
-      font-size: 16px;
-      background: rgba(240, 240, 240, 0.9);
-      box-shadow: inset 1px 1px 3px rgba(0,0,0,0.1);
-    }
-
-    .buttons {
-      margin-top: 15px;
-    }
-
-    button {
-      padding: 12px 18px;
-      margin: 8px;
-      border: none;
-      border-radius: 12px;
-      font-size: 15px;
-      font-weight: 500;
-      background: #0078D7;
-      color: white;
-      cursor: pointer;
-      transition: all 0.2s ease;
-      box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    }
-
-    button:hover {
-      background: #005a9e;
-      transform: translateY(-2px);
-      box-shadow: 0 5px 12px rgba(0,0,0,0.25);
-    }
-
-    #resultado {
-      margin-top: 25px;
-      font-size: 20px;
-      font-weight: bold;
-      color: #1b1b1b;
-      background: rgba(255, 255, 255, 0.5);
-      padding: 12px;
-      border-radius: 12px;
-      box-shadow: inset 1px 1px 4px rgba(0,0,0,0.1);
-    }
-  </style>
-</head>
-<body>
-  <div class="calculator">
-    <h1>Calculadora Switch</h1>
-    
-    <input type="number" id="num1" placeholder="Número 1">
-    <input type="number" id="num2" placeholder="Número 2">
-    <br>
-
-    <select id="operacion">
-      <option value="sumar">Sumar</option>
-      <option value="restar">Restar</option>
-      <option value="multiplicar">Multiplicar</option>
-      <option value="dividir">Dividir</option>
-    </select>
-
-    <div class="buttons">
-      <button onclick="calcular()">Calcular</button>
-    </div>
-    
-    <div id="resultado">Resultado: </div>
-  </div>
-
-  <script>
-    function getVal(id) {
-      return parseFloat(document.getElementById(id).value) || 0;
-    }
-
-    function mostrarResultado(texto) {
-      document.getElementById("resultado").innerText = texto;
-    }
-
-    function calcular() {
-      let a = getVal('num1');
-      let b = getVal('num2');
-      let operacion = document.getElementById("operacion").value;
-
-      switch (operacion) {
-        case "sumar":
-          if (a === b) {
-            mostrarResultado("Son iguales. Resultado: " + (a + b));
-          } else {
-            mostrarResultado("Resultado: " + (a + b));
-          }
-          break;
-
-        case "restar":
-          if (a < b) {
-            mostrarResultado("Advertencia: será negativo → " + (a - b));
-          } else {
-            mostrarResultado("Resultado: " + (a - b));
-          }
-          break;
-
-        case "multiplicar":
-          if (a === 0 || b === 0) {
-            mostrarResultado("Multiplicar por 0 siempre da 0");
-          } else {
-            mostrarResultado("Resultado: " + (a * b));
-          }
-          break;
-
-        case "dividir":
-          if (b === 0) {
-            mostrarResultado("Error: no se puede dividir entre 0");
-          } else {
-            mostrarResultado("Resultado: " + (a / b));
-          }
-          break;
-
-        default:
-          mostrarResultado("Operación no reconocida");
-          break;
-      }
-    }
-  </script>
-</body>
-</html>
-```
-
-## 3BS04: Entiendo los eventos del DOM
+## 1BS03: Añado las páginas principales de mi sitio web
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=03eid8Lc8V8)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1sS6GGJK9ZJz4Go2m57zzpjfSGLDMH5jn?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 23 al 27 de Marzo<br>::fluent-color:laptop-48:: **Programa:** ::mdi:wordpress color=#0F88BD:: [Wordpress](https://pe.wordpress.org/) <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Páginas VS Entradas](https://www.youtube.com/watch?v=Dv4XeGgaJqU)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1PZFcDRsIkn81WQUMvHLm6P0vTOw9OX1F?usp=sharing)
 
-En JavaScript, los **eventos** son acciones que ocurren en la página web y que el navegador puede detectar, como hacer clic, escribir, mover el ratón o cargar un elemento. El **DOM (Document Object Model)** es la representación estructurada del documento HTML en forma de nodos, lo que permite a JavaScript acceder y manipular contenido, atributos y estilos. Al manejar eventos sobre el DOM, logramos páginas dinámicas e interactivas.
+Una vez que tienes tu WordPress instalado (ya sea en local o en la nube), crear una página es un proceso intuitivo gracias al editor de bloques.
 
-**Principales eventos en JavaScript**
+**Acceder al menú de Páginas**
 
-1. **click**  
-   Se activa cuando el usuario hace clic sobre un elemento.  
-   Ejemplo: cambiar el color de un botón al pulsarlo.
+1. En el escritorio de administración (panel lateral izquierdo), busca la opción `Páginas`.
+2. Haz clic en Añadir nueva página.
 
-2. **dblclick**  
-   Se ejecuta cuando se hace doble clic en un elemento.
+**Definir el Título y el Contenido**
 
-3. **mouseover / mouseout**  
-   - *mouseover*: ocurre cuando el puntero entra en un elemento.  
-   - *mouseout*: ocurre cuando el puntero sale del elemento.  
+- Título: Escribe el nombre de la página (ej. "Principal" o "Sobre mí") en el campo superior. Esto generará automáticamente la URL(slug) o enlace permanente del sitio.
+- Bloques de contenido: Haz clic en el símbolo (+) para añadir elementos. Puedes insertar párrafos, imágenes, encabezados o, si ya instalaste Spectra, bloques avanzados como contenedores de diseño, galerías de fotos o botones de llamada a la acción.
 
-4. **keydown / keyup**  
-   - *keydown*: cuando el usuario presiona una tecla.  
-   - *keyup*: cuando el usuario suelta una tecla.  
+**Configuración de la Página (Barra Lateral Derecha)**
 
-5. **submit**  
-   Se activa al enviar un formulario. Puede usarse para validar los datos antes de enviarlos al servidor.
+En el panel de ajustes de la derecha, puedes personalizar detalles importantes:
 
-6. **change**  
-   Detecta cuando un valor cambia en un input, select o textarea.
+- Imagen destacada: Es la imagen principal que representará a la página en redes sociales o listados.
+- Atributos de página: Aquí puedes elegir si la página es una "página superior" o si depende de otra (subpágina).
+- Slug: Es el "usuario" asignado a esta página.
+- Plantilla: Si tu tema (como Astra) ofrece diferentes diseños (sin barras laterales, ancho completo, etc.), puedes seleccionarlos aquí.
 
-7. **load**  
-   Ocurre cuando una página o recurso (como una imagen) ha terminado de cargarse.
+**Vista Previa y Publicación**
 
-8. **focus / blur**  
-   - *focus*: cuando un campo de formulario recibe el cursor.  
-   - *blur*: cuando el campo pierde el cursor.
+- Antes de lanzar la página, haz clic en Vista previa para ver cómo luce en computadoras, tablets y celulares.
+- Cuando estés satisfecho, haz clic en el botón azul Publicar. WordPress te pedirá una confirmación final.
 
+**Añadir la página al Menú (Paso Vital)**
 
-**Estructura básica del DOM**
+Crear la página no significa que aparecerá automáticamente en tu sitio. Para que tus visitantes la vean, debes añadirla al menú de navegación:
 
-El DOM organiza un documento HTML como un árbol de nodos:
+1. Ve a `Apariencia` > `Menús` (o usa el Personalizador de Astra).
+2. Selecciona la página que acabas de crear en la lista de la izquierda.
+3. Haz clic en `Añadir al menú`.
+4. Arrastra la página para ordenarla y haz clic en `Guardar menú`.
 
-```mermaid
-graph TD
-    Document --> html
-    html --> head
-    html --> body
-    head --> title
-    body --> h1
-    body --> p
-    body --> div
-    div --> button
-```
+Tip de experto: Para una web profesional, asegúrate de configurar tu página de "Principal" como una página estática en Ajustes > Lectura, para que sea lo primero que vean los usuarios al entrar a tu dominio.
 
-### Ejemplo
+## 1BS04: Creo el menú de mi sitio y entiendo el Front y el Dashboard
 
-```html title="index.html"
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <title>Calculadora Fluent con Eventos</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(135deg, #dfe9f3 0%, #ffffff 100%);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 30 de Marzo al 03 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::mdi:wordpress color=#0F88BD:: [Wordpress](https://pe.wordpress.org/) <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Menús](https://www.youtube.com/watch?v=dQFfe6_wwN8) / [Enlaces permanentes](https://www.youtube.com/watch?v=6JQ5oY38wC0) / [Principal](https://www.youtube.com/watch?v=IPx3781Tzmc)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1PZFcDRsIkn81WQUMvHLm6P0vTOw9OX1F?usp=sharing)
 
-    .calculator {
-      background: rgba(255, 255, 255, 0.7);
-      backdrop-filter: blur(10px);
-      border-radius: 20px;
-      padding: 30px;
-      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
-      text-align: center;
-      width: 350px;
-    }
+Una vez terminada la estructura base de la página, ahora veremos como configurar algunas cuestiones extras.
 
-    h1 {
-      font-weight: 600;
-      color: #2c3e50;
-      margin-bottom: 20px;
-    }
+- Creación del menú principal (Principal,Acerca de, Blog, Contacto)
+- Configurar enlaces permanentes `/%category%/%postame%`
+- Definir página de inicio a `Principal` y de entradas a `Blog`.
 
-    input {
-      width: 120px;
-      padding: 10px;
-      margin: 10px;
-      border: none;
-      border-radius: 10px;
-      text-align: center;
-      font-size: 16px;
-      background: rgba(240, 240, 240, 0.9);
-      box-shadow: inset 1px 1px 3px rgba(0,0,0,0.1);
-    }
+## 1BS05: Práctica Calificada
 
-    .buttons {
-      margin-top: 15px;
-    }
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** Sábado 11 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::mdi:wordpress color=#0F88BD:: [Wordpress](https://pe.wordpress.org/)
 
-    button {
-      padding: 12px 18px;
-      margin: 8px;
-      border: none;
-      border-radius: 12px;
-      font-size: 15px;
-      font-weight: 500;
-      background: #0078D7;
-      color: white;
-      cursor: pointer;
-      transition: all 0.2s ease;
-      box-shadow: 0 3px 8px rgba(0,0,0,0.2);
-    }
-
-    button:hover {
-      background: #005a9e;
-      transform: translateY(-2px);
-      box-shadow: 0 5px 12px rgba(0,0,0,0.25);
-    }
-
-    #resultado {
-      margin-top: 25px;
-      font-size: 20px;
-      font-weight: bold;
-      color: #1b1b1b;
-      background: rgba(255, 255, 255, 0.5);
-      padding: 12px;
-      border-radius: 12px;
-      box-shadow: inset 1px 1px 4px rgba(0,0,0,0.1);
-    }
-  </style>
-</head>
-<body>
-  <div class="calculator">
-    <h1>Calculadora con Eventos</h1>
-    
-    <input type="number" id="num1" placeholder="Número 1">
-    <input type="number" id="num2" placeholder="Número 2">
-    <br>
-
-    <div class="buttons">
-      <button id="btnSumar">Sumar</button>
-      <button id="btnRestar">Restar</button>
-      <button id="btnMultiplicar">Multiplicar</button>
-      <button id="btnDividir">Dividir</button>
-    </div>
-    
-    <div id="resultado">Resultado: </div>
-  </div>
-
-  <script>
-    // --- Funciones de apoyo getVal y mostrarResultado ---
-    function getVal(id) {
-      return parseFloat(document.getElementById(id).value) || 0;
-    }
-
-    function mostrarResultado(texto) {
-      document.getElementById("resultado").innerText = texto;
-    }
-
-    // --- Funciones de operaciones ---
-    function sumar() {
-      let a = getVal("num1"), b = getVal("num2");
-      mostrarResultado("Resultado: " + (a + b));
-    }
-
-    function restar() {
-      let a = getVal("num1"), b = getVal("num2");
-      mostrarResultado("Resultado: " + (a - b));
-    }
-
-    function multiplicar() {
-      let a = getVal("num1"), b = getVal("num2");
-      mostrarResultado("Resultado: " + (a * b));
-    }
-
-    function dividir() {
-      let a = getVal("num1"), b = getVal("num2");
-      if (b === 0) {
-        mostrarResultado("Error: no se puede dividir entre 0");
-      } else {
-        mostrarResultado("Resultado: " + (a / b));
-      }
-    }
-
-    // --- Uso de eventos y DOM ---
-    document.getElementById("btnSumar").addEventListener("click", sumar);
-    document.getElementById("btnRestar").addEventListener("click", restar);
-    document.getElementById("btnMultiplicar").addEventListener("click", multiplicar);
-    document.getElementById("btnDividir").addEventListener("click", dividir);
-  </script>
-</body>
-</html>
-
-```
-
-## 3BS05: Practica Calificada - Revisión de Folder
-
-> [!caution]
-> ::fluent-color:calendar-48:: **Fecha Límite:** Semana 6<br>::fluent-color:laptop-48:: **Programa:** ::logos:visual-studio-code:: [Visual Studio Code](https://code.visualstudio.com/)
-
-Prepara el glosario con las palabras y todas las funciones usadas en clase. En la semana 6 se te haran preguntas respecto a ese glosario.
+Replica todo lo hecho hasta esta semana en tu instalación de Wordpress, la cual deberá poderse acceder desde cualquier computadora con conexión a Internet.

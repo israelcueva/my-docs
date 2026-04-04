@@ -117,7 +117,7 @@ export default sidebar({
             children: [
               {
                 text: "Bimestre I",
-                prefix: "-bimestre/",
+                prefix: "1-bimestre/",
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
