@@ -59,5 +59,9 @@ Ahora veremos como usar los distintos conceptos para realizar una animación sen
 
 Para tu práctica deberas completar la animación del jardín, el cual deberá tener: Una colibri, una abeja y una mariposa. Si puedes animar el movimiento de las plantas se te dará nota extra.
 
+Un vaz terminado, exportalo a gif o MP4 y presenta tu proyecto a través del enlace siguiente:
+
+https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgDTdLA88nieRZ4HE7EsxWAiAQGKnpFFiaovoYE2gARvM1M
+
 
 
