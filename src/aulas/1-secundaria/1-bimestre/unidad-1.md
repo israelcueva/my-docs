@@ -46,9 +46,9 @@ Replica lo hecho en clase, imprime y adjuntalo en tu folder para la revisión de
 
 El uso de las opciones de fusión en Photopea permite combinar capas de diferentes maneras para lograr efectos visuales atractivos y profesionales. Estas opciones, también conocidas como modos de fusión, controlan cómo interactúan los colores y la iluminación entre una capa y otra, permitiendo crear sombras, brillos, transparencias y mezclas de color. Herramientas como “Multiplicar”, “Superponer” o “Trama” son esenciales para mejorar imágenes, diseñar composiciones creativas y dar mayor profundidad a los proyectos gráficos. Dominar estas funciones es clave para aprovechar al máximo el potencial de edición que ofrece Photopea.
 
-## 3BS05: Comprendo el uso de las opciones de fusión
+## 3BS05: Práctica Calificada & Revisión de Folder
 
 > [!important]
 > ::fluent-color:calendar-48:: **Fecha:** Clase de la semana 6<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea color=#18A497:: [Photopea](https://www.photopea.com/)
 
-Al igual que se trabajo a Pikachu, haz lo mismo con Clefairy, el pokemon hada. Imprime el trabajo final, asi como las capas que usaste.
+Al igual que se trabajo a Pikachu, haz lo mismo con Clefairy, el pokemon hada. Imprime el trabajo final, asi como las capas que usaste. Es decir, presentarás dos hojas para esta práctica.
