@@ -34,8 +34,8 @@ export default sidebar({
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-1.md"
-                  //"unidad-6.md",
+                  "unidad-1.md",
+                  "unidad-2.md"
                 ]
               }/*,
               {
@@ -63,8 +63,8 @@ export default sidebar({
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-1.md"//,
-                  //"unidad-6.md",
+                  "unidad-1.md",
+                  "unidad-2.md"
                 ]
               }/*,
                             {
@@ -92,8 +92,8 @@ export default sidebar({
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-1.md"//,
-                  //"unidad-6.md",
+                  "unidad-1.md",
+                  "unidad-2.md"
                 ]
               }/*,
               {
@@ -121,8 +121,8 @@ export default sidebar({
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-1.md"//,
-                  //"unidad-6.md",
+                  "unidad-1.md",
+                  "unidad-2.md"
                 ]
               }/*,
                             {
@@ -150,8 +150,8 @@ export default sidebar({
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-1.md"//,
-                  //"unidad-6.md",
+                  "unidad-1.md",
+                  "unidad-2.md"
                 ]
               }/*,
                 {
@@ -179,8 +179,8 @@ export default sidebar({
                 icon: "fluent-color:calendar-48",
                 collapsible: true,
                 children: [
-                  "unidad-1.md"//,
-                  //"unidad-6.md",
+                  "unidad-1.md",
+                  "unidad-2.md"
                 ]
               }/*,
                 {

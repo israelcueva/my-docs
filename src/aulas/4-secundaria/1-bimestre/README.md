@@ -13,3 +13,4 @@ icon: fluent-color:calendar-48
 ## Contenido
 
 - ::fluent-color:notebook-32:: [Unidad 1](unidad-1)
+- ::fluent-color:notebook-32:: [Unidad 2](unidad-2)

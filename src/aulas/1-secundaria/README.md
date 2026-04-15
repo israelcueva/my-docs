@@ -26,6 +26,7 @@ El alumno deberá tener instalado en sus computadoras los programas siguientes p
 ### Bimestre I
 
 - ::fluent-color:notebook-32:: [Unidad 1](./1-bimestre/unidad-1)
+- ::fluent-color:notebook-32:: [Unidad 2](./1-bimestre/unidad-2)
 
 
 

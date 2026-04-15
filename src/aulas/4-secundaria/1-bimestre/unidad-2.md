@@ -1,5 +1,5 @@
 ---
-title: Unidad 6
+title: Unidad 2
 category:
   - Aula
 tag:
@@ -7,43 +7,103 @@ tag:
   - 4-Secundaria
 author: Pepito
 icon: fluent-color:notebook-32
-order: 6
+order: 5
 ---
 
-Esta Unidad continuaremos trabajando con Adobe Illustrator y profundizaremos en funciones que destacan como las capas, que permiten organizar los elementos de un diseño de manera ordenada; las máscaras, que sirven para ocultar o mostrar partes específicas de un objeto sin eliminarlas; y el panel Buscatrazos, que facilita la combinación, división o recorte de formas para generar nuevas figuras complejas. Dominar estos recursos brinda mayor control, flexibilidad y creatividad en el proceso de diseño, optimizando tanto el flujo de trabajo como la calidad del resultado final.
+::streamline-flex-color:cat-2:: ct.js permite desarrollar videojuegos sin necesidad de tener conocimientos avanzados de programación, ya que ofrece una interfaz intuitiva basada en elementos gráficos como escenas, objetos y animaciones. Sin embargo, también brinda la posibilidad de utilizar JavaScript para añadir lógica más compleja, lo que lo convierte en una plataforma flexible tanto para novatos como para usuarios más experimentados.
 
-## 3BS06: Recreo mi personaje usando Adobe Ilustrator
+Entre sus principales ventajas se encuentran su ligereza, facilidad de uso y la capacidad de exportar juegos a múltiples plataformas, especialmente para la web. Además, incluye herramientas integradas para gestionar recursos como imágenes, sonidos y scripts, facilitando la organización del proyecto.
+
+## 1BS06: Entiendo y configuro el sistema de colisiones en mi juego
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 15 al 19 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=-U23ExJE20c)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
+> ::fluent-color:calendar-48:: **Fecha:** 13 al 17 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::streamline-flex-color:cat-2:: [CT.JS](https://ctjs.rocks/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Recrea el juego en casa / Crea un diagrama del proyecto de clase<br>::fluent-color:video-48:: **Videos:** [Lista](https://www.youtube.com/watch?v=gJCGwp2uDCU&list=PLWGY0ivGwOKIiJ6KcgmPF3eqV_TlYB0XT)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1u-QYAtX2ifDre1PqLDUwn7RMOUXgSCwQ?usp=sharing)
 
-Las capas en Adobe Illustrator funcionan como contenedores que organizan los distintos elementos de un diseño, permitiendo trabajar de manera más ordenada y eficiente. Gracias a ellas, es posible controlar la visibilidad, el bloqueo y la edición de objetos de forma independiente, lo que facilita la creación de proyectos complejos sin perder claridad en el proceso. Además, las capas ayudan a mantener un flujo de trabajo profesional, ya que permiten separar ilustraciones, textos y efectos, brindando flexibilidad y precisión al momento de editar o realizar ajustes.
+Para esta semana veremos un poco más sobre eventos y colisiones. Para ello usaremos tres room y en cada room coloca lo descrito lineas abajo.
 
-::: warning **Tarea**
-Mira esta [imagen](https://img.pikbest.com/wp/202346/depicting-cartoon-character-blue-android-or-ai-robot-depicted-through-3d-rendering_9747068.jpg!w700wp) y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.
+**1. RM_WELCOME**
+
+La famosa pantalla de bienvenida, en este Room solo tendremos un botón. Para añadirlo seguimos los pasos siguientes:
+
+1. Descargar la textura el botón de tu elección de la galeria integrada del paquete **FREE GAME UI**.
+2. Crear un template llamado `BTN_START`, cambiar el tipo de `Animated Sprite` a `Button`. 
+3. Agregar un evento clic y escribir este código: 
+
+::: tabs
+
+@tab:active ::streamline:cursor-click:: Click
+
+<!-- tab 1 content -->
+```javascript
+rooms.switch("RM_LEVEL_1");
+```
 :::
 
-## 3BS07: Uso máscaras para embeber sombras y luces
+**2. RM_WELCOME**
 
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 22 al 26 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=k5tPKYVnG8A)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
+En este ROOM irá nuestro personaje principal y el cactus, la única diferencia es que añadiremos un evento aidicional:
 
-Las máscaras son una herramienta fundamental en el diseño digital y la edición de imágenes, ya que permiten controlar qué partes de un objeto o capa son visibles sin necesidad de eliminar contenido de forma permanente. Su principal ventaja es que trabajan de manera no destructiva: en lugar de borrar, ocultan o revelan áreas según la configuración aplicada. Esto facilita realizar ajustes precisos, combinar imágenes, crear efectos de transparencia o resaltar elementos específicos, manteniendo siempre la posibilidad de modificar o revertir los cambios.
+1. Nos vamos a `Add Event` y esocgemos el penúltimo: ::iconoir:copy:: Collission with a Template.
+2. En la ventana que nos sale escogemos el cactus.
+3. Por último en el codigo, añadimos para que el room cambie a `RM_DEFEAT`
 
-::: warning **Tarea**
-Mira esta [imagen](https://static.vecteezy.com/system/resources/previews/017/047/796/non_2x/cute-chibi-cow-kawaii-illustration-cow-farm-icon-graphic-vector.jpg) y replicala en Illustrator; al finalizar imprimelo y adjuntalo en tu folder.
+::: tabs
+
+@tab ::mingcute:sun-line:: Creation
+
+<!-- tab 1 content -->
+
+```javascript
+this.jumpSpeed = -600;
+this.gravity = 1800;
+
+this.hspeed = 0; // Horizontal speed
+this.vspeed = 0; // Vertical speed
+```
+
+
+@tab ::fluent-mdl2:previous:: Frame Start
+
+<!-- tab 2 content -->
+
+```javascript
+this.movespeed = 240; // Velocidad
+
+if (actions.Izquierda.down) {
+    this.hspeed = -this.movespeed;
+} else if (actions.Derecha.down) {
+    this.hspeed = this.movespeed;
+} else {
+    // Si ninguna acción se ejecuta el personaje no se mueve
+    this.hspeed = 0;
+}
+
+// Código para que el personaje salte
+if (place.occupied(this, this.x, this.y + 1, 'suelo')) {
+    if (actions.Saltar.down) {
+        this.vspeed = this.jumpSpeed;
+    } else {
+        this.vspeed = 0;
+    }
+}
+
+// Código para que interactue con el escenario
+this.moveSmart('suelo');
+
+```
+
+@tab:active Collides DR_CACTUS template
+
+<!-- tab 3 content -->
+```javascript
+rooms.switch("RM_DEFEAT");
+```
 :::
 
-## 3BS08: Creo formas avanzadas usando Buscatrazos
+**3. RM_DEFEAT**
 
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 29 de Setiembre al 03 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea /#18a497:: [Photopea](https://www.photopea.com/) / ::devicon:illustrator:: Illustrator <br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Realizar practica final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=2Um44xAlvH8)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/19UQ_kuY8V0xU3Kd8aMDtbcXS7qQDOJ98?usp=sharing) / [The beziér game](https://bezier.method.ac/)
+Será la famosa pantalla de la muerte y en ella habrán dos botones:
 
-El Buscatrazos en Illustrator es una de las herramientas más útiles para trabajar con formas y vectores, ya que permite combinar, dividir, recortar o simplificar objetos de manera rápida y precisa. Con sus distintas opciones, como Unir, Menos frente, Intersecar o Excluir, el diseñador puede crear figuras personalizadas a partir de formas básicas, agilizando el proceso de diseño y dándole mayor versatilidad a la creación de logotipos, ilustraciones y composiciones gráficas. Gracias al Buscatrazos, es posible transformar ideas simples en elementos visuales complejos sin perder la calidad vectorial.
+1. `BTN_RESTART`: Volvera a cargar el `RM_LEVEL_1`
+2. `BTN_HOME`: Irá a la pantalla inicial `RM_Welcome`
 
-## 3BS09: Practica Calificada - Revisión de Folder
-
-> [!caution]
-> ::fluent-color:calendar-48:: **Fecha Límite:**  Callao (Martes 07) Oquendo (Jueves 09)<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator
-
-Escoge un robot de esta[imagen](https://img.freepik.com/vector-premium/robots-humanoides-androides-cyborg-juguetes-o-bots-maquinas-inteligencia-artificial_53500-279.jpg) y trata de replicarlo usando Adobe Illustrator. Imprime tu proyecto y preséntalo en folder el día indicado en la fecha límite.

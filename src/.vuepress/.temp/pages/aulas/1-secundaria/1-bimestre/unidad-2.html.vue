@@ -1,37 +1,37 @@
-<template><div><p>¡Bienvenido! Esta unidad  continuaremos trabajando con Adoble Illustrator, usando sus funciones un poco más avanzadas, asi mismo, aplicaremos técnicas y trucos que te ayudarán a lograr resultados increibles.</p>
-<h2 id="_3bs06-uso-de-capas-para-mejorar-mis-ilustraciones" tabindex="-1"><a class="header-anchor" href="#_3bs06-uso-de-capas-para-mejorar-mis-ilustraciones"><span>3BS06: Uso de capas para mejorar mis ilustraciones</span></a></h2>
+<template><div><p>Seguiremos avanzando con la aplicación de Photopea. El proyecto comienza reuniendo distintos elementos visuales en un mismo lienzo. Esto implica importar varias fotografías, recortar sujetos y organizar estos recursos en diferentes capas para estructurar una escena nueva, un collage o un fotomontaje cohesivo.<br>
+Una vez que las imágenes están distribuidas, es necesario que interactúen visualmente entre sí. Mediante el uso de máscaras, modos de fusión (como Multiplicar, Trama o Superponer) y filtros (como desenfoques o ajustes de color), se unifican las luces y las sombras para que los elementos no parezcan recortes aislados, sino partes naturales de un mismo entorno.Las composiciones puramente digitales a veces pueden verse demasiado lisas o &quot;plásticas&quot;. Al añadir capas superiores con texturas (como grano de película, partículas de polvo, arañazos sutiles o superficies como papel y lienzo) y ajustar su opacidad, se rompe esa perfección artificial. Esto dota a la imagen final de volumen táctil, desgaste natural y un nivel de realismo mucho mayor.</p>
+<h2 id="_1bs06-adiciono-texturas-para-dar-realismo-a-mi-proyecto" tabindex="-1"><a class="header-anchor" href="#_1bs06-adiciono-texturas-para-dar-realismo-a-mi-proyecto"><span>1BS06: Adiciono texturas para dar realismo a mi proyecto</span></a></h2>
 <div class="hint-container important">
 <p class="hint-container-title">Importante</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 15 al 19 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=13MAmHpAiNU" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 13 al 17 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18A497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Replica el proyecto de clase<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://youtube.com/playlist?list=PLOuPFNSnWxurrTVHXXtyNvkZD9ZroHqDA" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1xQE1cxdSxjQYRbnzP0LhML1X9ZoCNs27?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
-<p>En Adobe Illustrator, las capas son una herramienta fundamental para organizar y gestionar los elementos de un diseño. Funcionan como “carpetas” que permiten separar y estructurar objetos, trazos, textos e imágenes, facilitando el control sobre cada parte del proyecto. Gracias a ellas, el diseñador puede bloquear, ocultar o reordenar elementos sin alterar el resto del trabajo, lo que brinda mayor precisión y eficiencia al momento de editar. El uso adecuado de capas no solo mejora la organización del archivo, sino que también agiliza la creación de ilustraciones complejas, ya que cada componente se mantiene independiente y fácil de manipular.</p>
-<div class="hint-container warning">
-<p class="hint-container-title"><strong>Tarea</strong></p>
-<p>Mira esta <a href="https://cdn.dribbble.com/userupload/12972340/file/original-e6a565d7aae730397e24edcd417d2e42.png?resize=752x752&amp;vertical=center" target="_blank" rel="noopener noreferrer">imagen</a> y replícala usando Illustrator. Imprime y adjunta el trabajo en tu folder.</p>
-</div>
-<h2 id="_3bs07-agrego-texturas-y-filtros-para-mejorar-mi-ilustracion" tabindex="-1"><a class="header-anchor" href="#_3bs07-agrego-texturas-y-filtros-para-mejorar-mi-ilustracion"><span>3BS07: Agrego texturas y filtros para mejorar mi ilustración</span></a></h2>
-<div class="hint-container important">
-<p class="hint-container-title">Importante</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 22 al 26 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/shorts/ffU2vgr0Xrc" target="_blank" rel="noopener noreferrer">Pincel</a> / <a href="https://www.youtube.com/shorts/CDasDKOTe3Q" target="_blank" rel="noopener noreferrer">Apariencia</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
-</div>
-<p>El uso de texturas y filtros en Adobe Illustrator permite enriquecer los diseños agregando profundidad, realismo y efectos visuales llamativos. A través de las texturas se pueden simular superficies como papel, tela, metal o madera, logrando que los objetos vectoriales transmitan sensaciones más cercanas a lo tangible. Por su parte, los filtros ofrecen una amplia gama de posibilidades para modificar la apariencia de formas y textos, desde desenfoques y sombras hasta distorsiones y efectos artísticos. Estos recursos, aplicados con criterio, ayudan a dar mayor expresividad y profesionalismo a las ilustraciones, convirtiendo composiciones planas en piezas gráficas con un acabado más atractivo y dinámico.</p>
-<div class="hint-container warning">
-<p class="hint-container-title"><strong>Tarea</strong></p>
-<p>Agrega las texturas a la <a href="https://cdn.dribbble.com/userupload/12972340/file/original-e6a565d7aae730397e24edcd417d2e42.png?resize=752x752&amp;vertical=center" target="_blank" rel="noopener noreferrer">imagen</a>de tu tarea pasada. Imprime y adjunta el trabajo en tu folder.</p>
-</div>
-<h2 id="_3bs08-genero-patrones-de-manera-simple" tabindex="-1"><a class="header-anchor" href="#_3bs08-genero-patrones-de-manera-simple"><span>3BS08: Genero patrones de manera simple</span></a></h2>
-<div class="hint-container important">
-<p class="hint-container-title">Importante</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 29 de Setiembre al 03 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=nsfeFNc1mag" target="_blank" rel="noopener noreferrer">Crear patrones</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
-</div>
-<p>En Adobe Illustrator, la creación de patrones es una herramienta fundamental para generar diseños repetitivos y versátiles que pueden aplicarse en fondos, ilustraciones, textiles, empaques y diversos proyectos gráficos. A través del panel de patrones, es posible diseñar una figura o motivo y transformarlo en una composición que se repite de manera automática y precisa, manteniendo siempre la calidad vectorial. Esta función permite experimentar con formas, colores y escalas, logrando resultados creativos y personalizados que enriquecen cualquier proyecto de diseño.</p>
-<h2 id="_3bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs09-practica-calificada-revision-de-folder"><span>3BS09: Practica Calificada - Revisión de Folder</span></a></h2>
-<div class="hint-container caution">
-<p class="hint-container-title">Advertencia</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Callao (Martes 07) Oquendo (Jueves 09)<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="devicon:illustrator" /> Adobe Illustrator</p>
-</div>
-<p>Busca <strong>pattern school</strong> en Google, escoge uno de los que aparece y crea una textura en Illustrator. Solo deberás agregar el logotipo del colegio en dicha textura. La textures puedes hacerla a mano alzada usando el pincel o el lápiz.</p>
-<p>Una vez termines, añade la textura a una hoja completa, coloca una frase de tu agrado e imprímela. Presenta dicha práctica en tu folder el día que se indica en la fecha límite.</p>
+<p>El paso de una ilustración puramente digital a una que se siente &quot;viva&quot; suele estar en un solo elemento: la textura.</p>
+<p>Cuando dibujamos en software, la computadora genera colores matemáticamente perfectos y degradados impecables. El problema es que el ojo humano no está acostumbrado a esa perfección; en el mundo real, todo tiene porosidad, grano, desgaste o relieve. Añadir texturas es el arte de &quot;ensuciar&quot; intencionalmente tu lienzo digital para darle calidez, personalidad y realismo.</p>
+<p>Aquí tienes los conceptos clave para dominar el uso de texturas en tus ilustraciones:</p>
+<p><strong>1. ¿Por qué usar texturas?</strong></p>
+<ul>
+<li><strong>Romper el efecto &quot;plástico&quot;</strong>: Evita que las ilustraciones parezcan hechas con recortes de papel de colores perfectos.</li>
+<li><strong>Aportar contexto o época</strong>: Un grano grueso (ruido) puede darle un aspecto de película retro o cómic antiguo, mientras que una textura de acuarela sugiere un trabajo artesanal.</li>
+<li><strong>Unificar la composición</strong>: Si tienes elementos de distintas fuentes en un collage, aplicar una textura sutil sobre toda la imagen actúa como un &quot;barniz&quot; que integra todo bajo una misma atmósfera.</li>
+</ul>
+<p><strong>2. La &quot;Trinidad&quot; de la Textura</strong></p>
+<p>Para que una textura no arruine tu ilustración, sino que la mejore, debes dominar tres variables en tu panel de capas:</p>
+<ul>
+<li><strong>El origen de la textura</strong>: Puedes usar fotografías reales (papel arrugado, madera, paredes de concreto) o texturas generadas proceduralmente (como el filtro de &quot;Ruido&quot;). Si la textura es en blanco y negro, suele ser mucho más fácil de integrar.</li>
+<li><strong>El Modo de Fusión (Blend Mode)</strong>: Es la regla matemática de cómo la textura interactúa con los colores de abajo.
+<ul>
+<li><strong>Multiplicar (Multiply)</strong>: Oculta los blancos de tu textura y solo deja los tonos oscuros. Ideal para texturas de suciedad, grafito o sombras.</li>
+<li><strong>Trama (Screen)</strong>: Hace lo contrario, oculta los negros y deja los blancos. Útil para polvo flotando, rayones de luz o destellos.</li>
+<li><strong>Superponer / Luz Suave (Overlay / Soft Light)</strong>: Aumenta el contraste. Los grises medios desaparecen, oscureciendo las sombras y aclarando las luces con el patrón de la textura.</li>
+</ul>
+</li>
+<li><strong>La Opacidad:</strong> El error de principiante más común es dejar la textura al 100%. Una buena textura debe sentirse, no necesariamente verse. Bajar la opacidad al 10%, 20% o 30% suele ser el punto dulce.</li>
+</ul>
+<p><strong>3. Técnicas de Aplicación</strong></p>
+<ul>
+<li><strong>Textura Global</strong>: Una capa de textura (por ejemplo, ruido o papel) en la parte más alta de tu panel de capas que afecta a toda la ilustración.</li>
+<li><strong>Máscaras de Recorte (Clipping Masks):</strong> Te permite aplicar una textura solo a un elemento específico. Por ejemplo, si dibujas una capa de un personaje y usas una textura de tela con máscara de recorte, la textura solo se verá dentro de la ropa del personaje, respetando sus bordes.</li>
+</ul>
 </div></template>
 
 

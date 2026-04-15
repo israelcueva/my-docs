@@ -1,5 +1,5 @@
 ---
-title: Unidad 8
+title: Unidad 2
 category:
   - Aula
 tag:
@@ -9,73 +9,54 @@ tag:
   - Javascript
 author: Pepito
 icon: fluent-color:notebook-32
-order: 2
+order: 1
 ---
 
 ::ph:ghost:: Wick Editor es una herramienta gratuita y en línea que permite crear animaciones interactivas y videojuegos 2D de manera sencilla. Su entorno combina lo mejor de la animación tradicional con la programación básica, lo que lo convierte en una excelente opción para aficionados.
 
-## 4BS05: Edito mi animación de nieve
+## 1BS06: Creo mi primera animación procedural
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 17 al 21 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/) / [Candlestickers](https://candlestickers.app/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/@lucacodes)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 13 al 17 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/@lucacodes)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1zjAx1k7z2jL6VLARqNE_13w0q-kqJNDa?usp=sharing)
 
-En Wick Editor, la creación de clones permite duplicar objetos o personajes para generar efectos dinámicos, animaciones repetitivas o interacciones más complejas sin necesidad de dibujar cada elemento manualmente. A través de código sencillo, es posible producir múltiples copias que se comporten de manera similar al objeto original o que ejecuten acciones personalizadas, lo que facilita la construcción de escenas ricas en movimiento. Esta herramienta resulta especialmente útil para crear enjambres, partículas, multitudes o patrones visuales, optimizando el tiempo de trabajo y ampliando las posibilidades creativas dentro de las animaciones.
+Dar el salto de la animación tradicional basada en la línea de tiempo hacia la animación controlada por código es un momento clave. Es el instante en el que una animación deja de ser una simple "película" que solo se puede mirar, y se convierte en un proyecto interactivo que responde al usuario.
 
-## 4BS06: Diseño un cielo con estrellas animado
+Wick Editor es una plataforma fantástica para esta transición porque utiliza JavaScript, un lenguaje de programación real y uno de los más demandados del mundo, pero lo implementa de una manera visual y amigable.
 
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 24 al 28 de Noviembre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/) / [Candlestickers](https://candlestickers.app/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://youtu.be/PWXLSS6uErY)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
+Aquí tienes los conceptos fundamentales para introducir la lógica de programación en Wick Editor:
 
-Mediante la combinación de dibujos básicos, movimientos automáticos y técnicas como la duplicación o el uso de clones, es posible generar un fondo dinámico donde las estrellas parpadean o se desplazan suavemente, simulando un cielo nocturno vivo. Este tipo de animación ayuda a comprender los principios de repetición, aleatoriedad y capas, mientras se desarrolla la creatividad y el control del tiempo dentro de la línea de animación.
+**1. La regla de oro: Todo debe ser un "Clip"**
+
+Para que el código pueda interactuar con un dibujo, texto o forma, este no puede ser un simple trazo en el lienzo; debe convertirse en un Clip (el equivalente a un "Símbolo" o "Sprite"). Al convertir un dibujo en un Clip, le estás dando un "cuerpo" que el código puede reconocer, nombrar y manipular.
+
+**2. El concepto de "`this`" (Este objeto)**
+
+Cuando escribimos código dentro de un Clip en Wick Editor, la computadora necesita saber a quién le estamos dando las órdenes. La palabra clave this (que significa "esto" o "este") se usa para decirle al Clip: "Cámbiate a ti mismo".
+
+A través de this, controlamos las Propiedades del objeto:
+
+- `this.x` y `this.y`: Controlan la posición horizontal y vertical.
+- `this.rotation`: Gira el objeto (medido en grados).
+- `this.scale`: Modifica su tamaño.
+- `this.opacity`: Lo hace transparente o sólido (de 0 a 1).
+
+**3. Los Eventos: ¿Cuándo ocurre la magia?**
+
+El código no se ejecuta al azar; espera a que ocurra un "Evento" para activarse. En Wick Editor, el código se organiza en pestañas según el evento que lo dispara:
+
+- **Default (Por defecto)**: El código se lee una sola vez cuando el Clip aparece en pantalla. Es útil para configurar el tamaño o la posición inicial.
+- **Update (Actualizar)**: ¡El evento más poderoso para animar! Este código se ejecuta continuamente, una vez por cada fotograma (por ejemplo, 12 veces por segundo). Si escribes this.rotation += 5; aquí, el objeto girará sin detenerse jamás, sin necesidad de crear fotogramas clave.
+- **Eventos de Ratón (mouseclick, mouseenter, etc.)**: Se ejecutan cuando el usuario interactúa. Son la base para crear botones, minijuegos o menús interactivos.
+
+**4. La Lógica de Variables y Condicionales**
+
+Una vez que se dominan las propiedades y los eventos, el siguiente paso es darle "cerebro" a la animación usando lógica pura:
+
+- **Variables**: Cajas donde guardamos información (ej. puntuacion = 0; o velocidad = 5;).
+- **Condicionales (if / else)**: Permiten que el objeto tome decisiones. "Si la posición X es mayor a 500, entonces rebota y cambia de dirección".
 
 
 ::: warning **Tarea**
-Replica el proyecto de clase , exportalo a GIF y presentalo a través de este [enlace](https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgC-NViI62i_QKqSO_tr2XOFAaGCJ6Q62p8fn-bkTNCFU3w)
+Entra en https://www.wickeditor.com/#/learn/reference , luego, con tus compañeros crea un archivo PDF de esta referencia en español.
 :::
-
-## 4BS07: Simulo físicas de ondas
-
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 01 al 05 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/) / [Candlestickers](https://candlestickers.app/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://youtu.be/PWXLSS6uErY)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
-
-En JavaScript, las funciones matemáticas seno (sin) y coseno (cos) permiten generar movimientos suaves y ondulados ideales para animaciones dinámicas. Al usar estas funciones, es posible simular patrones naturales como olas, vibraciones, latidos o desplazamientos sinusoidales. Estas ondas se producen al variar un valor en el tiempo y aplicarlo a la posición de un objeto, dando como resultado un movimiento repetitivo y fluido.
-
-### Código de clase
-
-```javascript title="default"
-tiempo = 0;
-velocidad = 0.1;
-amplitud = 100;
-frecuencia = 0.05;
-centroX = project.width / 2;
-centroY = project.height / 2;
-```
-
-```javascript title="update"
-tiempo += velocidad;
-var offsetX = Math.cos(tiempo) * amplitud;
-var offsetY = Math.sin(tiempo * 2) * (amplitud * 0.5);
-this.x = centroX + offsetX;
-this.y = centroY + offsetY; 
-```
-
-## 4BS08: Recreo mi primera animación
-
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 08 al 12 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/) / [Candlestickers](https://candlestickers.app/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://youtu.be/PWXLSS6uErY)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1JwTqjosoVEP21Pe63xg7g-G1pPczXET8?usp=sharing)
-
-El uso de tweens en Wick Editor permite crear animaciones fluidas y precisas controlando cómo cambian en el tiempo las propiedades de un objeto, como su posición, tamaño, rotación u opacidad. Con un tween puedes definir un punto inicial y otro final, y dejar que Wick calcule automáticamente el movimiento intermedio, logrando transiciones suaves sin necesidad de animar fotograma por fotograma. Esta herramienta es ideal para animar personajes, simular efectos visuales y dar dinamismo a cualquier escena, haciendo que tu trabajo sea más eficiente y profesional.
-
-## 4BS09: Práctica Calificada
-
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha límite:** 14 de Diciembre<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/) / [Candlestickers](https://candlestickers.app/)
-
-Crea una postal navideña en wick editor. Diha postal debe reunir las características siguientes:
-
-- Se debe presentar en formato HTML.
-- Debe tener música.
-- Debes añadirle el logo del colegio.
-
-Puedes inspirarte revisando estos ejemplos: https://codecanyon.net/search/christmas%20card
 

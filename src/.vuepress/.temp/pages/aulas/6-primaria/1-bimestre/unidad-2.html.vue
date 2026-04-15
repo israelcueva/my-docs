@@ -1,30 +1,39 @@
-<template><div><p>Excalidraw es una herramienta en línea que permite crear diagramas, bocetos y esquemas de manera sencilla y colaborativa. Su principal atractivo es que combina la simplicidad de un lienzo digital con un estilo de dibujo a mano alzada, lo que la hace ideal para plasmar ideas rápidamente en reuniones, clases o proyectos creativos. Con Excalidraw puedes trabajar individualmente o en tiempo real con otras personas, utilizando formas, flechas, textos e imágenes para organizar conceptos de forma clara y visual. Además, al ser una aplicación gratuita y de código abierto, resulta accesible para estudiantes, docentes, diseñadores y cualquier persona que desee comunicar sus ideas de manera gráfica e intuitiva.</p>
-<h2 id="_3bs06-diseno-un-cartel-informativo-en-excalidraw" tabindex="-1"><a class="header-anchor" href="#_3bs06-diseno-un-cartel-informativo-en-excalidraw"><span>3BS06: Diseño un cartel informativo en Excalidraw</span></a></h2>
+<template><div><p><VPIcon icon="vscode-icons:file-type-excel" /> Microsoft Excel es una de las herramientas de hoja de cálculo más potentes y utilizadas en el mundo, diseñada para organizar, analizar y visualizar datos de manera eficiente. A través de su clásica interfaz de cuadrícula basada en filas y columnas, permite desde llevar un simple registro de gastos personales hasta modelar complejas proyecciones financieras corporativas. Gracias a su amplio catálogo de fórmulas matemáticas, la capacidad de generar gráficos detallados, el uso de tablas dinámicas y la posibilidad de automatizar tareas repetitivas, Excel se ha convertido en un recurso indispensable para estudiantes, emprendedores y profesionales de cualquier industria que necesitan transformar grandes volúmenes de información en decisiones estratégicas.</p>
+<h2 id="_1bs06-escribo-y-leo-numeros-naturales" tabindex="-1"><a class="header-anchor" href="#_1bs06-escribo-y-leo-numeros-naturales"><span>1BS06: Escribo y leo números naturales</span></a></h2>
 <div class="hint-container important">
 <p class="hint-container-title">Importante</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 15 al 19 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="material-icon-theme:excalidraw" /> <a href="https://excalidraw.com/" target="_blank" rel="noopener noreferrer">Excalidraw</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completar ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="#">Tutorial</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 13 al 17 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong>   <VPIcon icon="vscode-icons:file-type-excel" /> Excel<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completa la ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> No aplica<br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1Cxa39NHMOhjPZjPGVxRwamKbuCXn9uo3?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
-<p>El uso de Excalidraw para diseñar un cartel resulta práctico y accesible, especialmente en contextos educativos o creativos donde se busca transmitir información de forma clara y atractiva. La aplicación permite combinar textos, formas, flechas, íconos e incluso imágenes importadas para estructurar el contenido del cartel de manera organizada. Gracias a su estilo visual de trazo a mano, el diseño adquiere un aspecto dinámico y cercano, ideal para captar la atención. Además, es posible trabajar de manera colaborativa, lo que facilita que un grupo de estudiantes o diseñadores aporten ideas y modifiquen el cartel en tiempo real. Finalmente, el resultado se puede exportar en formatos de imagen o SVG, listos para imprimir o compartir en medios digitales.</p>
-<h2 id="_3bs07-creo-un-diagrama-sobre-el-sistema-solar" tabindex="-1"><a class="header-anchor" href="#_3bs07-creo-un-diagrama-sobre-el-sistema-solar"><span>3BS07: Creo un diagrama sobre el sistema solar</span></a></h2>
-<div class="hint-container important">
-<p class="hint-container-title">Importante</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 22 al 26 de Setiembre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="material-icon-theme:excalidraw" /> <a href="https://excalidraw.com/" target="_blank" rel="noopener noreferrer">Excalidraw</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completar ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="#">Tutorial</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
-</div>
-<p>Excalidraw es una herramienta digital sencilla e intuitiva que permite crear diagramas de manera rápida y colaborativa. Su interfaz está diseñada para simular un estilo de dibujo a mano alzada, lo que facilita la representación de ideas, esquemas, mapas conceptuales o diagramas de flujo de forma clara y comprensible. Además, al ser una aplicación en línea, permite trabajar en equipo en tiempo real, compartir proyectos y organizar visualmente la información sin necesidad de software complejo. Esto convierte a Excalidraw en una excelente opción para estudiantes, docentes y profesionales que buscan expresar conceptos de manera gráfica y dinámica.</p>
-<h2 id="_3bs08-creo-una-tabla-periodica-de-mi-colegio" tabindex="-1"><a class="header-anchor" href="#_3bs08-creo-una-tabla-periodica-de-mi-colegio"><span>3BS08: Creo una tabla periódica de mi colegio</span></a></h2>
-<div class="hint-container important">
-<p class="hint-container-title">Importante</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 29 de Setiembre al 03 de Octubre<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="material-icon-theme:excalidraw" /> <a href="https://excalidraw.com/" target="_blank" rel="noopener noreferrer">Excalidraw</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Realizar práctica calificada S09<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="#">Tutorial</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/10cxwbVxQBSv9XlYYGcz1sEEj8yMJEa-o?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
-</div>
-<p>Con sus opciones de formas, colores y textos, en Excalidraw podemos representar cada elemento químico de forma clara, organizar los grupos y periodos, y resaltar propiedades específicas según el tema de estudio. Además, al ser un espacio editable en línea, se pueden añadir notas, íconos o conexiones que faciliten la comprensión de la estructura y la relación entre los elementos. De esta forma, Excalidraw se convierte en un recurso didáctico innovador para explorar y aprender la tabla periódica de manera creativa y colaborativa.</p>
-<h2 id="_3bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs09-practica-calificada-revision-de-folder"><span>3BS09: Practica Calificada - Revisión de Folder</span></a></h2>
-<div class="hint-container caution">
-<p class="hint-container-title">Advertencia</p>
-<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha Límite:</strong> Callao (Martes 07) Oquendo (Jueves 09) <br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="material-icon-theme:excalidraw" /> <a href="https://excalidraw.com/" target="_blank" rel="noopener noreferrer">Excalidraw</a></p>
-</div>
-<p>En Excalidraw realiza este <a href="https://i.pinimg.com/736x/d0/bb/14/d0bb14bf678d1c03cd1e1f0199ccab5a.jpg" target="_blank" rel="noopener noreferrer">cartel</a> basándote en el programa de Aniversario de nuestra institución educativa María Reina de Corazones. Expórtalo en formato PNG, imprime tu proyecto y preséntalo en la semana el día indicado la fecha límite.</p>
-<h3 id="presentacion-de-folder" tabindex="-1"><a class="header-anchor" href="#presentacion-de-folder"><span>Presentación de folder</span></a></h3>
-<p>Graba en video tu folder como en este <a href="https://www.youtube.com/shorts/LVkLdyKfSKE" target="_blank" rel="noopener noreferrer">ejemplo</a>. Dicho video lo puedes presentar a través este <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/Enspv5cDODRDvXzOoU5OwawB3uM-zFjrLONmMyOorkTm8w" target="_blank" rel="noopener noreferrer">enlace</a>. <strong>Recuerda que el texto se debe poder leer</strong></p>
+<p>El formato de celdas es lo que transforma una hoja de cálculo confusa y llena de números en un reporte claro, profesional y fácil de interpretar. No se trata solo de que se vea bonito, sino de guiar la vista hacia la información más importante.</p>
+<p>En Excel, casi todas estas herramientas se encuentran agrupadas en la pestaña Inicio de la cinta de opciones superior. Aquí tienes los cuatro pilares del formato básico:</p>
+<p><strong>1. Formato de Número (El verdadero poder de Excel)</strong></p>
+<p>A diferencia de Word, en Excel los números pueden &quot;disfrazarse&quot; sin perder su valor matemático.</p>
+<ul>
+<li><strong>Moneda/Contabilidad</strong>: Añade automáticamente el símbolo de tu moneda ($, €, S/.) y dos decimales. Ejemplo: 1500 se convierte en $1,500.00.</li>
+<li><strong>Porcentaje</strong>: Multiplica el valor por 100 y le añade el símbolo %. Ejemplo: 0.15 se ve como 15%.</li>
+<li><strong>Fechas</strong>: Puedes hacer que &quot;12-04&quot; se vea como &quot;12 de abril de 2026&quot; o simplemente &quot;12/04/2026&quot;.</li>
+<li><strong>Aumentar/Disminuir decimales</strong>: Limpia visualmente los datos si no necesitas tanta precisión.</li>
+</ul>
+<p><strong>2. Formato de Fuente (Texto)</strong></p>
+<p>Es idéntico a lo que usarías en cualquier procesador de texto:</p>
+<ul>
+<li><strong>Negrita, Cursiva y Subrayado</strong>: Ideales para destacar los encabezados de tus tablas o los totales.</li>
+<li><strong>Color de fuente</strong>: Útil para indicar estados (ej. rojo para números negativos, verde para ganancias).</li>
+<li><strong>Tipo y tamaño de letra</strong>: Para jerarquizar la información (títulos más grandes que los datos).</li>
+</ul>
+<p><strong>3. Alineación y Ajuste</strong></p>
+<p>Define cómo se acomoda el contenido dentro del &quot;cajón&quot; de la celda.</p>
+<ul>
+<li><strong>Alineación (Horizontal y Vertical)</strong>: Puedes centrar el texto, pegarlo a la izquierda (ideal para palabras) o a la derecha (ideal para números).<br>
+Ajustar texto: Si escribes una frase larga y no cabe en el ancho de la celda, esta opción hace que el texto baje a una segunda línea dentro de la misma celda, haciendo la fila más alta.</li>
+<li><strong>Combinar y centrar</strong>: Une varias celdas en una sola más grande. Es el recurso clásico para crear títulos generales que abarquen toda tu tabla.</li>
+</ul>
+<p><strong>4. Bordes y Relleno (Color de fondo)</strong></p>
+<p>Por defecto, las líneas grises que ves en Excel son solo guías visuales; no se imprimen.</p>
+<ul>
+<li><strong>Bordes:</strong> Te permite dibujar líneas sólidas alrededor de tus celdas. Puedes poner un borde grueso alrededor de toda la tabla y líneas delgadas en el interior para separar las filas.</li>
+<li><strong>Color de relleno:</strong> Pinta el fondo de la celda. Usar un gris claro o un color suave para los encabezados ayuda a separarlos visualmente de los datos.</li>
+</ul>
 </div></template>
 
 

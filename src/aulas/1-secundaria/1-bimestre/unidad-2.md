@@ -1,51 +1,47 @@
 ---
-title: Unidad 6
+title: Unidad 2
 category:
   - Unidad
 tag:
-  - Unidad-6
+  - Unidad-2
   - 1-Secundaria
-  - Illustrator
+  - Photopea
 icon: fluent-color:notebook-32
-order: 6
+order: 5
 ---
 
-¡Bienvenido! Esta unidad  continuaremos trabajando con Adoble Illustrator, usando sus funciones un poco más avanzadas, asi mismo, aplicaremos técnicas y trucos que te ayudarán a lograr resultados increibles.
+Seguiremos avanzando con la aplicación de Photopea. El proyecto comienza reuniendo distintos elementos visuales en un mismo lienzo. Esto implica importar varias fotografías, recortar sujetos y organizar estos recursos en diferentes capas para estructurar una escena nueva, un collage o un fotomontaje cohesivo.
+Una vez que las imágenes están distribuidas, es necesario que interactúen visualmente entre sí. Mediante el uso de máscaras, modos de fusión (como Multiplicar, Trama o Superponer) y filtros (como desenfoques o ajustes de color), se unifican las luces y las sombras para que los elementos no parezcan recortes aislados, sino partes naturales de un mismo entorno.Las composiciones puramente digitales a veces pueden verse demasiado lisas o "plásticas". Al añadir capas superiores con texturas (como grano de película, partículas de polvo, arañazos sutiles o superficies como papel y lienzo) y ajustar su opacidad, se rompe esa perfección artificial. Esto dota a la imagen final de volumen táctil, desgaste natural y un nivel de realismo mucho mayor.
 
-## 3BS06: Uso de capas para mejorar mis ilustraciones
-
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 15 al 19 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=13MAmHpAiNU)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
-
-En Adobe Illustrator, las capas son una herramienta fundamental para organizar y gestionar los elementos de un diseño. Funcionan como “carpetas” que permiten separar y estructurar objetos, trazos, textos e imágenes, facilitando el control sobre cada parte del proyecto. Gracias a ellas, el diseñador puede bloquear, ocultar o reordenar elementos sin alterar el resto del trabajo, lo que brinda mayor precisión y eficiencia al momento de editar. El uso adecuado de capas no solo mejora la organización del archivo, sino que también agiliza la creación de ilustraciones complejas, ya que cada componente se mantiene independiente y fácil de manipular.
-
-::: warning **Tarea**
-Mira esta [imagen](https://cdn.dribbble.com/userupload/12972340/file/original-e6a565d7aae730397e24edcd417d2e42.png?resize=752x752&vertical=center) y replícala usando Illustrator. Imprime y adjunta el trabajo en tu folder.
-:::
-
-## 3BS07: Agrego texturas y filtros para mejorar mi ilustración
+## 1BS06: Adiciono texturas para dar realismo a mi proyecto
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 22 al 26 de Setiembre<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Pincel](https://www.youtube.com/shorts/ffU2vgr0Xrc) / [Apariencia](https://www.youtube.com/shorts/CDasDKOTe3Q)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+> ::fluent-color:calendar-48:: **Fecha:** 13 al 17 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea color=#18A497:: [Photopea](https://www.photopea.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Replica el proyecto de clase<br>::fluent-color:video-48:: **Videos:** [Video](https://youtube.com/playlist?list=PLOuPFNSnWxurrTVHXXtyNvkZD9ZroHqDA)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1xQE1cxdSxjQYRbnzP0LhML1X9ZoCNs27?usp=sharing)
 
-El uso de texturas y filtros en Adobe Illustrator permite enriquecer los diseños agregando profundidad, realismo y efectos visuales llamativos. A través de las texturas se pueden simular superficies como papel, tela, metal o madera, logrando que los objetos vectoriales transmitan sensaciones más cercanas a lo tangible. Por su parte, los filtros ofrecen una amplia gama de posibilidades para modificar la apariencia de formas y textos, desde desenfoques y sombras hasta distorsiones y efectos artísticos. Estos recursos, aplicados con criterio, ayudan a dar mayor expresividad y profesionalismo a las ilustraciones, convirtiendo composiciones planas en piezas gráficas con un acabado más atractivo y dinámico.
+El paso de una ilustración puramente digital a una que se siente "viva" suele estar en un solo elemento: la textura.
 
-::: warning **Tarea**
-Agrega las texturas a la [imagen](https://cdn.dribbble.com/userupload/12972340/file/original-e6a565d7aae730397e24edcd417d2e42.png?resize=752x752&vertical=center)de tu tarea pasada. Imprime y adjunta el trabajo en tu folder.
-:::
+Cuando dibujamos en software, la computadora genera colores matemáticamente perfectos y degradados impecables. El problema es que el ojo humano no está acostumbrado a esa perfección; en el mundo real, todo tiene porosidad, grano, desgaste o relieve. Añadir texturas es el arte de "ensuciar" intencionalmente tu lienzo digital para darle calidez, personalidad y realismo.
 
-## 3BS08: Genero patrones de manera simple
+Aquí tienes los conceptos clave para dominar el uso de texturas en tus ilustraciones:
 
-> [!important]
-> ::fluent-color:calendar-48:: **Fecha:** 29 de Setiembre al 03 de Octubre<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Crear patrones](https://www.youtube.com/watch?v=nsfeFNc1mag)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1ywEkiDbaslISnnfEnSUkhao_UwtqnLgy?usp=sharing)
+**1. ¿Por qué usar texturas?**
 
-En Adobe Illustrator, la creación de patrones es una herramienta fundamental para generar diseños repetitivos y versátiles que pueden aplicarse en fondos, ilustraciones, textiles, empaques y diversos proyectos gráficos. A través del panel de patrones, es posible diseñar una figura o motivo y transformarlo en una composición que se repite de manera automática y precisa, manteniendo siempre la calidad vectorial. Esta función permite experimentar con formas, colores y escalas, logrando resultados creativos y personalizados que enriquecen cualquier proyecto de diseño.
+- **Romper el efecto "plástico"**: Evita que las ilustraciones parezcan hechas con recortes de papel de colores perfectos.
+- **Aportar contexto o época**: Un grano grueso (ruido) puede darle un aspecto de película retro o cómic antiguo, mientras que una textura de acuarela sugiere un trabajo artesanal.
+- **Unificar la composición**: Si tienes elementos de distintas fuentes en un collage, aplicar una textura sutil sobre toda la imagen actúa como un "barniz" que integra todo bajo una misma atmósfera.
 
-## 3BS09: Practica Calificada - Revisión de Folder
+**2. La "Trinidad" de la Textura**
 
-> [!caution]
-> ::fluent-color:calendar-48:: **Fecha Límite:** Callao (Martes 07) Oquendo (Jueves 09)<br>::fluent-color:laptop-48:: **Programa:** ::devicon:illustrator:: Adobe Illustrator
+Para que una textura no arruine tu ilustración, sino que la mejore, debes dominar tres variables en tu panel de capas:
 
-Busca **pattern school** en Google, escoge uno de los que aparece y crea una textura en Illustrator. Solo deberás agregar el logotipo del colegio en dicha textura. La textures puedes hacerla a mano alzada usando el pincel o el lápiz.
+- **El origen de la textura**: Puedes usar fotografías reales (papel arrugado, madera, paredes de concreto) o texturas generadas proceduralmente (como el filtro de "Ruido"). Si la textura es en blanco y negro, suele ser mucho más fácil de integrar.
+- **El Modo de Fusión (Blend Mode)**: Es la regla matemática de cómo la textura interactúa con los colores de abajo.
+  - **Multiplicar (Multiply)**: Oculta los blancos de tu textura y solo deja los tonos oscuros. Ideal para texturas de suciedad, grafito o sombras.
+  - **Trama (Screen)**: Hace lo contrario, oculta los negros y deja los blancos. Útil para polvo flotando, rayones de luz o destellos.
+  - **Superponer / Luz Suave (Overlay / Soft Light)**: Aumenta el contraste. Los grises medios desaparecen, oscureciendo las sombras y aclarando las luces con el patrón de la textura.
+- **La Opacidad:** El error de principiante más común es dejar la textura al 100%. Una buena textura debe sentirse, no necesariamente verse. Bajar la opacidad al 10%, 20% o 30% suele ser el punto dulce.
 
-Una vez termines, añade la textura a una hoja completa, coloca una frase de tu agrado e imprímela. Presenta dicha práctica en tu folder el día que se indica en la fecha límite.
+**3. Técnicas de Aplicación**
+
+- **Textura Global**: Una capa de textura (por ejemplo, ruido o papel) en la parte más alta de tu panel de capas que afecta a toda la ilustración.
+- **Máscaras de Recorte (Clipping Masks):** Te permite aplicar una textura solo a un elemento específico. Por ejemplo, si dibujas una capa de un personaje y usas una textura de tela con máscara de recorte, la textura solo se verá dentro de la ropa del personaje, respetando sus bordes.

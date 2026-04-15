@@ -10,6 +10,7 @@
 <h3 id="bimestre-i" tabindex="-1"><a class="header-anchor" href="#bimestre-i"><span>Bimestre I</span></a></h3>
 <ul>
 <li><VPIcon icon="fluent-color:notebook-32" /> <a href="./1-bimestre/unidad-1">Unidad 1</a></li>
+<li><VPIcon icon="fluent-color:notebook-32" /> <a href="./1-bimestre/unidad-2">Unidad 2</a></li>
 </ul>
 </div></template>
 

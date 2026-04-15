@@ -28,12 +28,12 @@
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 30 de Marzo al 03 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18A497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://youtube.com/playlist?list=PLOuPFNSnWxurrTVHXXtyNvkZD9ZroHqDA" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1xQE1cxdSxjQYRbnzP0LhML1X9ZoCNs27?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
 </div>
 <p>El uso de las opciones de fusión en Photopea permite combinar capas de diferentes maneras para lograr efectos visuales atractivos y profesionales. Estas opciones, también conocidas como modos de fusión, controlan cómo interactúan los colores y la iluminación entre una capa y otra, permitiendo crear sombras, brillos, transparencias y mezclas de color. Herramientas como “Multiplicar”, “Superponer” o “Trama” son esenciales para mejorar imágenes, diseñar composiciones creativas y dar mayor profundidad a los proyectos gráficos. Dominar estas funciones es clave para aprovechar al máximo el potencial de edición que ofrece Photopea.</p>
-<h2 id="_3bs05-comprendo-el-uso-de-las-opciones-de-fusion" tabindex="-1"><a class="header-anchor" href="#_3bs05-comprendo-el-uso-de-las-opciones-de-fusion"><span>3BS05: Comprendo el uso de las opciones de fusión</span></a></h2>
+<h2 id="_3bs05-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_3bs05-practica-calificada-revision-de-folder"><span>3BS05: Práctica Calificada &amp; Revisión de Folder</span></a></h2>
 <div class="hint-container important">
 <p class="hint-container-title">Importante</p>
 <p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> Clase de la semana 6<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18A497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a></p>
 </div>
-<p>Al igual que se trabajo a Pikachu, haz lo mismo con Clefairy, el pokemon hada. Imprime el trabajo final, asi como las capas que usaste.</p>
+<p>Al igual que se trabajo a Pikachu, haz lo mismo con Clefairy, el pokemon hada. Imprime el trabajo final, asi como las capas que usaste. Es decir, presentarás dos hojas para esta práctica.</p>
 </div></template>
 
 
