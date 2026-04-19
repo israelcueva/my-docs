@@ -55,8 +55,27 @@ Una vez que se dominan las propiedades y los eventos, el siguiente paso es darle
 - **Variables**: Cajas donde guardamos información (ej. puntuacion = 0; o velocidad = 5;).
 - **Condicionales (if / else)**: Permiten que el objeto tome decisiones. "Si la posición X es mayor a 500, entonces rebota y cambia de dirección".
 
-
 ::: warning **Tarea**
 Entra en https://www.wickeditor.com/#/learn/reference , luego, con tus compañeros crea un archivo PDF de esta referencia en español.
+:::
+
+## 1BS07: Me ayudo de los objetos disponibles para animar
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Ver al final<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/@lucacodes)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1zjAx1k7z2jL6VLARqNE_13w0q-kqJNDa?usp=sharing)
+
+En el ecosistema de Wick Editor, los objetos representan las piezas fundamentales de cualquier proyecto, ya sea una animación tradicional o un juego interactivo. Cada elemento que dibujamos o importamos al lienzo se convierte en una entidad con propiedades únicas —como posición, escala y rotación— que podemos manipular a lo largo de la línea de tiempo. Comprender cómo gestionar estos objetos es el primer paso esencial para transformar dibujos estáticos en experiencias dinámicas, permitiéndonos organizar visualmente nuestra escena y prepararla para la interactividad mediante programación.
+
+Conceptos clave a tener en cuenta:
+
+- **El Lienzo (Canvas)**: Es el espacio donde viven y se mueven todos tus objetos.
+- **Capas (Layers)**: La forma en que organizas qué objetos aparecen al frente o detrás de otros.
+- **Interactividad**: La capacidad de convertir un objeto simple en un botón o un clip de película para añadirle código.
+
+¿Estás diseñando una actividad para que los estudiantes aprendan a animar objetos básicos o vas a pasar directamente a la creación de botones interactivos?
+
+::: warning **Tarea**
+Opción 1: Crea un diagrama a mano de los objetos disponibles en Wick editor.
+Opción 2: Recrea y completa el proyecto de clase. Exportar a objeto interactivo (HTML) y enviar a través de este enlace: https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgDl_-trxmhIQ5as3gyDH4jWAfp2PPLaJ043ppNI-vcH7y4
 :::
 

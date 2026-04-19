@@ -45,3 +45,18 @@ Para que una textura no arruine tu ilustración, sino que la mejore, debes domin
 
 - **Textura Global**: Una capa de textura (por ejemplo, ruido o papel) en la parte más alta de tu panel de capas que afecta a toda la ilustración.
 - **Máscaras de Recorte (Clipping Masks):** Te permite aplicar una textura solo a un elemento específico. Por ejemplo, si dibujas una capa de un personaje y usas una textura de tela con máscara de recorte, la textura solo se verá dentro de la ropa del personaje, respetando sus bordes.
+
+## 1BS07: Uso imágenes para realizar una composición
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea color=#18A497:: [Photopea](https://www.photopea.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Replica el proyecto de clase<br>::fluent-color:video-48:: **Videos:** [Video](https://youtube.com/playlist?list=PLOuPFNSnWxurrTVHXXtyNvkZD9ZroHqDA)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1xQE1cxdSxjQYRbnzP0LhML1X9ZoCNs27?usp=sharing)
+
+La composición de imágenes es, en esencia, el lenguaje invisible que dicta cómo percibimos una historia visual. No se trata simplemente de qué elementos aparecen dentro del encuadre, sino de la intención detrás de su distribución, equilibrio y jerarquía. Al dominar herramientas como la regla de los tercios, el manejo del espacio negativo o las líneas de tensión, transformamos un simple registro de la realidad en una narrativa coherente que guía el ojo del espectador de manera fluida. Es el "anfitrión invisible" que decide qué es lo más importante en la escena, convirtiendo una captura técnica en una experiencia visual con peso, ritmo y propósito.
+
+Para poder encontra los recursos usados en clase, usa lo siguiente:
+
+- Cupped hands 
+- Earth png
+- Ligth png or flare png
+
+

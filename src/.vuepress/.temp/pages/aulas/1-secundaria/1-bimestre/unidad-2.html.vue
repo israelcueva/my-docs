@@ -32,6 +32,18 @@ Una vez que las imágenes están distribuidas, es necesario que interactúen vis
 <li><strong>Textura Global</strong>: Una capa de textura (por ejemplo, ruido o papel) en la parte más alta de tu panel de capas que afecta a toda la ilustración.</li>
 <li><strong>Máscaras de Recorte (Clipping Masks):</strong> Te permite aplicar una textura solo a un elemento específico. Por ejemplo, si dibujas una capa de un personaje y usas una textura de tela con máscara de recorte, la textura solo se verá dentro de la ropa del personaje, respetando sus bordes.</li>
 </ul>
+<h2 id="_1bs07-uso-imagenes-para-realizar-una-composicion" tabindex="-1"><a class="header-anchor" href="#_1bs07-uso-imagenes-para-realizar-una-composicion"><span>1BS07: Uso imágenes para realizar una composición</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 20 al 24 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18A497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Replica el proyecto de clase<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://youtube.com/playlist?list=PLOuPFNSnWxurrTVHXXtyNvkZD9ZroHqDA" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1xQE1cxdSxjQYRbnzP0LhML1X9ZoCNs27?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>La composición de imágenes es, en esencia, el lenguaje invisible que dicta cómo percibimos una historia visual. No se trata simplemente de qué elementos aparecen dentro del encuadre, sino de la intención detrás de su distribución, equilibrio y jerarquía. Al dominar herramientas como la regla de los tercios, el manejo del espacio negativo o las líneas de tensión, transformamos un simple registro de la realidad en una narrativa coherente que guía el ojo del espectador de manera fluida. Es el &quot;anfitrión invisible&quot; que decide qué es lo más importante en la escena, convirtiendo una captura técnica en una experiencia visual con peso, ritmo y propósito.</p>
+<p>Para poder encontra los recursos usados en clase, usa lo siguiente:</p>
+<ul>
+<li>Cupped hands</li>
+<li>Earth png</li>
+<li>Ligth png or flare png</li>
+</ul>
 </div></template>
 
 

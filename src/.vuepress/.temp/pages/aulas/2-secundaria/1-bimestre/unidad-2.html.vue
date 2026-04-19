@@ -35,6 +35,24 @@
 <p class="hint-container-title"><strong>Tarea</strong></p>
 <p>Entra en <a href="https://www.wickeditor.com/#/learn/reference" target="_blank" rel="noopener noreferrer">https://www.wickeditor.com/#/learn/reference</a> , luego, con tus compañeros crea un archivo PDF de esta referencia en español.</p>
 </div>
+<h2 id="_1bs07-me-ayudo-de-los-objetos-disponibles-para-animar" tabindex="-1"><a class="header-anchor" href="#_1bs07-me-ayudo-de-los-objetos-disponibles-para-animar"><span>1BS07: Me ayudo de los objetos disponibles para animar</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 20 al 24 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="ph:ghost" /> <a href="https://www.wickeditor.com/#/" target="_blank" rel="noopener noreferrer">Wick Editor</a><br> <VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Ver al final<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/@lucacodes" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1zjAx1k7z2jL6VLARqNE_13w0q-kqJNDa?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>En el ecosistema de Wick Editor, los objetos representan las piezas fundamentales de cualquier proyecto, ya sea una animación tradicional o un juego interactivo. Cada elemento que dibujamos o importamos al lienzo se convierte en una entidad con propiedades únicas —como posición, escala y rotación— que podemos manipular a lo largo de la línea de tiempo. Comprender cómo gestionar estos objetos es el primer paso esencial para transformar dibujos estáticos en experiencias dinámicas, permitiéndonos organizar visualmente nuestra escena y prepararla para la interactividad mediante programación.</p>
+<p>Conceptos clave a tener en cuenta:</p>
+<ul>
+<li><strong>El Lienzo (Canvas)</strong>: Es el espacio donde viven y se mueven todos tus objetos.</li>
+<li><strong>Capas (Layers)</strong>: La forma en que organizas qué objetos aparecen al frente o detrás de otros.</li>
+<li><strong>Interactividad</strong>: La capacidad de convertir un objeto simple en un botón o un clip de película para añadirle código.</li>
+</ul>
+<p>¿Estás diseñando una actividad para que los estudiantes aprendan a animar objetos básicos o vas a pasar directamente a la creación de botones interactivos?</p>
+<div class="hint-container warning">
+<p class="hint-container-title"><strong>Tarea</strong></p>
+<p>Opción 1: Crea un diagrama a mano de los objetos disponibles en Wick editor.<br>
+Opción 2: Recrea y completa el proyecto de clase. Exportar a objeto interactivo (HTML) y enviar a través de este enlace: <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgDl_-trxmhIQ5as3gyDH4jWAfp2PPLaJ043ppNI-vcH7y4" target="_blank" rel="noopener noreferrer">https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgDl_-trxmhIQ5as3gyDH4jWAfp2PPLaJ043ppNI-vcH7y4</a></p>
+</div>
 </div></template>
 
 
