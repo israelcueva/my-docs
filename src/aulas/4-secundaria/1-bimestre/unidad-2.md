@@ -217,3 +217,16 @@ this.text = score.toString();
 
 4. Colocálo en el ROOM del nivel 1 (`RM_LVL_1`)
 
+## 1BS08: Manejo la UI de mi videojuego
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 27 al 30 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::streamline-flex-color:cat-2:: [CT.JS](https://ctjs.rocks/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Lista](https://www.youtube.com/watch?v=gJCGwp2uDCU&list=PLWGY0ivGwOKIiJ6KcgmPF3eqV_TlYB0XT)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1u-QYAtX2ifDre1PqLDUwn7RMOUXgSCwQ?usp=sharing)
+
+En ct.js, los Rooms (salas o habitaciones) no se limitan a ser simples niveles o escenarios de acción; también representan el enfoque principal y más eficiente para diseñar y gestionar la Interfaz de Usuario (UI). Al crear un Room dedicado exclusivamente a elementos interactivos como menús, paneles de inventario, pantallas de pausa o el HUD (Heads-Up Display), puedes superponerlo sobre tu escenario principal de manera independiente utilizando el sistema de anexos del motor. Esta arquitectura modular te permite separar limpiamente la lógica principal del juego de la interfaz, lo que facilita enormemente el diseño de pantallas escalables, la gestión de eventos de botones y el mantenimiento de tu proyecto sin saturar el entorno donde ocurre la acción principal.
+
+## 1BS09: Práctica Calificada & Revisión de folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** Semana 9<br>::fluent-color:laptop-48:: **Programa:** ::streamline-flex-color:cat-2:: [CT.JS](https://ctjs.rocks/)
+
+Para tu práctica se te pedirá que completes nuestro juego, versión del dinosario de Google. Muestra tu proyecto al profesor para su revisión.

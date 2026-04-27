@@ -46,7 +46,7 @@ El bloque de Columnas en Gutenberg representa un salto cualitativo en la forma d
 
 Replica todo lo hecho en clase, en tu sitio (creado por el profesor) o en el sitio que pudiste poner en marcha (La URL debes enviar al profesor) **No se aceptaran sitios web hechos con XAMPP**. Lo que se revisará será:
 
-1. Páginas
+**1. Páginas**
 
 - Principal: Una página donde des la Bienvenida al visitante.
 - Acerca de: Página donde hablarás de tus gustos e interéses.
@@ -57,7 +57,7 @@ Replica todo lo hecho en clase, en tu sitio (creado por el profesor) o en el sit
 - Blog: Dónde se mostrarán las entradas (un total de 5 con el tema de tu preferencia)
 - Contacto: Una página sencilla de contacto.
 
-2. Configuraciones
+**2. Configuraciones**
 
 - Nombres del sitio: "El blog de [tu nombre]".
 - Enlaces Permanentes: Estructura personalizada: `/%category%/%postname%/`.
@@ -65,11 +65,11 @@ Replica todo lo hecho en clase, en tu sitio (creado por el profesor) o en el sit
   - Página de Inicio: Principal.
   - Página de Entradas: Blog.
 
-3. Adiciones
+**3. Adiciones**
 
 - Tema: Astra.
 - Plugins: Spectra.
 
-4. Menú
+**4. Menú**
 
 - Un menú llamado `menu-principal` configurado correctamente y se vea al visitar el sitio web.
