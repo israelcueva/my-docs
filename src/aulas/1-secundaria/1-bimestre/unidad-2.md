@@ -59,4 +59,16 @@ Para poder encontra los recursos usados en clase, usa lo siguiente:
 - Earth png
 - Ligth png or flare png
 
+## 1BS08: Uso de filtros y de opciones de capa
 
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 27 al 30 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea color=#18A497:: [Photopea](https://www.photopea.com/)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://youtube.com/playlist?list=PLOuPFNSnWxurrTVHXXtyNvkZD9ZroHqDA)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1xQE1cxdSxjQYRbnzP0LhML1X9ZoCNs27?usp=sharing)
+
+Dominar los filtros y las opciones de capa en Photopea marcará un antes y un después en la calidad de tus diseños y fotografías. Por un lado, los filtros funcionan como herramientas de transformación rápida que te permiten aplicar desde correcciones sutiles, como enfoques o desenfoques, hasta efectos artísticos, texturas y distorsiones dramáticas que cambian por completo la atmósfera de tu lienzo. Por otro lado, las opciones y estilos de capa son el corazón de la edición avanzada y no destructiva; te otorgan el control absoluto para fusionar imágenes de manera natural, añadir sombras, biseles o resplandores sin alterar la fotografía original. Al combinar ambas funciones, abres un universo de posibilidades creativas que te permitirán llevar cualquier proyecto gráfico desde un concepto básico hasta un resultado visualmente impactante y profesional.
+
+## 1BS09: Práctica Calificada - Revisión de Folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** Semana 9<br>::fluent-color:laptop-48:: **Programa:** ::simple-icons:photopea color=#18A497:: [Photopea](https://www.photopea.com/)<br>
+
+En la carpeta de recursos busca el archivo `1SEC-1BS09.eps`, abrelo con photopea y pintalo completamente usando degradados. Será un plus el uso de texturas. Imprimelo y adjuntalo en tu folder para la revisión del profesor.

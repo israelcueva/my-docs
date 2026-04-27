@@ -32,3 +32,44 @@ Cosas a tomar en cuenta:
 
 El bloque Container en Spectra constituye la piedra angular del diseño web moderno dentro del editor de bloques de WordPress (Gutenberg). Basado en la tecnología de Flexbox, este elemento actúa como una estructura inteligente que permite agrupar, alinear y distribuir otros bloques con una precisión y flexibilidad sin precedentes. A diferencia de las columnas tradicionales, los contenedores ofrecen un control exhaustivo sobre el espaciado, la dirección del flujo de contenido y la adaptabilidad responsiva, permitiendo que los layouts se ajusten de forma fluida a cualquier tamaño de dispositivo sin necesidad de escribir código personalizado.
 
+## 1BS08 - Uso las columnas para estructuras contenido fácilmente
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 27 al 30 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::mdi:wordpress color=#0F88BD:: [Wordpress](https://pe.wordpress.org/) /  ::logos:xampp:: [Xampp](https://www.apachefriends.org/es/index.html)<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Replica lo hecho en clase en tu sitio.<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/watch?v=h8pulM6b0vk)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1PZFcDRsIkn81WQUMvHLm6P0vTOw9OX1F?usp=sharing) / [Tu sitio](https://colegio.cylea.pe/)
+
+El bloque de Columnas en Gutenberg representa un salto cualitativo en la forma de maquetar páginas y entradas dentro de WordPress, democratizando el diseño estructurado sin necesidad de tocar una sola línea de código. Lejos de las antiguas limitaciones del editor clásico, esta herramienta nativa te permite dividir tu espacio de trabajo en múltiples secciones verticales de manera completamente visual e intuitiva. Ya sea para alinear imágenes junto a párrafos explicativos, crear cuadrículas de servicios o estructurar comparativas de información, el uso de columnas te otorga la flexibilidad de construir composiciones dinámicas, atractivas y responsivas que se adaptan automáticamente a cualquier pantalla o dispositivo móvil.
+
+## 1BS09 - Práctica Calificada - Revisión de folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** Sábado 09 de Mayo
+
+Replica todo lo hecho en clase, en tu sitio (creado por el profesor) o en el sitio que pudiste poner en marcha (La URL debes enviar al profesor) **No se aceptaran sitios web hechos con XAMPP**. Lo que se revisará será:
+
+1. Páginas
+
+- Principal: Una página donde des la Bienvenida al visitante.
+- Acerca de: Página donde hablarás de tus gustos e interéses.
+- Páginas: Un página donde estarán todas las páginas creadas hasta el momento.
+  - Semana Santa.
+  - Día del autismo.
+  - Día de la tierra.
+- Blog: Dónde se mostrarán las entradas (un total de 5 con el tema de tu preferencia)
+- Contacto: Una página sencilla de contacto.
+
+2. Configuraciones
+
+- Nombres del sitio: "El blog de [tu nombre]".
+- Enlaces Permanentes: Estructura personalizada: `/%category%/%postname%/`.
+- Lectura: Una página estática.
+  - Página de Inicio: Principal.
+  - Página de Entradas: Blog.
+
+3. Adiciones
+
+- Tema: Astra.
+- Plugins: Spectra.
+
+4. Menú
+
+- Un menú llamado `menu-principal` configurado correctamente y se vea al visitar el sitio web.

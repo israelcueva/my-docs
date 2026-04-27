@@ -53,3 +53,25 @@ Por defecto, las líneas grises que ves en Excel son solo guías visuales; no se
 - **Bordes:** Te permite dibujar líneas sólidas alrededor de tus celdas. Puedes poner un borde grueso alrededor de toda la tabla y líneas delgadas en el interior para separar las filas.
 - **Color de relleno:** Pinta el fondo de la celda. Usar un gris claro o un color suave para los encabezados ayuda a separarlos visualmente de los datos.
 
+## 1BS07: Resuelvo problemas de porcentajes
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 20 al 24 de Abril<br>::fluent-color:laptop-48:: **Programa:**   ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Completa la ficha de la semana<br>::fluent-color:video-48:: **Videos:** No aplica<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1Cxa39NHMOhjPZjPGVxRwamKbuCXn9uo3?usp=sharing)
+
+Dominar el cálculo de porcentajes en Microsoft Excel es una habilidad esencial que te permite transformar datos numéricos en información clara y fácil de analizar. Ya sea que busques determinar el crecimiento de tus ventas, calcular el descuento de un producto o conocer la distribución de tu presupuesto, Excel automatiza y simplifica por completo este proceso. Al combinar fórmulas matemáticas básicas —como dividir la parte de un valor entre su total— con la herramienta de formato de porcentaje, la hoja de cálculo se encarga automáticamente de multiplicar por cien y añadir el símbolo (%), ahorrándote tiempo y garantizando la precisión en tus reportes diarios.
+
+## 1BS08: Elaboro gráficos para representar datos
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 27 al 30 de Abril <br>::fluent-color:laptop-48:: **Programa:**   ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** No aplica<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1Cxa39NHMOhjPZjPGVxRwamKbuCXn9uo3?usp=sharing)
+
+El uso de gráficos en Excel es la herramienta definitiva para transformar tablas llenas de números en historias visuales claras y atractivas. Al convertir los datos en representaciones visuales —como gráficos de columnas, líneas o circulares—, resulta mucho más sencillo identificar tendencias, comparar resultados y detectar patrones complejos de un solo vistazo. Excel ofrece una amplia galería de gráficos dinámicos y personalizables que se adaptan a cualquier tipo de información, permitiéndote resumir grandes volúmenes de datos en elementos visuales que facilitan la toma de decisiones y hacen que tus reportes o presentaciones sean mucho más profesionales y fáciles de comprender para cualquier audiencia.
+
+## 1BS09: Práctica Calificada & Revisión de Folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** Semana 9<br>::fluent-color:laptop-48:: **Programa:**   ::vscode-icons:file-type-excel:: Excel<br>::fluent-color:clipboard-text-edit-32::
+
+Busca el archivo `Analisis_Ventas_2024.xlsx` en Recursos. Descárgalo, completalo y súbelo a través de este enlace: 
+
+https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgBA5ISEnGPXQbh5euB7qKwxAYpI4IEmoOwRIUewPh1tTmY

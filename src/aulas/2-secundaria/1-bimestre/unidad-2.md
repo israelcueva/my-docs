@@ -79,3 +79,27 @@ Opción 1: Crea un diagrama a mano de los objetos disponibles en Wick editor.
 Opción 2: Recrea y completa el proyecto de clase. Exportar a objeto interactivo (HTML) y enviar a través de este enlace: https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgDl_-trxmhIQ5as3gyDH4jWAfp2PPLaJ043ppNI-vcH7y4
 :::
 
+## 1BS08: Uso de fotograma y clips para mi animación procedural
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** 27 al 30 de Abril<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/)<br> ::fluent-color:clipboard-text-edit-32:: **Tarea:** Sin tarea<br>::fluent-color:video-48:: **Videos:** [Video](https://www.youtube.com/@lucacodes)<br>::fluent-color:briefcase-48:: **Recursos:** [Recursos](https://drive.google.com/drive/folders/1zjAx1k7z2jL6VLARqNE_13w0q-kqJNDa?usp=sharing)
+
+La creación de animaciones procedurales en Wick Editor transforma por completo la manera en que damos vida a los proyectos digitales, pasando del laborioso dibujo fotograma a fotograma al diseño impulsado por código. Al aprovechar el entorno de programación basado en JavaScript de esta plataforma gratuita, puedes establecer reglas lógicas y matemáticas que controlen dinámicamente el movimiento, la rotación o el comportamiento de tus objetos en pantalla. Este enfoque no solo optimiza tu flujo de trabajo al automatizar animaciones complejas o repetitivas, sino que también te permite generar movimientos orgánicos, fluidos e interactivos que responden en tiempo real a las acciones del usuario, abriendo la puerta a una creatividad técnica casi ilimitada.
+
+## 1BS09: Práctica Calificada - Revisión de folder
+
+> [!important]
+> ::fluent-color:calendar-48:: **Fecha:** Semana 9<br>::fluent-color:laptop-48:: **Programa:** ::ph:ghost:: [Wick Editor](https://www.wickeditor.com/#/)<br>
+
+A la animación del jardin que hiciste la semana 5, añadéle los siguientes elementos:
+
+- Sol: Puede ser la animación de rotación o la de pulso (crecer/decrecer).
+- Nubes: Moviéndose a distintas velocidades.
+- Opcional (Reto): Hacer que las plantas se mueva como si fueran movidas por el viento.
+
+Una vez terminado, envía tu proyecto en formato GIF al enlace siguiente:
+
+https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgBbIFPEktsOSoLCIMSl_C6lARItfsRcG6rx28oly7fRWw0
+
+
+
