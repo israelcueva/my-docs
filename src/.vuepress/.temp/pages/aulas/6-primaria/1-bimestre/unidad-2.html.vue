@@ -34,6 +34,25 @@ Ajustar texto: Si escribes una frase larga y no cabe en el ancho de la celda, es
 <li><strong>Bordes:</strong> Te permite dibujar líneas sólidas alrededor de tus celdas. Puedes poner un borde grueso alrededor de toda la tabla y líneas delgadas en el interior para separar las filas.</li>
 <li><strong>Color de relleno:</strong> Pinta el fondo de la celda. Usar un gris claro o un color suave para los encabezados ayuda a separarlos visualmente de los datos.</li>
 </ul>
+<h2 id="_1bs07-resuelvo-problemas-de-porcentajes" tabindex="-1"><a class="header-anchor" href="#_1bs07-resuelvo-problemas-de-porcentajes"><span>1BS07: Resuelvo problemas de porcentajes</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 20 al 24 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong>   <VPIcon icon="vscode-icons:file-type-excel" /> Excel<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Completa la ficha de la semana<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> No aplica<br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1Cxa39NHMOhjPZjPGVxRwamKbuCXn9uo3?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>Dominar el cálculo de porcentajes en Microsoft Excel es una habilidad esencial que te permite transformar datos numéricos en información clara y fácil de analizar. Ya sea que busques determinar el crecimiento de tus ventas, calcular el descuento de un producto o conocer la distribución de tu presupuesto, Excel automatiza y simplifica por completo este proceso. Al combinar fórmulas matemáticas básicas —como dividir la parte de un valor entre su total— con la herramienta de formato de porcentaje, la hoja de cálculo se encarga automáticamente de multiplicar por cien y añadir el símbolo (%), ahorrándote tiempo y garantizando la precisión en tus reportes diarios.</p>
+<h2 id="_1bs08-elaboro-graficos-para-representar-datos" tabindex="-1"><a class="header-anchor" href="#_1bs08-elaboro-graficos-para-representar-datos"><span>1BS08: Elaboro gráficos para representar datos</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 27 al 30 de Abril <br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong>   <VPIcon icon="vscode-icons:file-type-excel" /> Excel<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> No aplica<br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1Cxa39NHMOhjPZjPGVxRwamKbuCXn9uo3?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>El uso de gráficos en Excel es la herramienta definitiva para transformar tablas llenas de números en historias visuales claras y atractivas. Al convertir los datos en representaciones visuales —como gráficos de columnas, líneas o circulares—, resulta mucho más sencillo identificar tendencias, comparar resultados y detectar patrones complejos de un solo vistazo. Excel ofrece una amplia galería de gráficos dinámicos y personalizables que se adaptan a cualquier tipo de información, permitiéndote resumir grandes volúmenes de datos en elementos visuales que facilitan la toma de decisiones y hacen que tus reportes o presentaciones sean mucho más profesionales y fáciles de comprender para cualquier audiencia.</p>
+<h2 id="_1bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_1bs09-practica-calificada-revision-de-folder"><span>1BS09: Práctica Calificada &amp; Revisión de Folder</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> Semana 9<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong>   <VPIcon icon="vscode-icons:file-type-excel" /> Excel<br><VPIcon icon="fluent-color:clipboard-text-edit-32" /></p>
+</div>
+<p>Busca el archivo <code v-pre>Analisis_Ventas_2024.xlsx</code> en Recursos. Descárgalo, completalo y súbelo a través de este enlace:</p>
+<p><a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgBA5ISEnGPXQbh5euB7qKwxAYpI4IEmoOwRIUewPh1tTmY" target="_blank" rel="noopener noreferrer">https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgBA5ISEnGPXQbh5euB7qKwxAYpI4IEmoOwRIUewPh1tTmY</a></p>
 </div></template>
 
 

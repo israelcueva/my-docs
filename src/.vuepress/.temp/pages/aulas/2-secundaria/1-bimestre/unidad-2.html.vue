@@ -53,6 +53,25 @@
 <p>Opción 1: Crea un diagrama a mano de los objetos disponibles en Wick editor.<br>
 Opción 2: Recrea y completa el proyecto de clase. Exportar a objeto interactivo (HTML) y enviar a través de este enlace: <a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgDl_-trxmhIQ5as3gyDH4jWAfp2PPLaJ043ppNI-vcH7y4" target="_blank" rel="noopener noreferrer">https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgDl_-trxmhIQ5as3gyDH4jWAfp2PPLaJ043ppNI-vcH7y4</a></p>
 </div>
+<h2 id="_1bs08-uso-de-fotograma-y-clips-para-mi-animacion-procedural" tabindex="-1"><a class="header-anchor" href="#_1bs08-uso-de-fotograma-y-clips-para-mi-animacion-procedural"><span>1BS08: Uso de fotograma y clips para mi animación procedural</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 27 al 30 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="ph:ghost" /> <a href="https://www.wickeditor.com/#/" target="_blank" rel="noopener noreferrer">Wick Editor</a><br> <VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/@lucacodes" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1zjAx1k7z2jL6VLARqNE_13w0q-kqJNDa?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>La creación de animaciones procedurales en Wick Editor transforma por completo la manera en que damos vida a los proyectos digitales, pasando del laborioso dibujo fotograma a fotograma al diseño impulsado por código. Al aprovechar el entorno de programación basado en JavaScript de esta plataforma gratuita, puedes establecer reglas lógicas y matemáticas que controlen dinámicamente el movimiento, la rotación o el comportamiento de tus objetos en pantalla. Este enfoque no solo optimiza tu flujo de trabajo al automatizar animaciones complejas o repetitivas, sino que también te permite generar movimientos orgánicos, fluidos e interactivos que responden en tiempo real a las acciones del usuario, abriendo la puerta a una creatividad técnica casi ilimitada.</p>
+<h2 id="_1bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_1bs09-practica-calificada-revision-de-folder"><span>1BS09: Práctica Calificada - Revisión de folder</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> Semana 9<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="ph:ghost" /> <a href="https://www.wickeditor.com/#/" target="_blank" rel="noopener noreferrer">Wick Editor</a><br></p>
+</div>
+<p>A la animación del jardin que hiciste la semana 5, añadéle los siguientes elementos:</p>
+<ul>
+<li>Sol: Puede ser la animación de rotación o la de pulso (crecer/decrecer).</li>
+<li>Nubes: Moviéndose a distintas velocidades.</li>
+<li>Opcional (Reto): Hacer que las plantas se mueva como si fueran movidas por el viento.</li>
+</ul>
+<p>Una vez terminado, envía tu proyecto en formato GIF al enlace siguiente:</p>
+<p><a href="https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgBbIFPEktsOSoLCIMSl_C6lARItfsRcG6rx28oly7fRWw0" target="_blank" rel="noopener noreferrer">https://mariareinista-my.sharepoint.com/:f:/g/personal/d119263_mrc_edu_pe/IgBbIFPEktsOSoLCIMSl_C6lARItfsRcG6rx28oly7fRWw0</a></p>
 </div></template>
 
 

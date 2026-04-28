@@ -20,7 +20,7 @@
 <div class="language-javascript line-numbers-mode" data-highlighter="shiki" data-ext="javascript" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code" v-pre=""><code class="language-javascript"><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">rooms</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">switch</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"RM_LEVEL_1"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div></template>
 </Tabs>
-<p><strong>2. RM_WELCOME</strong></p>
+<p><strong>2. RM_LEVEL_1</strong></p>
 <p>En este ROOM irá nuestro personaje principal y el cactus, la única diferencia es que añadiremos un evento aidicional:</p>
 <ol>
 <li>Nos vamos a <code v-pre>Add Event</code> y esocgemos el penúltimo: <VPIcon icon="iconoir:copy" /> Collission with a Template.</li>
@@ -152,7 +152,7 @@
 </Tabs>
 <p>2.3 Como se vio más arriba, hay una variable <code v-pre>score</code> que se debe agregar. Para ellos haz lo siguiente</p>
 <ul>
-<li>Opción1: Ir a <strong>proyecto</strong> -&gt; <strong>custom scripts</strong> -&gt; <strong>Add Script</strong> y escribir: <code v-pre>score=0;</code></li>
+<li>Opción1: Ir a <strong>proyecto</strong> -&gt; <strong>custom scripts</strong> -&gt; <strong>Add Script</strong> y escribir: <code v-pre>var score=0;</code></li>
 <li>Opción2: Ir a <strong>proyecto</strong> -&gt; <strong>Global Variables</strong> y crear una llamada <code v-pre>score</code>, de tipo Number y el valor en 0;</li>
 </ul>
 <p><strong>3. Añadiendo puntaje</strong></p>
@@ -171,6 +171,18 @@
 <ol start="4">
 <li>Colocálo en el ROOM del nivel 1 (<code v-pre>RM_LVL_1</code>)</li>
 </ol>
+<h2 id="_1bs08-manejo-la-ui-de-mi-videojuego" tabindex="-1"><a class="header-anchor" href="#_1bs08-manejo-la-ui-de-mi-videojuego"><span>1BS08: Manejo la UI de mi videojuego</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 27 al 30 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="streamline-flex-color:cat-2" /> <a href="https://ctjs.rocks/" target="_blank" rel="noopener noreferrer">CT.JS</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://www.youtube.com/watch?v=gJCGwp2uDCU&amp;list=PLWGY0ivGwOKIiJ6KcgmPF3eqV_TlYB0XT" target="_blank" rel="noopener noreferrer">Lista</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1u-QYAtX2ifDre1PqLDUwn7RMOUXgSCwQ?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>En ct.js, los Rooms (salas o habitaciones) no se limitan a ser simples niveles o escenarios de acción; también representan el enfoque principal y más eficiente para diseñar y gestionar la Interfaz de Usuario (UI). Al crear un Room dedicado exclusivamente a elementos interactivos como menús, paneles de inventario, pantallas de pausa o el HUD (Heads-Up Display), puedes superponerlo sobre tu escenario principal de manera independiente utilizando el sistema de anexos del motor. Esta arquitectura modular te permite separar limpiamente la lógica principal del juego de la interfaz, lo que facilita enormemente el diseño de pantallas escalables, la gestión de eventos de botones y el mantenimiento de tu proyecto sin saturar el entorno donde ocurre la acción principal.</p>
+<h2 id="_1bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_1bs09-practica-calificada-revision-de-folder"><span>1BS09: Práctica Calificada &amp; Revisión de folder</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> Semana 9<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="streamline-flex-color:cat-2" /> <a href="https://ctjs.rocks/" target="_blank" rel="noopener noreferrer">CT.JS</a></p>
+</div>
+<p>Para tu práctica se te pedirá que completes nuestro juego, versión del dinosario de Google. Muestra tu proyecto al profesor para su revisión.</p>
 </div></template>
 
 

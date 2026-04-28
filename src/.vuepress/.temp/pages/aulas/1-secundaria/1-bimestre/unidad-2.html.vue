@@ -44,6 +44,18 @@ Una vez que las imágenes están distribuidas, es necesario que interactúen vis
 <li>Earth png</li>
 <li>Ligth png or flare png</li>
 </ul>
+<h2 id="_1bs08-uso-de-filtros-y-de-opciones-de-capa" tabindex="-1"><a class="header-anchor" href="#_1bs08-uso-de-filtros-y-de-opciones-de-capa"><span>1BS08: Uso de filtros y de opciones de capa</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> 27 al 30 de Abril<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18A497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a><br><VPIcon icon="fluent-color:clipboard-text-edit-32" /> <strong>Tarea:</strong> Sin tarea<br><VPIcon icon="fluent-color:video-48" /> <strong>Videos:</strong> <a href="https://youtube.com/playlist?list=PLOuPFNSnWxurrTVHXXtyNvkZD9ZroHqDA" target="_blank" rel="noopener noreferrer">Video</a><br><VPIcon icon="fluent-color:briefcase-48" /> <strong>Recursos:</strong> <a href="https://drive.google.com/drive/folders/1xQE1cxdSxjQYRbnzP0LhML1X9ZoCNs27?usp=sharing" target="_blank" rel="noopener noreferrer">Recursos</a></p>
+</div>
+<p>Dominar los filtros y las opciones de capa en Photopea marcará un antes y un después en la calidad de tus diseños y fotografías. Por un lado, los filtros funcionan como herramientas de transformación rápida que te permiten aplicar desde correcciones sutiles, como enfoques o desenfoques, hasta efectos artísticos, texturas y distorsiones dramáticas que cambian por completo la atmósfera de tu lienzo. Por otro lado, las opciones y estilos de capa son el corazón de la edición avanzada y no destructiva; te otorgan el control absoluto para fusionar imágenes de manera natural, añadir sombras, biseles o resplandores sin alterar la fotografía original. Al combinar ambas funciones, abres un universo de posibilidades creativas que te permitirán llevar cualquier proyecto gráfico desde un concepto básico hasta un resultado visualmente impactante y profesional.</p>
+<h2 id="_1bs09-practica-calificada-revision-de-folder" tabindex="-1"><a class="header-anchor" href="#_1bs09-practica-calificada-revision-de-folder"><span>1BS09: Práctica Calificada - Revisión de Folder</span></a></h2>
+<div class="hint-container important">
+<p class="hint-container-title">Importante</p>
+<p><VPIcon icon="fluent-color:calendar-48" /> <strong>Fecha:</strong> Semana 9<br><VPIcon icon="fluent-color:laptop-48" /> <strong>Programa:</strong> <VPIcon icon="simple-icons:photopea" color="#18A497" /> <a href="https://www.photopea.com/" target="_blank" rel="noopener noreferrer">Photopea</a><br></p>
+</div>
+<p>En la carpeta de recursos busca el archivo <code v-pre>1SEC-1BS09.eps</code>, abrelo con photopea y pintalo completamente usando degradados. Será un plus el uso de texturas. Imprimelo y adjuntalo en tu folder para la revisión del profesor.</p>
 </div></template>
 
 

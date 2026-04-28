@@ -39,7 +39,7 @@ rooms.switch("RM_LEVEL_1");
 ```
 :::
 
-**2. RM_WELCOME**
+**2. RM_LEVEL_1**
 
 En este ROOM irá nuestro personaje principal y el cactus, la única diferencia es que añadiremos un evento aidicional:
 
@@ -197,7 +197,7 @@ if (rooms.current.nextCactus <= 0) {
 
 2.3 Como se vio más arriba, hay una variable `score` que se debe agregar. Para ellos haz lo siguiente
 
-- Opción1: Ir a **proyecto** -> **custom scripts** -> **Add Script** y escribir: `score=0;`
+- Opción1: Ir a **proyecto** -> **custom scripts** -> **Add Script** y escribir: `var score=0;`
 - Opción2: Ir a **proyecto** -> **Global Variables** y crear una llamada `score`, de tipo Number y el valor en 0;
 
 **3. Añadiendo puntaje**
