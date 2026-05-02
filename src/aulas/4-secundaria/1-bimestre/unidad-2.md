@@ -227,6 +227,6 @@ En ct.js, los Rooms (salas o habitaciones) no se limitan a ser simples niveles o
 ## 1BS09: Práctica Calificada & Revisión de folder
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** Semana 9<br>::fluent-color:laptop-48:: **Programa:** ::streamline-flex-color:cat-2:: [CT.JS](https://ctjs.rocks/)
+> ::fluent-color:calendar-48:: **Fecha:** Semana 9<br>::fluent-color:laptop-48:: **Programa:** ::streamline-flex-color:cat-2:: [CT.JS](https://ctjs.rocks/) <br>::fluent-color:video-48:: **Video:** [Video](https://youtu.be/anmCyvQ2tpE)
 
 Para tu práctica se te pedirá que completes nuestro juego, versión del dinosario de Google. Muestra tu proyecto al profesor para su revisión.

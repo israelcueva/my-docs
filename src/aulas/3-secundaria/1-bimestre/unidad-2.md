@@ -42,7 +42,7 @@ El bloque de Columnas en Gutenberg representa un salto cualitativo en la forma d
 ## 1BS09 - Práctica Calificada - Revisión de folder
 
 > [!important]
-> ::fluent-color:calendar-48:: **Fecha:** Sábado 09 de Mayo
+> ::fluent-color:calendar-48:: **Fecha:** Sábado 09 de Mayo<br>::fluent-color:video-48::  **Video:** [Video](https://youtu.be/EZa9OAzP7Jg)<br>
 
 Replica todo lo hecho en clase, en tu sitio (creado por el profesor) o en el sitio que pudiste poner en marcha (La URL debes enviar al profesor) **No se aceptaran sitios web hechos con XAMPP**. Lo que se revisará será:
 
@@ -72,4 +72,4 @@ Replica todo lo hecho en clase, en tu sitio (creado por el profesor) o en el sit
 
 **4. Menú**
 
-- Un menú llamado `menu-principal` configurado correctamente y se vea al visitar el sitio web.
+- Un menú llamado `menu-principal` configurado correctamente, activandole el `primary menu` para que se vea al visitar el sitio web.
